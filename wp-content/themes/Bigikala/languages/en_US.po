@@ -1,0 +1,4613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bigikala\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-09 18:16+0000\n"
+"PO-Revision-Date: 2020-08-09 18:16+0000\n"
+"Last-Translator: بیگی کالا\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.1; wp-5.4.2"
+
+#: index.php:35 archive.php:54 inc/str/shortcodes.php:100
+#: inc/str/shortcodes.php:216
+msgid " Past"
+msgstr ""
+
+#: index.php:45 archive.php:65 search.php:45
+msgid "Perv Page"
+msgstr ""
+
+#: index.php:45 archive.php:66 search.php:46
+msgid "Next Page"
+msgstr ""
+
+#: index.php:53 archive.php:76
+msgid "There is no posts."
+msgstr ""
+
+#: footer.php:15
+msgid "Back to Top"
+msgstr ""
+
+#: footer.php:135 footer-checkout.php:16
+#: inc/woocommerce/single-functions.php:1562
+#: woocommerce/myaccount/my-address.php:120
+#: woocommerce/myaccount/dashboard.php:60
+msgid "Email: "
+msgstr ""
+
+#: footer.php:141 footer-checkout.php:22
+msgid "Phone: "
+msgstr ""
+
+#: footer.php:223
+msgid "Less"
+msgstr ""
+
+#: footer.php:223
+msgid "More"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search &hellip;"
+msgstr ""
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:12
+msgid "You can choose your category from top menu or"
+msgstr ""
+
+#: 404.php:13
+msgid " Home Page "
+msgstr ""
+
+#: 404.php:14
+msgid "go to"
+msgstr ""
+
+#: header-checkout.php:74 header-checkout.php:116 header.php:239 header.php:281
+msgid "Login To Site"
+msgstr ""
+
+#: header-checkout.php:85 header.php:250
+msgid "Username"
+msgstr ""
+
+#: header-checkout.php:87 header.php:252
+msgid "Enter your email or mobile number"
+msgstr ""
+
+#: header-checkout.php:93 header.php:258
+msgid "Password"
+msgstr ""
+
+#: header-checkout.php:94 header.php:259
+msgid "Lost your password?"
+msgstr ""
+
+#: header-checkout.php:96 header.php:261
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:155
+msgid "Enter your password"
+msgstr ""
+
+#: header-checkout.php:104 header.php:269
+msgid "Remember me"
+msgstr ""
+
+#: header-checkout.php:127 header.php:292
+msgid "You Are Not Register Before?"
+msgstr ""
+
+#: header-checkout.php:128 header.php:293
+msgid "Register To Site"
+msgstr ""
+
+#: single.php:49
+msgid "Tags: "
+msgstr ""
+
+#: comments.php:14
+msgid "Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "Reply"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:77
+msgid "Cart"
+msgstr ""
+
+#: header.php:100
+msgid "Login/Sign up"
+msgstr ""
+
+#: header.php:118 header.php:122 woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:126
+#: woocommerce/checkout/login-required.php:10
+#: woocommerce/checkout/login-required.php:13
+msgid "Login"
+msgstr ""
+
+#: header.php:125
+msgid "New user?"
+msgstr ""
+
+#: header.php:126 woocommerce/myaccount/form-login.php:27
+msgid "Register"
+msgstr ""
+
+#: header.php:129
+msgid "Profile"
+msgstr ""
+
+#: header.php:132
+msgid "Track Order"
+msgstr ""
+
+#: header.php:136 woocommerce/cart/cart-empty.php:44
+msgid "My Wishlist"
+msgstr ""
+
+#: header.php:141
+msgid "Exit"
+msgstr ""
+
+#: header.php:198 header.php:205 woocommerce/archive-product.php:28
+#: woocommerce/cart/cart-empty.php:43
+msgid "Special Offers"
+msgstr ""
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:31
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:32
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:34
+msgid "Uber Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:43
+msgid "Add widgets here to appear in blog pages sidebar."
+msgstr ""
+
+#: functions.php:50
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:52
+msgid "Add widgets here to appear in shop sidebar."
+msgstr ""
+
+#: functions.php:58
+msgid "Subscribe Column One"
+msgstr ""
+
+#: functions.php:60
+msgid "Add widgets here to appear in subscribe section one."
+msgstr ""
+
+#: functions.php:67
+msgid "Subscribe Column Two"
+msgstr ""
+
+#: functions.php:69 functions.php:77
+msgid "Add widgets here to appear in subscribe section two."
+msgstr ""
+
+#: functions.php:75
+msgid "Subscribe Column Three"
+msgstr ""
+
+#: functions.php:141 functions.php:162
+msgid "Compare more than 4 products not allowed."
+msgstr ""
+
+#: functions.php:142 functions.php:163
+msgid "This product exist in list."
+msgstr ""
+
+#: functions.php:143
+msgid "Close"
+msgstr ""
+
+#: functions.php:144
+msgid "Close -"
+msgstr ""
+
+#: functions.php:145
+msgid "Read more"
+msgstr ""
+
+#: functions.php:146 woocommerce/single-product/templates/boxed.php:51
+#: woocommerce/single-product/templates/bigi.php:163
+#: woocommerce/single-product/add-to-cart/variable.php:89
+msgid "More items +"
+msgstr ""
+
+#: functions.php:147
+msgid "Product Added to cart!"
+msgstr ""
+
+#: functions.php:148
+msgid "View less"
+msgstr ""
+
+#: functions.php:220
+msgid "Register version"
+msgstr ""
+
+#: functions.php:234
+msgid "License Management"
+msgstr ""
+
+#: functions.php:255 functions.php:300
+msgid "Unexpected Error! The query returned with an error."
+msgstr ""
+
+#: functions.php:269
+msgid "Your license successfully actived. have fun..."
+msgstr ""
+
+#: functions.php:276 functions.php:321
+msgid "Sorry! An error happened: "
+msgstr ""
+
+#: functions.php:314
+msgid "Your license successfully deactived."
+msgstr ""
+
+#: functions.php:329
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+
+#: functions.php:331
+msgid ""
+"Your license activated. For release license click on \"Remove license\" "
+"button."
+msgstr ""
+
+#: functions.php:336
+msgid "License Key"
+msgstr ""
+
+#: functions.php:341
+msgid "Activate license"
+msgstr ""
+
+#: functions.php:342
+msgid "Remove license"
+msgstr ""
+
+#: functions.php:352
+msgid "Please activate Bigikala with your license key to all features work."
+msgstr ""
+
+#: functions.php:353
+msgid "Go to license page"
+msgstr ""
+
+#: functions.php:414
+msgid ""
+"جهت فعالسازی کامل قالب بیگی کالا، وارد پیشخوان وردپرس خود شده و قالب را به "
+"توسط لاینسس دریافتی خود  در قسمت سفارش ها فعال نمایید. این پیام فقط به "
+"مدیریت سایت و نویسندگان آن نمایش داده می شود. کاربران می توانند سایت را به "
+"درستی مشاهده و سفارشات خود را ثبت کنند.\n"
+"        محل دریافت لاینسس : https://buy.iprocode.com/my-account/orders"
+msgstr ""
+
+#: archive.php:67 search.php:47
+msgid "Page"
+msgstr ""
+
+#. Name of the template
+#: template-homepage-v3.php:5
+msgid "Home page template"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:20 inc/str/breadcrumbs.php:179
+msgid "Author: "
+msgstr ""
+
+#: search.php:33
+msgid "Read More "
+msgstr ""
+
+#: search.php:56
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the template
+msgid "Products list"
+msgstr ""
+
+#: products-list.php:82
+#, php-format
+msgid "%s products list"
+msgstr ""
+
+#: products-list.php:87 inc/init.php:2031 inc/woocommerce/product-meta.php:236
+#: inc/woocommerce/product-meta.php:246 inc/woocommerce/comments.php:52
+#: inc/woocommerce/comments.php:61 inc/woocommerce/comments.php:559
+#: inc/woocommerce/comments.php:569 inc/woocommerce/comments.php:576
+#: inc/woocommerce/comments.php:586 inc/woocommerce/comments.php:598
+#: inc/woocommerce/comments.php:608 inc/woocommerce/dokan.php:37
+#: inc/woocommerce/dokan.php:52 inc/str/vc_map.php:16 inc/str/vc_map.php:63
+#: inc/str/vc_map.php:173 inc/str/vc_map.php:243 inc/str/vc_map.php:764
+#: inc/widgets/form.php:7
+msgid "Title"
+msgstr ""
+
+#: products-list.php:90 inc/init.php:2037
+msgid "Image"
+msgstr ""
+
+#: products-list.php:93
+msgid "Price "
+msgstr ""
+
+#: products-list.php:96
+msgid "Sale price "
+msgstr ""
+
+#: products-list.php:141 inc/str/shortcodes.php:233
+#: classes/wounder/wounder.php:658
+msgid "« prev"
+msgstr ""
+
+#: products-list.php:142 inc/str/shortcodes.php:234
+#: classes/wounder/wounder.php:659
+msgid "next »"
+msgstr ""
+
+#: footer-checkout.php:26
+msgid ""
+"It is possible to use the gift card or discount code on the payment page."
+msgstr ""
+
+#: inc/init.php:50 inc/init.php:51
+msgid "Theme Options"
+msgstr ""
+
+#: inc/init.php:170 inc/init.php:188 inc/init.php:945 inc/init.php:2125
+msgid "General"
+msgstr ""
+
+#: inc/init.php:179
+msgid "Attention"
+msgstr ""
+
+#: inc/init.php:180
+msgid ""
+"To access all features of <b>Bigikala theme</b>, please enable your license."
+msgstr ""
+
+#: inc/init.php:193
+msgid "Global settings"
+msgstr ""
+
+#: inc/init.php:201
+msgid "Your Logo"
+msgstr ""
+
+#: inc/init.php:203
+msgid "Choose your logo to show on header"
+msgstr ""
+
+#: inc/init.php:208
+msgid "Your Logo For Mobile Menu"
+msgstr ""
+
+#: inc/init.php:210
+msgid "Choose your logo to show on mobile menu area."
+msgstr ""
+
+#: inc/init.php:215
+msgid "Your Favicon"
+msgstr ""
+
+#: inc/init.php:217
+msgid "Choose your favicon to show on browser."
+msgstr ""
+
+#: inc/init.php:220
+msgid "Performance"
+msgstr ""
+
+#: inc/init.php:223 inc/init.php:232 inc/init.php:240 inc/init.php:248
+#: inc/init.php:257 inc/init.php:267 inc/init.php:423 inc/init.php:452
+#: inc/init.php:481 inc/init.php:510 inc/init.php:539 inc/init.php:673
+#: inc/init.php:827 inc/init.php:955 inc/init.php:964 inc/init.php:973
+#: inc/init.php:982 inc/init.php:991 inc/init.php:1000 inc/init.php:1020
+#: inc/init.php:1118
+msgid "Enabled"
+msgstr ""
+
+#: inc/init.php:224 inc/init.php:233 inc/init.php:241 inc/init.php:249
+#: inc/init.php:258 inc/init.php:268 inc/init.php:424 inc/init.php:453
+#: inc/init.php:482 inc/init.php:511 inc/init.php:540 inc/init.php:674
+#: inc/init.php:828 inc/init.php:956 inc/init.php:965 inc/init.php:974
+#: inc/init.php:983 inc/init.php:992 inc/init.php:1001 inc/init.php:1021
+#: inc/init.php:1119
+msgid "Disabled"
+msgstr ""
+
+#: inc/init.php:225
+msgid "Incrase site performance."
+msgstr ""
+
+#: inc/init.php:229
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/init.php:237
+msgid "LTR style"
+msgstr ""
+
+#: inc/init.php:245
+msgid "Pop-up login"
+msgstr ""
+
+#: inc/init.php:251
+msgid "Show login form in pop-up instead of woocommerce login page."
+msgstr ""
+
+#: inc/init.php:254
+msgid "Digits Pop-up"
+msgstr ""
+
+#: inc/init.php:260
+msgid "Use digits popup for login."
+msgstr ""
+
+#: inc/init.php:264
+msgid "Night mode"
+msgstr ""
+
+#: inc/init.php:270
+msgid "Show night mode button in header."
+msgstr ""
+
+#: inc/init.php:275
+msgid "Default night mode"
+msgstr ""
+
+#: inc/init.php:277
+msgid "Night"
+msgstr ""
+
+#: inc/init.php:278
+msgid "Day"
+msgstr ""
+
+#: inc/init.php:285
+msgid "Your night mode Logo"
+msgstr ""
+
+#: inc/init.php:287
+msgid "Choose your logo to show on header in night mode"
+msgstr ""
+
+#: inc/init.php:293
+msgid "Your Logo For Mobile Menu in night mode"
+msgstr ""
+
+#: inc/init.php:295
+msgid "Choose your logo to show on mobile menu area in night mode."
+msgstr ""
+
+#: inc/init.php:301
+#, php-format
+msgid ""
+"For use swatch for all products click below button.<br><b>Important:</b> "
+"This option clear all other swatch settings for all products<br><a "
+"class=\"btn btn-torob btn-update-products\" href=\"%1s\">Update all "
+"products<a>"
+msgstr ""
+
+#: inc/init.php:307
+msgid "General Colors"
+msgstr ""
+
+#: inc/init.php:315
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/init.php:316
+msgid "Pick a background color for the body (default: #f5f5f5)."
+msgstr ""
+
+#: inc/init.php:323
+msgid "Background Image"
+msgstr ""
+
+#: inc/init.php:325
+msgid "Choose your image to show on body background"
+msgstr ""
+
+#: inc/init.php:330
+msgid "Accent color #1"
+msgstr ""
+
+#: inc/init.php:335
+msgid "Accent color #2"
+msgstr ""
+
+#: inc/init.php:340
+msgid "Mobile Colors"
+msgstr ""
+
+#: inc/init.php:348
+msgid "Mobile Address Bar Color"
+msgstr ""
+
+#: inc/init.php:349
+msgid "Pick a background color for the body (default: #ef3743)."
+msgstr ""
+
+#: inc/init.php:356
+msgid "Mobile Accent color #1"
+msgstr ""
+
+#: inc/init.php:361
+msgid "Mobile Accent color #2"
+msgstr ""
+
+#: inc/init.php:366
+msgid "Mobile Right Panel Color"
+msgstr ""
+
+#: inc/init.php:367
+msgid "Pick a background color (default: #ef3743)."
+msgstr ""
+
+#: inc/init.php:374
+msgid "Mobile Menu Color"
+msgstr ""
+
+#: inc/init.php:375
+msgid "Pick a background color (default: #fff)."
+msgstr ""
+
+#: inc/init.php:382
+msgid "Mobile Submenu Color"
+msgstr ""
+
+#: inc/init.php:383
+msgid "Pick a background color (default: #ededed)."
+msgstr ""
+
+#: inc/init.php:390
+msgid "Mobile Icon Color"
+msgstr ""
+
+#: inc/init.php:391
+msgid "Pick a background color (default: #8b8c8f)."
+msgstr ""
+
+#: inc/init.php:398
+msgid "Mobile Count Background"
+msgstr ""
+
+#: inc/init.php:399
+msgid "Pick a background color (default: ef394e)."
+msgstr ""
+
+#: inc/init.php:406
+msgid "Mobile account Background"
+msgstr ""
+
+#: inc/init.php:407
+msgid "Pick a background color (default: #64d979)."
+msgstr ""
+
+#: inc/init.php:415
+msgid "SVG Icons"
+msgstr ""
+
+#: inc/init.php:420
+msgid "Enabale express shipping icon"
+msgstr ""
+
+#: inc/init.php:430
+msgid "Express Shipping Title"
+msgstr ""
+
+#: inc/init.php:431
+msgid "Express Shipping"
+msgstr ""
+
+#: inc/init.php:437
+msgid "Express icon image"
+msgstr ""
+
+#: inc/init.php:444
+msgid "Select Express Shipping Page"
+msgstr ""
+
+#: inc/init.php:445
+msgid "Select page that has Express Shipping template."
+msgstr ""
+
+#: inc/init.php:449
+msgid "Enabale 24Hours Support icon"
+msgstr ""
+
+#: inc/init.php:459
+msgid "24Hours Suppor Title"
+msgstr ""
+
+#: inc/init.php:460
+msgid "24Hours Suppor"
+msgstr ""
+
+#: inc/init.php:466
+msgid "24Hours Suppor icon image"
+msgstr ""
+
+#: inc/init.php:473
+msgid "Select Support Page"
+msgstr ""
+
+#: inc/init.php:474
+msgid "Select page that has Support template."
+msgstr ""
+
+#: inc/init.php:478
+msgid "Enabale Payment at the place icon"
+msgstr ""
+
+#: inc/init.php:488
+msgid "Payment at the place Title"
+msgstr ""
+
+#: inc/init.php:489
+msgid "Payment at the place"
+msgstr ""
+
+#: inc/init.php:495
+msgid "Payment at the place icon image"
+msgstr ""
+
+#: inc/init.php:502
+msgid "Select Payment at the place Page"
+msgstr ""
+
+#: inc/init.php:503
+msgid "Select page that has Payment at the place template."
+msgstr ""
+
+#: inc/init.php:507
+msgid "Enabale money Back guarantee icon"
+msgstr ""
+
+#: inc/init.php:517
+msgid "Money back guarantee Title"
+msgstr ""
+
+#: inc/init.php:518
+msgid "7 dayes money back guarantee"
+msgstr ""
+
+#: inc/init.php:524
+msgid "Money back guarantee icon image"
+msgstr ""
+
+#: inc/init.php:531
+msgid "Select 7 days money back guarantee Page"
+msgstr ""
+
+#: inc/init.php:532
+msgid "Select page that has 7 days money back guarantee template."
+msgstr ""
+
+#: inc/init.php:536
+msgid "Enabale Guarantee of Origin icon"
+msgstr ""
+
+#: inc/init.php:546
+msgid "Guarantee of Origin Title"
+msgstr ""
+
+#: inc/init.php:547
+msgid "Guarantee of Origin products"
+msgstr ""
+
+#: inc/init.php:553
+msgid "Guarantee of Origin icon image"
+msgstr ""
+
+#: inc/init.php:560
+msgid "Select Guarantee of Origin Page"
+msgstr ""
+
+#: inc/init.php:561
+msgid "Select page that has Guarantee of Origin template."
+msgstr ""
+
+#: inc/init.php:568
+msgid "Offer Slider"
+msgstr ""
+
+#: inc/init.php:578
+msgid "Wonder category"
+msgstr ""
+
+#: inc/init.php:579
+msgid "Select wonder peoducts category."
+msgstr ""
+
+#: inc/init.php:584
+msgid "Show wounder offer on product page"
+msgstr ""
+
+#: inc/init.php:591
+msgid "Show product after sold out"
+msgstr ""
+
+#: inc/init.php:597
+msgid "Countdown Title"
+msgstr ""
+
+#: inc/init.php:598
+msgid "Opportunity left to this offer"
+msgstr ""
+
+#: inc/init.php:603
+msgid "Outofstock Image"
+msgstr ""
+
+#: inc/init.php:609
+msgid "Amazing icon image"
+msgstr ""
+
+#: inc/init.php:615
+msgid "sliders"
+msgstr ""
+
+#: inc/init.php:622
+msgid "Homepage Slides"
+msgstr ""
+
+#: inc/init.php:623 inc/init.php:648
+msgid "Add your desired images to show on homepage slider."
+msgstr ""
+
+#: inc/init.php:625 inc/init.php:650
+msgid "Slide Title"
+msgstr ""
+
+#: inc/init.php:626 inc/init.php:651
+msgid "This Field Does not work"
+msgstr ""
+
+#: inc/init.php:627 inc/init.php:652
+msgid "Slide Link"
+msgstr ""
+
+#: inc/init.php:633
+msgid "Slider height"
+msgstr ""
+
+#: inc/init.php:635
+msgid "Your image height for slider in desktop"
+msgstr ""
+
+#: inc/init.php:640
+msgid "Slider width"
+msgstr ""
+
+#: inc/init.php:642
+msgid "Your image width for slider in desktop"
+msgstr ""
+
+#: inc/init.php:647
+msgid "Homepage Mobile Slides"
+msgstr ""
+
+#: inc/init.php:658
+msgid "Mobile Slider height"
+msgstr ""
+
+#: inc/init.php:660
+msgid "Your image height for slider in mobile"
+msgstr ""
+
+#: inc/init.php:665
+msgid "Mobile Slider width"
+msgstr ""
+
+#: inc/init.php:667
+msgid "Your image width for slider in mobile"
+msgstr ""
+
+#: inc/init.php:670
+msgid "Modern Slider"
+msgstr ""
+
+#: inc/init.php:682
+msgid "adsense"
+msgstr ""
+
+#: inc/init.php:690
+msgid "Enable top bar"
+msgstr ""
+
+#: inc/init.php:691
+msgid "Enable top bar for display custom offers"
+msgstr ""
+
+#: inc/init.php:693 inc/init.php:758 inc/init.php:860 inc/init.php:869
+#: inc/init.php:893 inc/init.php:902 inc/init.php:910 inc/init.php:1068
+#: inc/init.php:1091 inc/init.php:1100 inc/init.php:1150 inc/init.php:1159
+#: inc/init.php:1168 inc/init.php:1178 inc/init.php:1187 inc/init.php:1197
+#: inc/init.php:1206 inc/init.php:1216 inc/init.php:1225 inc/init.php:1235
+#: inc/init.php:1244 inc/init.php:1253 inc/init.php:1263 inc/init.php:1272
+#: inc/init.php:1282 inc/init.php:1291 inc/init.php:1301 inc/init.php:1310
+#: inc/init.php:1320 inc/init.php:1329 inc/init.php:1339 inc/init.php:1348
+#: inc/init.php:1358 inc/init.php:1367 inc/init.php:1377 inc/init.php:1412
+#: inc/init.php:1421 inc/init.php:1430 inc/init.php:1438 inc/init.php:1446
+#: inc/init.php:1454 inc/init.php:1473 inc/init.php:1482 inc/init.php:1491
+#: inc/init.php:1500 inc/init.php:1509 inc/init.php:1518 inc/init.php:1527
+#: inc/init.php:1550 inc/init.php:1559 inc/init.php:1568 inc/init.php:1598
+#: inc/init.php:1654 inc/init.php:1672 inc/init.php:1681 inc/init.php:1691
+#: inc/init.php:1701 inc/init.php:1754 inc/init.php:1793 inc/init.php:1824
+#: inc/init.php:1833 inc/init.php:1903 inc/init.php:1925 inc/init.php:1993
+#: inc/init.php:2025 inc/init.php:2160 inc/init.php:2169 inc/init.php:2178
+#: inc/init.php:2187 inc/init.php:2196 inc/str/vc_map.php:439
+#: inc/str/vc_map.php:567
+msgid "Enable"
+msgstr ""
+
+#: inc/init.php:694 inc/init.php:759 inc/init.php:861 inc/init.php:870
+#: inc/init.php:894 inc/init.php:903 inc/init.php:911 inc/init.php:1069
+#: inc/init.php:1092 inc/init.php:1101 inc/init.php:1151 inc/init.php:1160
+#: inc/init.php:1169 inc/init.php:1179 inc/init.php:1188 inc/init.php:1198
+#: inc/init.php:1207 inc/init.php:1217 inc/init.php:1226 inc/init.php:1236
+#: inc/init.php:1245 inc/init.php:1254 inc/init.php:1264 inc/init.php:1273
+#: inc/init.php:1283 inc/init.php:1292 inc/init.php:1302 inc/init.php:1311
+#: inc/init.php:1321 inc/init.php:1330 inc/init.php:1340 inc/init.php:1349
+#: inc/init.php:1359 inc/init.php:1368 inc/init.php:1378 inc/init.php:1413
+#: inc/init.php:1422 inc/init.php:1431 inc/init.php:1439 inc/init.php:1447
+#: inc/init.php:1455 inc/init.php:1474 inc/init.php:1483 inc/init.php:1492
+#: inc/init.php:1501 inc/init.php:1510 inc/init.php:1519 inc/init.php:1528
+#: inc/init.php:1551 inc/init.php:1560 inc/init.php:1569 inc/init.php:1599
+#: inc/init.php:1655 inc/init.php:1673 inc/init.php:1682 inc/init.php:1692
+#: inc/init.php:1702 inc/init.php:1755 inc/init.php:1794 inc/init.php:1825
+#: inc/init.php:1834 inc/init.php:1904 inc/init.php:1926 inc/init.php:1994
+#: inc/init.php:2026 inc/init.php:2161 inc/init.php:2170 inc/init.php:2179
+#: inc/init.php:2188 inc/init.php:2197
+msgid "Disable"
+msgstr ""
+
+#: inc/init.php:699 inc/init.php:764
+msgid "Top Bar Type"
+msgstr ""
+
+#: inc/init.php:700 inc/init.php:765
+msgid "Select type of top bar."
+msgstr ""
+
+#: inc/init.php:702 inc/init.php:767
+msgid "Background and text"
+msgstr ""
+
+#: inc/init.php:703 inc/init.php:768
+msgid "Use Image"
+msgstr ""
+
+#: inc/init.php:711 inc/init.php:776
+msgid "Background Color"
+msgstr ""
+
+#: inc/init.php:712 inc/init.php:777
+msgid "Pick a background color for the top bar (default: #000)."
+msgstr ""
+
+#: inc/init.php:720 inc/init.php:785
+msgid "Text Color"
+msgstr ""
+
+#: inc/init.php:721 inc/init.php:786
+msgid "Pick a color for the top bar text (default: #FFF)."
+msgstr ""
+
+#: inc/init.php:729 inc/init.php:794
+msgid "Your Text"
+msgstr ""
+
+#: inc/init.php:739 inc/init.php:804
+msgid "Your image"
+msgstr ""
+
+#: inc/init.php:741 inc/init.php:806
+msgid "Choose your image to show on top bar"
+msgstr ""
+
+#: inc/init.php:747 inc/init.php:812
+msgid "Top Bar Link"
+msgstr ""
+
+#: inc/init.php:748 inc/init.php:813
+msgid "Insert your link for top bar"
+msgstr ""
+
+#: inc/init.php:755
+msgid "Enable mobile top bar"
+msgstr ""
+
+#: inc/init.php:756
+msgid "Enable mobile top bar for display custom offers"
+msgstr ""
+
+#: inc/init.php:819
+msgid "Header"
+msgstr ""
+
+#: inc/init.php:824
+msgid "Enable Sticky header (Menu Fixed with Page Scroll)"
+msgstr ""
+
+#: inc/init.php:832
+msgid "Menu type"
+msgstr ""
+
+#: inc/init.php:833
+msgid "Choose menu type."
+msgstr ""
+
+#: inc/init.php:837
+msgid "Type 1"
+msgstr ""
+
+#: inc/init.php:838
+msgid "Type 2"
+msgstr ""
+
+#: inc/init.php:839
+msgid "Type 3"
+msgstr ""
+
+#: inc/init.php:846
+msgid "Menu layout"
+msgstr ""
+
+#: inc/init.php:847
+msgid "Select menu layout."
+msgstr ""
+
+#: inc/init.php:849
+msgid "4 Level"
+msgstr ""
+
+#: inc/init.php:850
+msgid "3 Level"
+msgstr ""
+
+#: inc/init.php:857
+msgid "Dispaly cart box"
+msgstr ""
+
+#: inc/init.php:858
+msgid "Dispaly cart box in header or not"
+msgstr ""
+
+#: inc/init.php:866
+msgid "Dispaly search box"
+msgstr ""
+
+#: inc/init.php:867
+msgid "Dispaly search box in header or not"
+msgstr ""
+
+#: inc/init.php:876
+msgid "Select Wishlist Page"
+msgstr ""
+
+#: inc/init.php:877
+msgid "Select page that includes [yith_wcwl_wishlist] shortcode."
+msgstr ""
+
+#: inc/init.php:878
+msgid "YITH WooCommerce Wishlist plugin should be active."
+msgstr ""
+
+#: inc/init.php:884
+msgid "Select Order Tracking Page"
+msgstr ""
+
+#: inc/init.php:885
+msgid "Select page that includes [woocommerce_order_tracking] shortcode."
+msgstr ""
+
+#: inc/init.php:890
+msgid "Dispaly Offers Menu"
+msgstr ""
+
+#: inc/init.php:891
+msgid "Dispaly special offers link in main menu."
+msgstr ""
+
+#: inc/init.php:899
+msgid "Using Different Menu On Mobile Theme"
+msgstr ""
+
+#: inc/init.php:900
+msgid ""
+"If enable this option, menu mobile location add to nav and you can choose "
+"different menu."
+msgstr ""
+
+#: inc/init.php:908
+msgid "Add a FAQ link in header"
+msgstr ""
+
+#: inc/init.php:916
+msgid "Header Info Bar FAQ Text"
+msgstr ""
+
+#: inc/init.php:917
+msgid "Insert your header info bar faq text"
+msgstr ""
+
+#: inc/init.php:918
+msgid "Have A Question?"
+msgstr ""
+
+#: inc/init.php:925 inc/init.php:1879
+msgid "Select FAQ Page"
+msgstr ""
+
+#: inc/init.php:926 inc/init.php:1880
+msgid "Select page that has FAQs."
+msgstr ""
+
+#: inc/init.php:934
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/init.php:939
+msgid "Shop"
+msgstr ""
+
+#: inc/init.php:951
+msgid "Referer"
+msgstr ""
+
+#: inc/init.php:952
+msgid "Redirect customerts to referer page after login & register."
+msgstr ""
+
+#: inc/init.php:960
+msgid "Password strength"
+msgstr ""
+
+#: inc/init.php:961
+msgid "Disable password strength is registration form."
+msgstr ""
+
+#: inc/init.php:969
+msgid "Ajax Mode"
+msgstr ""
+
+#: inc/init.php:970
+msgid "Enable / Disable the Ajax Mode."
+msgstr ""
+
+#: inc/init.php:978
+msgid "Dropdown quantity"
+msgstr ""
+
+#: inc/init.php:979
+msgid "Enable / Disable dropdown quantity."
+msgstr ""
+
+#: inc/init.php:987
+msgid "New tab"
+msgstr ""
+
+#: inc/init.php:988 inc/init.php:997
+msgid "Open products in new tab."
+msgstr ""
+
+#: inc/init.php:996
+msgid "New tab in carousels"
+msgstr ""
+
+#: inc/init.php:1007
+msgid "Products layout"
+msgstr ""
+
+#: inc/init.php:1008
+msgid "Select Products layout in archive page."
+msgstr ""
+
+#: inc/init.php:1010
+msgid "Grid"
+msgstr ""
+
+#: inc/init.php:1011
+msgid "Listing"
+msgstr ""
+
+#: inc/init.php:1016
+msgid "Catalog Mode"
+msgstr ""
+
+#: inc/init.php:1017
+msgid "Enable / Disable the Catalog Mode."
+msgstr ""
+
+#: inc/init.php:1025
+msgid "Products count"
+msgstr ""
+
+#: inc/init.php:1026
+msgid "Number of products that show in shop page"
+msgstr ""
+
+#: inc/init.php:1030
+msgid "12 Items"
+msgstr ""
+
+#: inc/init.php:1031
+msgid "24 Items"
+msgstr ""
+
+#: inc/init.php:1032
+msgid "48 Items"
+msgstr ""
+
+#: inc/init.php:1033
+msgid "60 Items"
+msgstr ""
+
+#: inc/init.php:1038
+msgid "Brand Attribute"
+msgstr ""
+
+#: inc/init.php:1039
+msgid "Choose a product attribute that will be used as brands"
+msgstr ""
+
+#: inc/init.php:1040
+msgid ""
+"Once you choose a brand attribute, you will be able to add brand images to "
+"the attributes"
+msgstr ""
+
+#: inc/init.php:1048
+msgid "Brands"
+msgstr ""
+
+#: inc/init.php:1049
+msgid "Add your desired images to show on brand widget."
+msgstr ""
+
+#: inc/init.php:1051
+msgid "Brand Title"
+msgstr ""
+
+#: inc/init.php:1052
+msgid "Brand Link"
+msgstr ""
+
+#: inc/init.php:1058
+msgid "Product Placeholder"
+msgstr ""
+
+#: inc/init.php:1060
+msgid "Choose your images to show for products that has no images."
+msgstr ""
+
+#: inc/init.php:1063
+msgid "Show last price change"
+msgstr ""
+
+#: inc/init.php:1064
+msgid "Show last price change and modified date in loop"
+msgstr ""
+
+#: inc/init.php:1075
+msgid "Cart & Shipping"
+msgstr ""
+
+#: inc/init.php:1083
+msgid "Register page features"
+msgstr ""
+
+#: inc/init.php:1088
+msgid "Display Add To Cart Button"
+msgstr ""
+
+#: inc/init.php:1089
+msgid "Display add to cart button on shop loop and category page."
+msgstr ""
+
+#: inc/init.php:1097
+msgid "Enable minimal checkout header"
+msgstr ""
+
+#: inc/init.php:1098
+msgid "Enable or disable minimal checkout header in checkout page."
+msgstr ""
+
+#: inc/init.php:1106
+msgid "Cart count"
+msgstr ""
+
+#: inc/init.php:1107
+msgid "Select cart count method."
+msgstr ""
+
+#: inc/init.php:1109
+msgid "cart rows"
+msgstr ""
+
+#: inc/init.php:1110
+msgid "cart items"
+msgstr ""
+
+#: inc/init.php:1115
+msgid "show Map"
+msgstr ""
+
+#: inc/init.php:1125
+msgid "Choose your map type"
+msgstr ""
+
+#: inc/init.php:1127
+msgid "Google"
+msgstr ""
+
+#: inc/init.php:1128
+msgid "Parsimap"
+msgstr ""
+
+#: inc/init.php:1136
+msgid "Google Map API"
+msgstr ""
+
+#: inc/init.php:1137
+msgid "Insert your google map api"
+msgstr ""
+
+#: inc/init.php:1143
+msgid "Default shipping time"
+msgstr ""
+
+#: inc/init.php:1148
+msgid "Enable chipping other address"
+msgstr ""
+
+#: inc/init.php:1156
+msgid "Enable name in checkout"
+msgstr ""
+
+#: inc/init.php:1157
+msgid "Enable or disable name field in checkout page."
+msgstr ""
+
+#: inc/init.php:1165
+msgid "Name required"
+msgstr ""
+
+#: inc/init.php:1166
+msgid "If you want required name in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1175
+msgid "Enable last name in checkout"
+msgstr ""
+
+#: inc/init.php:1176
+msgid "Enable or disable last name field in checkout page."
+msgstr ""
+
+#: inc/init.php:1184
+msgid "Last Name required"
+msgstr ""
+
+#: inc/init.php:1185
+msgid "If you want required last name in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1194
+msgid "Enable email in checkout"
+msgstr ""
+
+#: inc/init.php:1195
+msgid "Enable or disable email field in checkout page."
+msgstr ""
+
+#: inc/init.php:1203
+msgid "Email required"
+msgstr ""
+
+#: inc/init.php:1204
+msgid "If you want required email in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1213
+msgid "Enable phone in checkout"
+msgstr ""
+
+#: inc/init.php:1214
+msgid "Enable or disable phone field in checkout page."
+msgstr ""
+
+#: inc/init.php:1222
+msgid "Phone required"
+msgstr ""
+
+#: inc/init.php:1223
+msgid "If you want required phone in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1232
+msgid "Enable phone validate in checkout"
+msgstr ""
+
+#: inc/init.php:1233
+msgid ""
+"Enable or disable phone validate in checkout page. if you use digits in "
+"checkout page, disable this option"
+msgstr ""
+
+#: inc/init.php:1241
+msgid "Enable country in checkout"
+msgstr ""
+
+#: inc/init.php:1242
+msgid "Enable or disable country field in checkout page."
+msgstr ""
+
+#: inc/init.php:1250
+msgid "Country required"
+msgstr ""
+
+#: inc/init.php:1251
+msgid "If you want required country in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1260
+msgid "Enable state in checkout"
+msgstr ""
+
+#: inc/init.php:1261
+msgid "Enable or disable state field in checkout page."
+msgstr ""
+
+#: inc/init.php:1269
+msgid "State required"
+msgstr ""
+
+#: inc/init.php:1270
+msgid "If you want required state in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1279
+msgid "Enable city in checkout"
+msgstr ""
+
+#: inc/init.php:1280
+msgid "Enable or disable city field in checkout page."
+msgstr ""
+
+#: inc/init.php:1288
+msgid "City required"
+msgstr ""
+
+#: inc/init.php:1289
+msgid "If you want required city in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1298
+msgid "Enable address in checkout"
+msgstr ""
+
+#: inc/init.php:1299
+msgid "Enable or disable address field in checkout page."
+msgstr ""
+
+#: inc/init.php:1307
+msgid "Address required"
+msgstr ""
+
+#: inc/init.php:1308
+msgid "If you want required address in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1317
+msgid "Enable post-code in checkout"
+msgstr ""
+
+#: inc/init.php:1318
+msgid "Enable or disable post-code field in checkout page."
+msgstr ""
+
+#: inc/init.php:1326
+msgid "Post-code required"
+msgstr ""
+
+#: inc/init.php:1327
+msgid "If you want required post-code in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1336
+msgid "Enable national code in checkout"
+msgstr ""
+
+#: inc/init.php:1337
+msgid "Enable or disable national code field in checkout page."
+msgstr ""
+
+#: inc/init.php:1345
+msgid "National code required"
+msgstr ""
+
+#: inc/init.php:1346
+msgid "If you want required national code in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1355
+msgid "Enable bank card in checkout"
+msgstr ""
+
+#: inc/init.php:1356
+msgid "Enable or disable bank card field in checkout page."
+msgstr ""
+
+#: inc/init.php:1364
+msgid "Bank card required"
+msgstr ""
+
+#: inc/init.php:1365
+msgid "If you want required bank card in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1374
+msgid "Enable customer notes in checkout"
+msgstr ""
+
+#: inc/init.php:1375
+msgid "Enable or disable customer notes section in checkout page."
+msgstr ""
+
+#: inc/init.php:1387
+msgid "Product Page"
+msgstr ""
+
+#: inc/init.php:1393
+msgid "Color Attribute"
+msgstr ""
+
+#: inc/init.php:1394
+msgid "Choose a product attribute that will be used as color"
+msgstr ""
+
+#: inc/init.php:1400
+msgid "Warranty Attribute"
+msgstr ""
+
+#: inc/init.php:1401
+msgid "Choose a product attribute that will be used as warranty"
+msgstr ""
+
+#: inc/init.php:1409
+msgid "Out of stock price"
+msgstr ""
+
+#: inc/init.php:1410
+msgid "Dont show product price if its out of stock"
+msgstr ""
+
+#: inc/init.php:1418
+msgid "low stock notice"
+msgstr ""
+
+#: inc/init.php:1419
+msgid "Show notice if stock quantity is low"
+msgstr ""
+
+#: inc/init.php:1427
+msgid "Pop-up description"
+msgstr ""
+
+#: inc/init.php:1428
+msgid "Show product description as a pop-up in mobile theme"
+msgstr ""
+
+#: inc/init.php:1436
+msgid "Enable zoom for thumbnails"
+msgstr ""
+
+#: inc/init.php:1444
+msgid "Enable response for products"
+msgstr ""
+
+#: inc/init.php:1452
+msgid "Enable price vote for products"
+msgstr ""
+
+#: inc/init.php:1460
+msgid "Choose single product style"
+msgstr ""
+
+#: inc/init.php:1462 inc/init.php:1711 inc/init.php:2138
+msgid "Bigikala"
+msgstr ""
+
+#: inc/init.php:1463
+msgid "Boxed"
+msgstr ""
+
+#: inc/init.php:1470
+msgid "Dispaly Product Price Changes"
+msgstr ""
+
+#: inc/init.php:1471
+msgid "Dispaly product price changes on product page"
+msgstr ""
+
+#: inc/init.php:1477
+msgid "Show price changes tab"
+msgstr ""
+
+#: inc/init.php:1478
+msgid "Show price changes in tab"
+msgstr ""
+
+#: inc/init.php:1488
+msgid "Enable Auto Product Price Changes"
+msgstr ""
+
+#: inc/init.php:1489
+msgid ""
+"Enable this option to record product price changes automatically. Disable if "
+"you want add price on product page."
+msgstr ""
+
+#: inc/init.php:1497
+msgid "Dispaly Product SKU"
+msgstr ""
+
+#: inc/init.php:1498
+msgid "Dispaly product SKU in product page"
+msgstr ""
+
+#: inc/init.php:1506
+msgid "Dispaly Product Category"
+msgstr ""
+
+#: inc/init.php:1507
+msgid "Dispaly product category in product page"
+msgstr ""
+
+#: inc/init.php:1515
+msgid "Dispaly Product Tag"
+msgstr ""
+
+#: inc/init.php:1516
+msgid "Dispaly product tag in product page"
+msgstr ""
+
+#: inc/init.php:1524
+msgid "Dispaly Product Share Section"
+msgstr ""
+
+#: inc/init.php:1525
+msgid "Dispaly product share section in product page"
+msgstr ""
+
+#: inc/init.php:1533
+msgid "Send To Friend Email Subject"
+msgstr ""
+
+#: inc/init.php:1534
+msgid "Insert your email subject sending on send to friend section."
+msgstr ""
+
+#: inc/init.php:1540
+msgid "Send To Friend Email Body"
+msgstr ""
+
+#: inc/init.php:1541
+msgid ""
+"Insert your message text for sending on send to friend section. Product link "
+"placed at the end of email."
+msgstr ""
+
+#: inc/init.php:1547
+msgid "Dispaly Related Products"
+msgstr ""
+
+#: inc/init.php:1548
+msgid "Dispaly related products on product page"
+msgstr ""
+
+#: inc/init.php:1556
+msgid "Related products type"
+msgstr ""
+
+#: inc/init.php:1557
+msgid "Show related product just from latest category"
+msgstr ""
+
+#: inc/init.php:1565
+msgid "Dispaly Product Short Description"
+msgstr ""
+
+#: inc/init.php:1566
+msgid "Dispaly product short description on product page"
+msgstr ""
+
+#: inc/init.php:1574
+msgid "Call"
+msgstr ""
+
+#: inc/init.php:1575
+msgid "Empty price label"
+msgstr ""
+
+#: inc/init.php:1580
+msgid "Free"
+msgstr ""
+
+#: inc/init.php:1581
+msgid "Free products label"
+msgstr ""
+
+#: inc/init.php:1588
+msgid "Comment template"
+msgstr ""
+
+#: inc/init.php:1596
+msgid "Enable new comment template"
+msgstr ""
+
+#: inc/init.php:1605
+msgid "Select comment Page"
+msgstr ""
+
+#: inc/init.php:1606
+msgid "Select page that has [bigi-comments] shortcode."
+msgstr ""
+
+#: inc/init.php:1612
+msgid "Comment note"
+msgstr ""
+
+#: inc/init.php:1613
+msgid "This text will show in comment tab content."
+msgstr ""
+
+#: inc/init.php:1619
+msgid "Comment page title "
+msgstr ""
+
+#: inc/init.php:1620
+msgid "This text will show in add new comment page as title."
+msgstr ""
+
+#: inc/init.php:1626
+msgid "Comment description"
+msgstr ""
+
+#: inc/init.php:1627
+msgid "This text will show in add new comment page."
+msgstr ""
+
+#: inc/init.php:1638
+msgid "Select comment rules Page"
+msgstr ""
+
+#: inc/init.php:1639
+msgid "Select page that has comment rules."
+msgstr ""
+
+#: inc/init.php:1645
+msgid "Default Comment rate titles"
+msgstr ""
+
+#: inc/init.php:1652
+msgid "Enable advantages & disadvantages for admin"
+msgstr ""
+
+#: inc/init.php:1661
+msgid "Notify"
+msgstr ""
+
+#: inc/init.php:1669
+msgid "Enable Notify Function"
+msgstr ""
+
+#: inc/init.php:1670
+msgid "Enable notify function on product page."
+msgstr ""
+
+#: inc/init.php:1678
+msgid "Enable Notify For Special Offer"
+msgstr ""
+
+#: inc/init.php:1679
+msgid "Enable notify for offers on product page."
+msgstr ""
+
+#: inc/init.php:1688
+msgid "Enable Notify For Stock"
+msgstr ""
+
+#: inc/init.php:1689
+msgid "Enable notify for stock on product page."
+msgstr ""
+
+#: inc/init.php:1698
+msgid "Enable Notify With Email"
+msgstr ""
+
+#: inc/init.php:1699
+msgid "Enable notify with email on product page."
+msgstr ""
+
+#: inc/init.php:1708
+msgid "Choose how will sms send"
+msgstr ""
+
+#: inc/init.php:1709
+msgid "You should set plugin settings (Products Newsletter)."
+msgstr ""
+
+#: inc/init.php:1712
+msgid "Woo sms plugin"
+msgstr ""
+
+#: inc/init.php:1719
+msgid "Notify Email Subject For Stock"
+msgstr ""
+
+#: inc/init.php:1720
+msgid "Insert subject of notify email for stock."
+msgstr ""
+
+#: inc/init.php:1725
+msgid "Notify Email Text For Stock"
+msgstr ""
+
+#: inc/init.php:1726
+msgid ""
+"Insert text of notify email for stock. You can use #product# for render "
+"product link in text."
+msgstr ""
+
+#: inc/init.php:1735
+msgid "Notify Email Subject For Special Offer"
+msgstr ""
+
+#: inc/init.php:1736
+msgid "Insert subject of notify email for special offer."
+msgstr ""
+
+#: inc/init.php:1741
+msgid "Notify Email Text For Special Offer"
+msgstr ""
+
+#: inc/init.php:1742
+msgid ""
+"Insert text of notify email for special offer. You can use #product# for "
+"render product link in text."
+msgstr ""
+
+#: inc/init.php:1751
+msgid "Enable Notify With SMS"
+msgstr ""
+
+#: inc/init.php:1752
+msgid ""
+"Enable notify with SMS on product page. Woocommerce SMS plugin should be "
+"activate."
+msgstr ""
+
+#: inc/init.php:1761
+msgid "Notify SMS Text For Stock"
+msgstr ""
+
+#: inc/init.php:1762
+msgid ""
+"Insert text of notify sms for stock. You can use #product# for render "
+"product link in text."
+msgstr ""
+
+#: inc/init.php:1767
+msgid "Notify SMS Text For Special Offer"
+msgstr ""
+
+#: inc/init.php:1768
+msgid ""
+"Insert text of notify sms for special offer. You can use #product# for "
+"render product link in text."
+msgstr ""
+
+#: inc/init.php:1774 woocommerce/content-product.php:58
+#: inc/woocommerce/compare.php:444 inc/woocommerce/compare.php:456
+#: woocommerce/single-product/product-image.php:104
+#: woocommerce/single-product/product-image.php:112
+msgid "Compare"
+msgstr ""
+
+#: inc/init.php:1783
+msgid "Select Compare Page"
+msgstr ""
+
+#: inc/init.php:1784
+msgid "Select page that has [popup-compare] shortcode."
+msgstr ""
+
+#: inc/init.php:1790
+msgid "Enable Bigikala Compare System"
+msgstr ""
+
+#: inc/init.php:1791
+msgid "Enable to use special compare system on bigikala theme."
+msgstr ""
+
+#: inc/init.php:1800
+msgid "Torob search engine"
+msgstr ""
+
+#: inc/init.php:1807
+msgid ""
+"Torob is a search engine shopping service with more than 5 million unique "
+"daily subscribers. Torob has an app with over 500,000 installations. Using "
+"torob, you can display your products to more customers. Torob is the best "
+"way to advertise and introduce your products to customers. The connection to "
+"the horn requires no technical skill from your side. Just click the button "
+"below and fill out the registration form on the Torob site. After that, the "
+"terms of cooperation will be emailed to you. If you agree to the terms of "
+"cooperation, access to the Torob panel will be sent to you. And after "
+"charging the Torob in 2 weeks, without the need to do anything from your "
+"side, your products will be added to Torob. Use the button below to link "
+"your site to the harvester<br><a class=\"btn btn-torob\" target=\"_blank\" "
+"href=\"http://torob.com/shop-register?"
+"utm_source=BigiKalacon&utm_medium=site&utm_campaign=Demo\">Start</a>"
+msgstr ""
+
+#: inc/init.php:1814
+msgid "Footer"
+msgstr ""
+
+#: inc/init.php:1821
+msgid "Enable Recently Viewed Products"
+msgstr ""
+
+#: inc/init.php:1822
+msgid "Enable Recently Viewed Products In Footer Area"
+msgstr ""
+
+#: inc/init.php:1830
+msgid "Enable footer info bar"
+msgstr ""
+
+#: inc/init.php:1831
+msgid "Enable footer info bar for display support info"
+msgstr ""
+
+#: inc/init.php:1839
+msgid "Footer Info Bar Background Color"
+msgstr ""
+
+#: inc/init.php:1840
+msgid "Pick a background color for the footer info bar (default: #d7dee0)."
+msgstr ""
+
+#: inc/init.php:1848
+msgid "Footer Info Bar Text Color"
+msgstr ""
+
+#: inc/init.php:1849
+msgid "Pick a color for the footer info bar text (default: #4a4a4a)."
+msgstr ""
+
+#: inc/init.php:1857
+msgid "Footer Info Bar Slogan"
+msgstr ""
+
+#: inc/init.php:1858
+msgid "Insert your footer info bar slogan"
+msgstr ""
+
+#: inc/init.php:1864
+msgid "Footer Info Bar Email Address"
+msgstr ""
+
+#: inc/init.php:1865
+msgid "Insert your footer info bar email address"
+msgstr ""
+
+#: inc/init.php:1871
+msgid "Footer Info Bar FAQ Text"
+msgstr ""
+
+#: inc/init.php:1872
+msgid "Insert your footer info bar faq text"
+msgstr ""
+
+#: inc/init.php:1885
+msgid "Footer Info Bar Phone Number"
+msgstr ""
+
+#: inc/init.php:1886
+msgid "Insert your footer info bar phone number"
+msgstr ""
+
+#: inc/init.php:1893
+msgid "Select Contact Page"
+msgstr ""
+
+#: inc/init.php:1894
+msgid "Select page that has contact information."
+msgstr ""
+
+#: inc/init.php:1900
+msgid "Enable footer Subscribe Bar"
+msgstr ""
+
+#: inc/init.php:1901
+msgid "Enable footer subscribe bar."
+msgstr ""
+
+#: inc/init.php:1909
+msgid "Footer Subscribe Form Title"
+msgstr ""
+
+#: inc/init.php:1910
+msgid "Insert your footer subscribe form title"
+msgstr ""
+
+#: inc/init.php:1915
+msgid "Footer Subscribe Form Shortcode"
+msgstr ""
+
+#: inc/init.php:1916
+msgid "Insert your footer subscribe form shortcode (use contact form 7 plugin)"
+msgstr ""
+
+#: inc/init.php:1922
+msgid "Enable footer Menu Bar"
+msgstr ""
+
+#: inc/init.php:1923
+msgid "Enable footer menu bar."
+msgstr ""
+
+#: inc/init.php:1933
+msgid "Select Column 1 Category"
+msgstr ""
+
+#: inc/init.php:1934 inc/init.php:1942 inc/init.php:1950 inc/init.php:1958
+#: inc/init.php:1966 inc/init.php:1974
+msgid "Select category to show childrens categories."
+msgstr ""
+
+#: inc/init.php:1941
+msgid "Select Column 2 Category"
+msgstr ""
+
+#: inc/init.php:1949
+msgid "Select Column 3 Category"
+msgstr ""
+
+#: inc/init.php:1957
+msgid "Select Column 4 Category"
+msgstr ""
+
+#: inc/init.php:1965
+msgid "Select Column 5 Category"
+msgstr ""
+
+#: inc/init.php:1973
+msgid "Select Column 6 Category"
+msgstr ""
+
+#: inc/init.php:1979
+msgid "CopyRight Text"
+msgstr ""
+
+#: inc/init.php:1980 inc/init.php:1986
+msgid "Insert your copyright text"
+msgstr ""
+
+#: inc/init.php:1985
+msgid "CopyRight Text Two"
+msgstr ""
+
+#: inc/init.php:1991
+msgid "Hide footer about section except homepage"
+msgstr ""
+
+#: inc/init.php:1999
+msgid "Enamad And Other Scripts"
+msgstr ""
+
+#: inc/init.php:2000
+msgid "Insert your Enamad or other scripts code"
+msgstr ""
+
+#: inc/init.php:2005
+msgid "Your Text About Website"
+msgstr ""
+
+#: inc/init.php:2014
+msgid "Your Text Or Enamad Code To Show On Mobile Footer"
+msgstr ""
+
+#: inc/init.php:2023
+msgid "Show fixed box in adoptive"
+msgstr ""
+
+#: inc/init.php:2043
+msgid "link"
+msgstr ""
+
+#: inc/init.php:2049
+msgid "Button text "
+msgstr ""
+
+#: inc/init.php:2056
+msgid "Social"
+msgstr ""
+
+#: inc/init.php:2063 woocommerce/single-product/product-image.php:194
+msgid "Facebook"
+msgstr ""
+
+#: inc/init.php:2064
+msgid "Insert your facebook link"
+msgstr ""
+
+#: inc/init.php:2069 woocommerce/single-product/product-image.php:197
+msgid "Twitter"
+msgstr ""
+
+#: inc/init.php:2070
+msgid "Insert your twitter link"
+msgstr ""
+
+#: inc/init.php:2075
+msgid "Google Plus"
+msgstr ""
+
+#: inc/init.php:2076
+msgid "Insert your googleplus link"
+msgstr ""
+
+#: inc/init.php:2081
+msgid "Instagram"
+msgstr ""
+
+#: inc/init.php:2082
+msgid "Insert your instagram link"
+msgstr ""
+
+#: inc/init.php:2087
+msgid "Aparat"
+msgstr ""
+
+#: inc/init.php:2088
+msgid "Insert your aparat link"
+msgstr ""
+
+#: inc/init.php:2093 woocommerce/single-product/product-image.php:203
+msgid "Telegram"
+msgstr ""
+
+#: inc/init.php:2094
+msgid "Insert your telegram link"
+msgstr ""
+
+#: inc/init.php:2100
+msgid "Ios App link"
+msgstr ""
+
+#: inc/init.php:2101
+msgid "Insert your appstore app link"
+msgstr ""
+
+#: inc/init.php:2106
+msgid "Android App"
+msgstr ""
+
+#: inc/init.php:2107
+msgid "Insert your cafebazar link"
+msgstr ""
+
+#: inc/init.php:2112
+msgid "Google play App"
+msgstr ""
+
+#: inc/init.php:2113
+msgid "Insert your googleplay link"
+msgstr ""
+
+#: inc/init.php:2119
+msgid "Bigikala miracle"
+msgstr ""
+
+#: inc/init.php:2126
+msgid "General Theme Style Settings"
+msgstr ""
+
+#: inc/init.php:2131
+msgid "Digikala, Amazon, Bamilo, Bigikala"
+msgstr ""
+
+#: inc/init.php:2132
+msgid "Chose your template"
+msgstr ""
+
+#: inc/init.php:2136
+msgid "Amazon"
+msgstr ""
+
+#: inc/init.php:2137
+msgid "Digikala"
+msgstr ""
+
+#: inc/init.php:2139
+msgid "Bigimod"
+msgstr ""
+
+#: inc/init.php:2140
+msgid "Newbigi"
+msgstr ""
+
+#: inc/init.php:2150
+msgid "Dokan"
+msgstr ""
+
+#: inc/init.php:2157
+msgid "Display Vendor Information"
+msgstr ""
+
+#: inc/init.php:2158
+msgid "Enable to show vendor information on single product page."
+msgstr ""
+
+#: inc/init.php:2166
+msgid "External products"
+msgstr ""
+
+#: inc/init.php:2167
+msgid "Allow vendors to create external products."
+msgstr ""
+
+#: inc/init.php:2175
+msgid "Display Vendor Name In Cart"
+msgstr ""
+
+#: inc/init.php:2176
+msgid "Enable to show vendor name on cart page for each product."
+msgstr ""
+
+#: inc/init.php:2184
+msgid "Display Product Features Section For Vendors"
+msgstr ""
+
+#: inc/init.php:2185
+msgid ""
+"Enable to show product main features section for vendors on submit products."
+msgstr ""
+
+#: inc/init.php:2193
+msgid "Display Customer Location On Map For Vendor"
+msgstr ""
+
+#: inc/init.php:2194
+msgid ""
+"Enable to show customer location on map for vendors on order details page."
+msgstr ""
+
+#: inc/init.php:2203
+msgid "Custom JS/CSS"
+msgstr ""
+
+#: inc/init.php:2210
+msgid "Custom JS"
+msgstr ""
+
+#: inc/init.php:2212
+msgid "Add some custom JavaScript to your theme by adding it to this textarea."
+msgstr ""
+
+#: inc/init.php:2218 inc/widgets/form.php:260
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/init.php:2219
+msgid "Add some custom CSS to your theme by adding it to this textarea."
+msgstr ""
+
+#: inc/init.php:2222
+msgid "Custom CSS for mobile"
+msgstr ""
+
+#: inc/init.php:2223
+msgid "Paste your custom CSS code for mobile here."
+msgstr ""
+
+#: inc/init.php:2232
+msgid "Tracking Code"
+msgstr ""
+
+#: inc/init.php:2233
+msgid "Paste Google Analytics (or other) tracking code here with script tag."
+msgstr ""
+
+#: inc/init.php:2238
+msgid "Google tags"
+msgstr ""
+
+#: inc/init.php:2239
+msgid "Put your codes here"
+msgstr ""
+
+#: woocommerce/archive-product.php:72 inc/woocommerce/archive-functions.php:87
+msgid "Display "
+msgstr ""
+
+#: woocommerce/archive-product.php:76 inc/woocommerce/archive-functions.php:91
+msgid " Product Of "
+msgstr ""
+
+#: woocommerce/content-product.php:85 woocommerce/content-product.php:145
+#: inc/woocommerce/compare.php:91
+msgid "From "
+msgstr ""
+
+#: woocommerce/content-product.php:85 woocommerce/content-single-product.php:89
+#: inc/woocommerce/compare.php:95
+msgid " Rate"
+msgstr ""
+
+#: woocommerce/content-product.php:95 woocommerce/single-product/related.php:95
+#: woocommerce/single-product/related.php:157
+#: woocommerce/single-product/price.php:33
+#: inc/str/templates/multicat_product_slider.php:42
+#: inc/str/templates/ajax_vc_products.php:26
+#: inc/str/templates/product_slider.php:44
+msgid "Coming soon"
+msgstr ""
+
+#: woocommerce/content-product.php:118 woocommerce/content-product.php:120
+#: inc/woocommerce/single-functions.php:828
+#: inc/woocommerce/single-functions.php:830
+msgid "Update: "
+msgstr ""
+
+#: woocommerce/content-product.php:130
+msgid "Out Of Stock "
+msgstr ""
+
+#: woocommerce/content-product.php:145
+msgid " Vote"
+msgstr ""
+
+#: woocommerce/content-product.php:152
+#: inc/woocommerce/single-functions.php:1003
+#: inc/woocommerce/single-functions.php:1188 woocommerce/cart/cart.php:86
+#: woocommerce/single-product/templates/boxed.php:112
+#: woocommerce/single-product/templates/bigi.php:77
+msgid "Sell By"
+msgstr ""
+
+#: woocommerce/content-product.php:161
+#: woocommerce/single-product/templates/boxed.php:43
+#: woocommerce/single-product/templates/bigi.php:155
+#: woocommerce/single-product/add-to-cart/variable.php:81
+msgid "Product Features"
+msgstr ""
+
+#: woocommerce/content-single-product.php:80
+#, php-format
+msgid "More than %s buyes recommend this product"
+msgstr ""
+
+#: woocommerce/content-single-product.php:89
+msgid "Out Of "
+msgstr ""
+
+#: woocommerce/content-single-product.php:111
+#: woocommerce/content-single-product.php:118
+#: woocommerce/content-single-product.php:124
+#: woocommerce/content-single-product.php:131
+#: woocommerce/content-single-product.php:138
+msgid "facility"
+msgstr ""
+
+#: inc/woocommerce/compare.php:101
+msgid "View and buy product"
+msgstr ""
+
+#: inc/woocommerce/compare.php:156
+msgid "Click here for adding product to compare list"
+msgstr ""
+
+#: inc/woocommerce/compare.php:161
+msgid "Add product to Comapre"
+msgstr ""
+
+#: inc/woocommerce/compare.php:172 inc/woocommerce/single-functions.php:404
+msgid "Search"
+msgstr ""
+
+#: inc/woocommerce/compare.php:176
+msgid "All brands"
+msgstr ""
+
+#: inc/woocommerce/compare.php:275
+#: woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr ""
+
+#: inc/woocommerce/compare.php:293
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Dimensions"
+msgstr ""
+
+#: inc/woocommerce/compare.php:432
+msgid "There is no product to compare!"
+msgstr ""
+
+#: inc/woocommerce/compare.php:446
+msgid "Item"
+msgstr ""
+
+#: inc/woocommerce/compare.php:458
+msgid "Item )"
+msgstr ""
+
+#: inc/woocommerce/compare.php:460
+msgid "Remove All"
+msgstr ""
+
+#: inc/woocommerce/compare.php:523
+msgid "No product found!"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:28 inc/woocommerce/woocommerce.php:30
+#: inc/woocommerce/woocommerce.php:202 classes/wounder/wounder.php:256
+#: classes/wounder/wounder.php:277 classes/wounder/wounder.php:301
+#: classes/wounder/wounder.php:520 classes/wounder/wounder.php:560
+#: classes/wounder/inc/special-offers-items.php:16
+msgid "Discount"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:240
+msgid "Up tp"
+msgstr " "
+
+#: inc/woocommerce/woocommerce.php:363
+msgid "Quantity: "
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:437 inc/woocommerce/woocommerce.php:461
+msgid "Special sale"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:454 inc/woocommerce/woocommerce.php:478
+msgid "Discount finished"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:673
+msgid " items remain in stock"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:700
+msgid "Order points"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:701
+msgid "Point"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77 inc/woocommerce/comments.php:318
+#: woocommerce/single-product/tabs/description.php:50
+msgid "Very bad"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77 inc/woocommerce/comments.php:321
+#: woocommerce/single-product/tabs/description.php:53
+msgid "Bad"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:67
+#: inc/woocommerce/comment_template.php:77
+#: inc/woocommerce/comment_template.php:83 inc/woocommerce/comments.php:324
+#: inc/woocommerce/comments.php:335 inc/woocommerce/comments.php:366
+#: woocommerce/single-product/tabs/description.php:56
+msgid "Mediocre"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77 inc/woocommerce/comments.php:327
+#: woocommerce/single-product/tabs/description.php:59
+msgid "Good"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77
+msgid "Very Good"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:94
+msgid "Submit comment"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:106
+#, php-format
+msgid ""
+"By choosing the \"Submit comment\" button, I agree to the <a href=\"%s\">"
+"content publishing rules</a> on the %s."
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:113
+msgid "Cancel and return"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:125
+msgid "You dont allow to access this page"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:34
+msgid "Do you have a better price? "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:39
+#: inc/woocommerce/single-functions.php:43
+#: inc/woocommerce/single-functions.php:48
+#: inc/woocommerce/single-functions.php:53
+#: inc/woocommerce/single-functions.php:252
+#: inc/woocommerce/single-functions.php:258
+#: inc/woocommerce/single-functions.php:1507
+#: inc/woocommerce/single-functions.php:1533
+#: inc/woocommerce/checkout-functions.php:634
+msgid "Yes"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:41
+#: inc/woocommerce/single-functions.php:45
+#: inc/woocommerce/single-functions.php:50
+#: inc/woocommerce/single-functions.php:55
+#: inc/woocommerce/single-functions.php:252
+#: inc/woocommerce/single-functions.php:258
+#: inc/woocommerce/single-functions.php:1509
+#: inc/woocommerce/single-functions.php:1535
+#: inc/woocommerce/checkout-functions.php:634
+msgid "No"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:69
+msgid "Report better price of this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:78
+msgid "At what price have you seen this product? "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:79
+msgid "like 35000"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:82
+msgid "I have seen it online"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:87
+#: inc/woocommerce/single-functions.php:219
+msgid "Shop url"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:92
+#: inc/woocommerce/single-functions.php:222
+msgid "Shop name"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:96
+msgid "Shop location"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:98
+msgid "Select state"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:104
+#: inc/woocommerce/single-functions.php:342
+msgid "Submit feedback"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:139
+msgid "Please Enter a valid price!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:153
+#: inc/woocommerce/single-functions.php:168
+#: inc/woocommerce/single-functions.php:183
+msgid "Thanks, Your feedback submited"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:155
+msgid "Please provide a valid shop url!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:170
+msgid "Please fill all fields!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:190
+msgid "Price feedback"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:203
+msgid "Variable id"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:207
+msgid "Intial price"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:210
+msgid "Appropriate?"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:213
+msgid "Better price"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:216
+msgid "Online shop?"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:225
+msgid "Shop state"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:274
+msgid "There is no price feedback for this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:283
+#: inc/woocommerce/single-functions.php:285
+#: inc/woocommerce/single-functions.php:288
+#: inc/woocommerce/single-functions.php:291
+#: inc/woocommerce/single-functions.php:304
+msgid "Response about this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:313
+msgid "Product title is wrong"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:317
+msgid "Product images are not appropriate"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:321
+msgid "Technical specifications are wrong"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:325
+msgid "Product description is wrong"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:329
+msgid "The product is a duplicate"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:334
+msgid "duplicated product url in "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:338
+#: inc/woocommerce/single-functions.php:339 woocommerce/order/tracking.php:50
+#: woocommerce/myaccount/view-order.php:44
+msgid "Description"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:368
+msgid "Please check at laste on of items. click here and try again!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:384
+msgid "Your feedback submited!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:386
+msgid "Please click here and try again!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:396
+msgid "responses"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:397
+msgid "response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:398
+#: inc/woocommerce/single-functions.php:400
+msgid "Add response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:399
+msgid "All responses"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:401
+msgid "Edit response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:402
+msgid "New response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:405
+msgid "No response found"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:406
+msgid "No response found in trash"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:407
+msgid "Parent"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:443
+msgctxt "post status label"
+msgid "Resolved"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:445
+#, php-format
+msgid "Resolved <span class=\"count\">(%s)</span>"
+msgid_plural "Resolved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/single-functions.php:457
+msgid "Feedbacks"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:469
+#: inc/woocommerce/single-functions.php:524
+msgid "Product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:474
+msgid "Edit product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:480
+#: inc/woocommerce/single-functions.php:525
+msgid "Mistakes"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:487
+#: inc/woocommerce/single-functions.php:549
+msgid "Title, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:490
+#: inc/woocommerce/single-functions.php:552
+msgid "Images, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:493
+#: inc/woocommerce/single-functions.php:555
+msgid "Technical specifications, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:496
+#: inc/woocommerce/single-functions.php:558
+msgid "Description, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:499
+#: inc/woocommerce/single-functions.php:561
+msgid "Duplicated"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:509
+msgid "Duplicated product url"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:592
+msgid "Brand:"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:599
+msgid "Alborz"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:600
+msgid "Ardebil"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:601
+msgid "Azarbijan sharghi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:602
+msgid "Azarbijan gharbi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:603
+msgid "Boshehr"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:604
+msgid "Charmahal bakhtiary"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:605
+msgid "Fars"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:606
+msgid "Gilan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:607
+msgid "Golestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:608
+msgid "Hamedan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:609
+msgid "Hormozgan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:610
+msgid "Ilam"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:611
+msgid "Esfehan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:612
+msgid "Kerman"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:613
+msgid "Kermanshah"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:614
+msgid "Khorasan shomali"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:615
+msgid "Khorasan razavi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:616
+msgid "Khorasan jonobi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:617
+msgid "Khozestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:618
+msgid "Kohkiloye boyerahmad"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:619
+msgid "Kordestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:620
+msgid "Lorestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:621
+msgid "Markazi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:622
+msgid "Mazandaran"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:623
+msgid "Ghazvin"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:624
+msgid "Qom"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:625
+msgid "Semnan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:626
+msgid "Sistan balochestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:627
+msgid "Tehran"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:628
+msgid "Yazd"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:629
+msgid "Zanjan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:643
+#: inc/woocommerce/single-functions.php:2038
+msgid "Overall Review"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:647
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Specification"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:651
+msgid "Users Reviews"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:670
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:734
+msgid "Price changes"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:767
+#: inc/woocommerce/single-functions.php:1378
+#: inc/woocommerce/product-meta.php:313
+msgid " - Regular Price"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:774
+#: inc/woocommerce/single-functions.php:1399
+#: inc/woocommerce/product-meta.php:333
+msgid " - Sale Price"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:784
+#: inc/woocommerce/product-meta.php:293 inc/woocommerce/product-meta.php:306
+#: inc/woocommerce/product-meta.php:321 inc/woocommerce/product-meta.php:331
+#: inc/woocommerce/product-meta.php:341 inc/woocommerce/product-meta.php:351
+#: inc/str/vc_map.php:64 woocommerce/order/tracking.php:51
+#: woocommerce/myaccount/view-order.php:45
+msgid "Date"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:785
+msgid "Price in end of day"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:968
+#: woocommerce/single-product/templates/boxed.php:78
+#: woocommerce/single-product/templates/bigi.php:44
+msgid "1 work day"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:971
+#: woocommerce/single-product/templates/boxed.php:81
+#: woocommerce/single-product/templates/bigi.php:47
+msgid "1 to 2 work day"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:974
+#: woocommerce/single-product/templates/boxed.php:84
+#: woocommerce/single-product/templates/bigi.php:50
+msgid "1 to 3 work day"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:977
+#: woocommerce/single-product/templates/boxed.php:87
+#: woocommerce/single-product/templates/bigi.php:53
+msgid "3 to 5 work day"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:980
+#: woocommerce/single-product/templates/boxed.php:90
+#: woocommerce/single-product/templates/bigi.php:56
+msgid "1 to 2 work week"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:983
+#: woocommerce/single-product/templates/boxed.php:93
+#: woocommerce/single-product/templates/bigi.php:59
+msgid "2 to 3 work week"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:986
+#: woocommerce/single-product/templates/boxed.php:96
+#: woocommerce/single-product/templates/bigi.php:62
+msgid "3 to 4 work week"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:989
+#: woocommerce/single-product/templates/boxed.php:99
+#: woocommerce/single-product/templates/bigi.php:65
+msgid "4 to 6 work week"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:992
+#: woocommerce/single-product/templates/boxed.php:102
+#: woocommerce/single-product/templates/bigi.php:68
+msgid "6 to 8 work week"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1007
+#: inc/woocommerce/single-functions.php:1022
+#: woocommerce/single-product/templates/boxed.php:116
+#: woocommerce/single-product/templates/boxed.php:131
+msgid "Performance: "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1007
+#: inc/woocommerce/single-functions.php:1022
+#: woocommerce/single-product/templates/boxed.php:116
+#: woocommerce/single-product/templates/boxed.php:131
+msgid " from 5"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1010
+#: inc/woocommerce/single-functions.php:1059
+#: woocommerce/single-product/templates/boxed.php:119
+#: woocommerce/single-product/templates/boxed.php:168
+msgid " Product satisfaction"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1016
+#: inc/woocommerce/single-functions.php:1142
+#: inc/woocommerce/single-functions.php:1154
+#: woocommerce/single-product/templates/boxed.php:125
+#: woocommerce/single-product/templates/boxed.php:249
+#: woocommerce/single-product/templates/boxed.php:261
+msgid "Return"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1027
+#: woocommerce/single-product/templates/boxed.php:136
+msgid "Timely supply"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1033
+#: woocommerce/single-product/templates/boxed.php:142
+msgid "Posting commitment"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1039
+#: woocommerce/single-product/templates/boxed.php:148
+msgid "No return"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1063
+#: woocommerce/single-product/templates/boxed.php:172
+msgid "Full Satisfy"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1075
+#: woocommerce/single-product/templates/boxed.php:184
+msgid "Satisfy"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1085
+#: woocommerce/single-product/templates/boxed.php:194
+msgid "No Idea"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1095
+#: woocommerce/single-product/templates/boxed.php:204
+msgid "Not Satisfy"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1105
+#: woocommerce/single-product/templates/boxed.php:214
+msgid "Full Not Satisfy"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1137
+#: inc/woocommerce/single-functions.php:1143
+#: inc/woocommerce/single-functions.php:1207
+#: woocommerce/single-product/templates/boxed.php:244
+#: woocommerce/single-product/templates/boxed.php:250
+#: woocommerce/single-product/templates/bigi.php:96
+msgid "Ready to send"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1144
+#: inc/woocommerce/single-functions.php:1213
+#: woocommerce/single-product/templates/boxed.php:251
+#: woocommerce/single-product/templates/bigi.php:102
+msgid "This Product is in Stock & Ready to Deliver"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1149
+#: inc/woocommerce/single-functions.php:1218
+#: woocommerce/single-product/templates/boxed.php:256
+#: woocommerce/single-product/templates/bigi.php:107
+msgid "Ready to send from stock"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1155
+#: inc/woocommerce/single-functions.php:1224
+#: woocommerce/single-product/templates/boxed.php:262
+#: woocommerce/single-product/templates/bigi.php:113
+msgid "This Product is in Stock. You Must Wait for Deliver"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1174
+#: woocommerce/single-product/templates/boxed.php:299
+#, php-format
+msgid "From %s by other sellers"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1174
+#: inc/woocommerce/single-functions.php:1176 classes/realtime/realtime.php:82
+#: woocommerce/single-product/templates/boxed.php:299
+#: woocommerce/single-product/templates/boxed.php:301
+msgid "View"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1176
+#: woocommerce/single-product/templates/boxed.php:301
+msgid "Seller of this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1193
+#: woocommerce/single-product/templates/bigi.php:82
+msgid "Purchase Satisfaction :"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1200
+#: woocommerce/single-product/templates/bigi.php:89
+msgid "Packing and shipping by"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1243
+msgid "<span>Please Enter Friend Email!</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1246
+msgid "<span>Please Enter Valid Email!</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1249
+msgid "<span>Product is undefined!</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1261
+msgid ""
+"<span style=\"color:#328f36 !important;\">Email Send Successfully To Your "
+"Friend.</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1264
+msgid ""
+"<span>There is problem on sending email. Please contact administrator.</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1329
+#: inc/woocommerce/product-meta.php:20
+msgid "Product Price Chart"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1331
+msgid "For filter charts, click on each title."
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1409
+msgid "The range of price changes"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1491
+msgid "Notify Me"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1493
+msgid "Notify Me For:"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1497
+msgid "Special Offer"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1523
+msgid "Increase Stock"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1548
+msgid "By the:"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1579
+msgid "SMS: "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1586
+msgid "Submit"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1609
+#: inc/woocommerce/single-functions.php:1615
+#: inc/woocommerce/single-functions.php:1622
+#: inc/woocommerce/single-functions.php:1629
+msgid "Notify Me When In Stock"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1682
+#: inc/woocommerce/single-functions.php:1735
+msgid "Product link: "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1768
+msgid "<span>Access Denied!</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1771
+msgid "<span>Please Select An Event!</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1774
+msgid "<span>Please Select An Option!</span>"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1782
+#: inc/woocommerce/single-functions.php:1790
+#: inc/woocommerce/single-functions.php:1798
+#: inc/woocommerce/single-functions.php:1807
+msgid "<span style=\"color:#328f36 !important;\">Notify Settings Saved.</span>"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:17
+msgid "Other Titles"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:18
+msgid "Main Features"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:22
+msgid "Coming soon product ?"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:23
+#: woocommerce/single-product/product-image.php:132
+msgid "Product video"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:55
+msgid "Without video"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:56
+msgid "With direct link"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:57
+msgid "With embedded code"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:62
+msgid "Upload your Video here"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:70
+msgid "Put your embedded code from other site, like aparat here"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:105
+msgid "is coming soon product ?"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:129
+msgid "English title"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:134
+msgid "short title"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:236 inc/woocommerce/product-meta.php:246
+#: inc/woocommerce/comments.php:598 inc/woocommerce/comments.php:608
+#: inc/woocommerce/dokan.php:37 inc/woocommerce/dokan.php:52
+msgid "Value"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:236 inc/woocommerce/product-meta.php:246
+#: inc/woocommerce/dokan.php:37
+msgid "Remove Feature"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:243 inc/woocommerce/dokan.php:44
+msgid "Add New Feature"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:293 inc/woocommerce/product-meta.php:321
+#: inc/woocommerce/product-meta.php:341
+msgid "Remove Price"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:293 inc/woocommerce/product-meta.php:306
+#: inc/woocommerce/product-meta.php:321 inc/woocommerce/product-meta.php:331
+#: inc/woocommerce/product-meta.php:341 inc/woocommerce/product-meta.php:351
+msgid "Price (En numbers)"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:301 inc/woocommerce/product-meta.php:328
+#: inc/woocommerce/product-meta.php:348
+msgid "Add New Price"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:306 inc/woocommerce/product-meta.php:331
+#: inc/woocommerce/product-meta.php:351
+msgid "Remove price"
+msgstr ""
+
+#: inc/woocommerce/comments.php:37
+msgid "Rating titles"
+msgstr ""
+
+#: inc/woocommerce/comments.php:52 inc/woocommerce/comments.php:61
+msgid "Remove comment"
+msgstr ""
+
+#: inc/woocommerce/comments.php:59 inc/woocommerce/comments.php:566
+#: inc/woocommerce/comments.php:583
+msgid "Add New item"
+msgstr ""
+
+#: inc/woocommerce/comments.php:91
+msgid "Comment title (required)"
+msgstr ""
+
+#: inc/woocommerce/comments.php:95 inc/woocommerce/comments.php:507
+#: inc/woocommerce/comments.php:555
+#: woocommerce/single-product/tabs/description.php:88
+msgid "Advantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:101 inc/woocommerce/comments.php:572
+msgid "Disadvantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:131
+msgid "Do you offer this product to your friends?"
+msgstr ""
+
+#: inc/woocommerce/comments.php:132
+msgid "I recommend this"
+msgstr ""
+
+#: inc/woocommerce/comments.php:133
+msgid "no ,I dont recommend this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:134
+msgid "I dont have no any idea"
+msgstr ""
+
+#: inc/woocommerce/comments.php:138
+msgid "Comment text"
+msgstr ""
+
+#: inc/woocommerce/comments.php:178
+msgid ""
+"Error: You did not add a comment_title. Hit the Back button on your Web "
+"browser and resubmit your comment with a comment_title."
+msgstr ""
+
+#: inc/woocommerce/comments.php:184
+msgid "Comment Metadata"
+msgstr ""
+
+#: inc/woocommerce/comments.php:190
+msgid "Comment Title"
+msgstr ""
+
+#: inc/woocommerce/comments.php:276
+msgid "User rates to:"
+msgstr ""
+
+#: inc/woocommerce/comments.php:277
+msgid " peopels"
+msgstr ""
+
+#: inc/woocommerce/comments.php:330
+#: woocommerce/single-product/tabs/description.php:62
+msgid "Very good"
+msgstr ""
+
+#: inc/woocommerce/comments.php:377
+msgid "You can add new comment, too"
+msgstr ""
+
+#: inc/woocommerce/comments.php:383 inc/woocommerce/comments.php:385
+#: inc/woocommerce/comments.php:388 inc/woocommerce/comments.php:390
+msgid "Add new comment"
+msgstr ""
+
+#: inc/woocommerce/comments.php:398
+msgid "User comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:400 inc/str/vc_map.php:48
+#: inc/str/vc_map.php:206 inc/str/vc_map.php:276 inc/str/vc_map.php:411
+#: inc/str/vc_map.php:601
+msgid "Sort by"
+msgstr ""
+
+#: inc/woocommerce/comments.php:402
+msgid "Customer comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:403
+msgid "Useful comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:404
+msgid "Newer comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:441
+msgid "Buyer of this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:448
+msgid "Purchased colors:"
+msgstr ""
+
+#: inc/woocommerce/comments.php:467
+msgid "Bought from:"
+msgstr ""
+
+#: inc/woocommerce/comments.php:475
+msgid "I dont recommend this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:479 inc/woocommerce/comments.php:487
+msgid "I recommend this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:483
+msgid "I dont have any idea"
+msgstr ""
+
+#: inc/woocommerce/comments.php:500
+msgid "by "
+msgstr ""
+
+#: inc/woocommerce/comments.php:500
+msgid " in "
+msgstr ""
+
+#: inc/woocommerce/comments.php:517
+#: woocommerce/single-product/tabs/description.php:98
+msgid "Disdvantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:540
+msgid "Advantages & Disadvantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:559 inc/woocommerce/comments.php:569
+msgid "Remove advantage"
+msgstr ""
+
+#: inc/woocommerce/comments.php:576 inc/woocommerce/comments.php:586
+msgid "Remove disadvantage"
+msgstr ""
+
+#: inc/woocommerce/comments.php:593
+msgid "Admin rates"
+msgstr ""
+
+#: inc/woocommerce/comments.php:598 inc/woocommerce/comments.php:608
+msgid "Remove admin rate"
+msgstr ""
+
+#: inc/woocommerce/comments.php:605
+msgid "Add new admin rate"
+msgstr ""
+
+#: inc/woocommerce/comments.php:609
+msgid "The admin rate value should be between 1 and 5. 5 meaning very good"
+msgstr ""
+
+#: inc/woocommerce/dokan.php:22
+msgid "Main Feauters"
+msgstr ""
+
+#: inc/woocommerce/dokan.php:23
+msgid "Manage main feauters for this product."
+msgstr ""
+
+#: inc/woocommerce/dokan.php:52
+msgid "Remove feature"
+msgstr ""
+
+#: inc/woocommerce/dokan.php:101 inc/woocommerce/checkout-functions.php:322
+#: inc/woocommerce/checkout-functions.php:340
+msgid "Customer location"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:26
+msgid "Please read terms & conditions and approve it."
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:124
+msgid "First name"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:131
+msgid "Last name"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:138
+msgid "Billing Email"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:146 inc/woocommerce/account.php:41
+msgid "Phone number"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:176
+msgid "Address"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:177
+msgid "Enter your address ..."
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:193
+#: inc/woocommerce/checkout-functions.php:274 inc/woocommerce/account.php:47
+msgid "National code"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:200
+#: inc/woocommerce/checkout-functions.php:280 inc/woocommerce/account.php:53
+msgid "Bank card number"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:287
+msgid "Your Location"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:540
+msgid "Please enter a validate phone"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:557
+msgid "Wonder Discount:"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:634
+msgid "Invoicing"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:656
+msgid "Return to cart"
+msgstr ""
+
+#: inc/woocommerce/account.php:38
+msgid "Other informations"
+msgstr ""
+
+#: inc/woocommerce/account.php:168 inc/woocommerce/account.php:184
+msgid "Your comments"
+msgstr ""
+
+#: inc/woocommerce/account.php:169
+msgid "Your wishlist"
+msgstr ""
+
+#: inc/woocommerce/account.php:210 inc/woocommerce/account.php:328
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/woocommerce/account.php:211 inc/woocommerce/account.php:329
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/woocommerce/account.php:219
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/woocommerce/account.php:242
+msgid "My rate to product"
+msgstr ""
+
+#: inc/woocommerce/account.php:260
+msgid "Approved"
+msgstr ""
+
+#: inc/woocommerce/account.php:262
+msgid "Not approved"
+msgstr ""
+
+#: inc/woocommerce/account.php:264
+msgid "Spam"
+msgstr ""
+
+#: inc/woocommerce/account.php:266
+msgid "Pending approval"
+msgstr ""
+
+#: inc/woocommerce/account.php:280 woocommerce/myaccount/dashboard.php:142
+msgid "Your latest wishlist"
+msgstr ""
+
+#: inc/woocommerce/account.php:309
+msgid "View product"
+msgstr ""
+
+#: inc/woocommerce/account.php:337
+msgid "You dont have any product in your wishlist"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:227
+msgid "Cheapest"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:228
+msgid "The most expensive"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:229
+msgid "Newest"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:230
+msgid "Most promising"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:231
+msgid "Most Popular"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:232
+msgid "Default"
+msgstr ""
+
+#: inc/str/breadcrumbs.php:183
+msgid "Blog"
+msgstr ""
+
+#: inc/str/breadcrumbs.php:188
+msgid "Page: "
+msgstr ""
+
+#: inc/str/breadcrumbs.php:193
+msgid "Search Result For: "
+msgstr ""
+
+#: inc/str/breadcrumbs.php:198
+msgid "Error 404"
+msgstr ""
+
+#: inc/str/functions.php:28
+msgid "Menu image"
+msgstr ""
+
+#: inc/str/functions.php:29
+msgid "Upload image"
+msgstr ""
+
+#: inc/str/functions.php:140
+msgid "<span>Please Enter Username!</span>"
+msgstr ""
+
+#: inc/str/functions.php:143
+msgid "<span>Please Enter Password!</span>"
+msgstr ""
+
+#: inc/str/functions.php:152
+msgid "<span><strong>ERROR</strong>: Wrong username or password.</span>"
+msgstr ""
+
+#: inc/str/functions.php:156
+msgid ""
+"<span style=\"color:#777 !important;\">Login successful, redirecting..."
+"</span>"
+msgstr ""
+
+#: inc/str/vc_map.php:7
+msgid "Posts List widget"
+msgstr ""
+
+#: inc/str/vc_map.php:9
+msgid "Show blog posts in list."
+msgstr ""
+
+#: inc/str/vc_map.php:11 inc/str/vc_map.php:168 inc/str/vc_map.php:238
+#: inc/str/vc_map.php:316 inc/str/vc_map.php:332 inc/str/vc_map.php:349
+#: inc/str/vc_map.php:368 inc/str/vc_map.php:454 inc/str/vc_map.php:487
+#: inc/str/vc_map.php:518 inc/str/vc_map.php:583 inc/str/vc_map.php:656
+#: inc/str/vc_map.php:693 inc/str/vc_map.php:718 inc/str/vc_map.php:741
+#: inc/str/vc_map.php:758
+msgid "bigikala Elements"
+msgstr ""
+
+#: inc/str/vc_map.php:24 inc/widgets/form.php:14
+msgid "Title URL"
+msgstr ""
+
+#: inc/str/vc_map.php:32 inc/str/vc_map.php:189 inc/str/vc_map.php:259
+msgid "Post numbers"
+msgstr ""
+
+#: inc/str/vc_map.php:40 inc/widgets/form.php:152
+msgid "Offset"
+msgstr ""
+
+#: inc/str/vc_map.php:51 inc/str/vc_map.php:209 inc/str/vc_map.php:279
+#: inc/str/vc_map.php:414 inc/str/vc_map.php:604
+msgid "DESC"
+msgstr ""
+
+#: inc/str/vc_map.php:52 inc/str/vc_map.php:210 inc/str/vc_map.php:280
+#: inc/str/vc_map.php:415 inc/str/vc_map.php:605
+msgid "ASC"
+msgstr ""
+
+#: inc/str/vc_map.php:58 inc/str/vc_map.php:216 inc/str/vc_map.php:286
+#: inc/str/vc_map.php:399 inc/str/vc_map.php:589
+msgid "Order by"
+msgstr ""
+
+#: inc/str/vc_map.php:61
+msgid "ID"
+msgstr ""
+
+#: inc/str/vc_map.php:62
+msgid "Author"
+msgstr ""
+
+#: inc/str/vc_map.php:65
+msgid "Modified"
+msgstr ""
+
+#: inc/str/vc_map.php:66 inc/str/vc_map.php:220 inc/str/vc_map.php:290
+#: inc/str/vc_map.php:405 inc/str/vc_map.php:595
+msgid "Random"
+msgstr ""
+
+#: inc/str/vc_map.php:67
+msgid "Comment Count"
+msgstr ""
+
+#: inc/str/vc_map.php:68
+msgid "Menu Order"
+msgstr ""
+
+#: inc/str/vc_map.php:74 inc/str/vc_map.php:197 inc/str/vc_map.php:267
+#: inc/str/vc_map.php:375 inc/str/vc_map.php:459 inc/str/vc_map.php:525
+#: inc/str/vc_map.php:611 inc/str/vc_map.php:672
+msgid "Category"
+msgstr ""
+
+#: inc/str/vc_map.php:83
+msgid "Show excerpt"
+msgstr ""
+
+#: inc/str/vc_map.php:91
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/str/vc_map.php:99
+msgid "Show date"
+msgstr ""
+
+#: inc/str/vc_map.php:107
+msgid "Use Relative Date"
+msgstr ""
+
+#: inc/str/vc_map.php:115 inc/widgets/form.php:221
+msgid "Display Comment Count"
+msgstr ""
+
+#: inc/str/vc_map.php:123 inc/widgets/form.php:207
+msgid "Display Readmore"
+msgstr ""
+
+#: inc/str/vc_map.php:131
+msgid "Readmore text"
+msgstr ""
+
+#: inc/str/vc_map.php:139
+msgid "More title"
+msgstr ""
+
+#: inc/str/vc_map.php:147
+msgid "More URL"
+msgstr ""
+
+#: inc/str/vc_map.php:164
+msgid "Posts carousel"
+msgstr ""
+
+#: inc/str/vc_map.php:166
+msgid "Show blog posts in carousel."
+msgstr ""
+
+#: inc/str/vc_map.php:181 inc/str/vc_map.php:251
+msgid "Archive link"
+msgstr ""
+
+#: inc/str/vc_map.php:219 inc/str/vc_map.php:289 inc/str/vc_map.php:402
+#: inc/str/vc_map.php:592
+msgid "Most recent"
+msgstr ""
+
+#: inc/str/vc_map.php:234
+msgid "Posts"
+msgstr ""
+
+#: inc/str/vc_map.php:236
+msgid "Show blog posts."
+msgstr ""
+
+#: inc/str/vc_map.php:296
+msgid "Show pagination"
+msgstr ""
+
+#: inc/str/vc_map.php:310
+msgid "bigikala slider"
+msgstr ""
+
+#: inc/str/vc_map.php:312
+msgid "Add products slider to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:318 inc/str/vc_map.php:351 inc/str/vc_map.php:370
+#: inc/str/vc_map.php:456 inc/str/vc_map.php:489 inc/str/vc_map.php:520
+#: inc/str/vc_map.php:585 inc/str/vc_map.php:660 inc/str/vc_map.php:695
+#: inc/str/vc_map.php:720
+msgid "Section title"
+msgstr ""
+
+#: inc/str/vc_map.php:326
+msgid "bigikala SVG Icons Products"
+msgstr ""
+
+#: inc/str/vc_map.php:328
+msgid "Add SVG Icons products to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:334
+msgid "Section title, Other Options Setting in Themes Setting"
+msgstr ""
+
+#: inc/str/vc_map.php:343
+msgid "bigikala Brand Carousel"
+msgstr ""
+
+#: inc/str/vc_map.php:345
+msgid "Add brand carousel to your page"
+msgstr ""
+
+#: inc/str/vc_map.php:351
+#, php-format
+msgid "Add brands from <a href=\"%s\" target=\"_blank\">theme settings</a>"
+msgstr ""
+
+#: inc/str/vc_map.php:362
+msgid "bigikala Products Carousel"
+msgstr ""
+
+#: inc/str/vc_map.php:364
+msgid "Add products carousel to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:371 inc/str/vc_map.php:521 inc/str/vc_map.php:586
+msgid "Number of products to display"
+msgstr ""
+
+#: inc/str/vc_map.php:372 inc/str/vc_map.php:522
+msgid "Enter Category Slug"
+msgstr ""
+
+#: inc/str/vc_map.php:372 inc/str/vc_map.php:522
+msgid ""
+"Just desplay products from one category (For display products from all "
+"categories left empty)"
+msgstr ""
+
+#: inc/str/vc_map.php:384 inc/str/vc_map.php:534
+msgid "Background image:"
+msgstr ""
+
+#: inc/str/vc_map.php:387 inc/str/vc_map.php:495 inc/str/vc_map.php:537
+msgid "Upload the custom image for background."
+msgstr ""
+
+#: inc/str/vc_map.php:392 inc/str/vc_map.php:542
+msgid "Background color"
+msgstr ""
+
+#: inc/str/vc_map.php:395 inc/str/vc_map.php:503 inc/str/vc_map.php:545
+msgid "Choose your background color."
+msgstr ""
+
+#: inc/str/vc_map.php:403 inc/str/vc_map.php:593
+msgid "Best seller"
+msgstr ""
+
+#: inc/str/vc_map.php:404 inc/str/vc_map.php:594
+msgid "Most rated"
+msgstr ""
+
+#: inc/str/vc_map.php:421 inc/str/vc_map.php:549 inc/str/vc_map.php:628
+msgid "Just Show instock products"
+msgstr ""
+
+#: inc/str/vc_map.php:429 inc/str/vc_map.php:468 inc/str/vc_map.php:557
+#: inc/str/vc_map.php:636
+msgid "Dont show coming soon products"
+msgstr ""
+
+#: inc/str/vc_map.php:438 inc/str/vc_map.php:566
+msgid "Show Category Link (Only When Use Category Slug)"
+msgstr ""
+
+#: inc/str/vc_map.php:448
+msgid "bigikala Real Time Offers"
+msgstr ""
+
+#: inc/str/vc_map.php:450
+msgid "Add products realtime to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:461
+msgid "For get all products leave empty"
+msgstr ""
+
+#: inc/str/vc_map.php:481
+msgid "bigikala WonderSlider Offers"
+msgstr ""
+
+#: inc/str/vc_map.php:483
+msgid "Add products wonderslider to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:492
+msgid "Adoptive Background image:"
+msgstr ""
+
+#: inc/str/vc_map.php:500
+msgid "Adoptive Background color"
+msgstr ""
+
+#: inc/str/vc_map.php:512
+msgid "bigikala Best Selling Products"
+msgstr ""
+
+#: inc/str/vc_map.php:514
+msgid "Add best selling products to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:577
+msgid "bigikala Multi category Products"
+msgstr ""
+
+#: inc/str/vc_map.php:579
+msgid "Add Ajax multi category products to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:620
+msgid "Just show discounted products"
+msgstr ""
+
+#: inc/str/vc_map.php:650
+msgid "bigikala category list widget"
+msgstr ""
+
+#: inc/str/vc_map.php:652
+msgid "Add a list of categories to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:665
+msgid "Upload Image Category:"
+msgstr ""
+
+#: inc/str/vc_map.php:668
+msgid "Upload the custom image category."
+msgstr ""
+
+#: inc/str/vc_map.php:674
+msgid "Select main category"
+msgstr ""
+
+#: inc/str/vc_map.php:687
+msgid "bigikala Product categories"
+msgstr ""
+
+#: inc/str/vc_map.php:689
+msgid "Add product categories to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:698
+msgid "Categories"
+msgstr ""
+
+#: inc/str/vc_map.php:712
+msgid "Wonder slider button"
+msgstr ""
+
+#: inc/str/vc_map.php:714
+msgid "Add Wonder slider button to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:734
+msgid "icons"
+msgstr ""
+
+#: inc/str/vc_map.php:737
+msgid "Show group of icons."
+msgstr ""
+
+#: inc/str/vc_map.php:753
+msgid "icons item"
+msgstr ""
+
+#: inc/str/vc_map.php:755
+msgid "create icon item."
+msgstr ""
+
+#: inc/str/vc_map.php:772
+msgid "Subtitle"
+msgstr ""
+
+#: inc/str/vc_map.php:780
+msgid "Link"
+msgstr ""
+
+#: inc/str/vc_map.php:788
+msgid "Upload icon image:"
+msgstr ""
+
+#: inc/str/vc_map.php:791
+msgid "Upload the custom image for icon."
+msgstr ""
+
+#: inc/str/shortcodes.php:74 inc/str/shortcodes.php:190
+#: inc/str/templates/product_slider.php:19
+msgid "Show More"
+msgstr ""
+
+#: inc/str/shortcodes.php:111 inc/str/shortcodes.php:240
+msgid "Sorry! No posts found."
+msgstr ""
+
+#: inc/str/shortcodes.php:373 inc/str/shortcodes.php:455
+#: inc/str/templates/multicat_product_slider.php:66
+#: inc/str/templates/ajax_vc_products.php:50
+msgid "There Is No Product To Show."
+msgstr ""
+
+#: inc/str/shortcodes.php:671
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/str/shortcodes.php:707 inc/str/shortcodes.php:709
+#: classes/wounder/wounder.php:420 classes/wounder/wounder.php:422
+msgid "veiw all Special Offers"
+msgstr ""
+
+#: inc/widgets/attr-filter.php:28
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: inc/widgets/attr-filter.php:30
+msgid "Filter Products by Attribute"
+msgstr ""
+
+#: inc/widgets/attr-filter.php:111
+msgid "Open?"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:22
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"site’s most recent Posts."
+msgstr ""
+
+#. $this->id_base
+#: inc/widgets/blog-posts.php:34
+msgid "Recent Posts Extended"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/instock-widget.php:27
+msgid "Instock Product"
+msgstr ""
+
+#: inc/widgets/instock-widget.php:32
+msgid "Checkbox for instock product filter"
+msgstr ""
+
+#: inc/widgets/instock-widget.php:52
+msgid "Only instock products"
+msgstr ""
+
+#: inc/widgets/functions.php:44
+msgid "Read More &raquo;"
+msgstr ""
+
+#: inc/widgets/functions.php:163
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: inc/widgets/functions.php:168 inc/widgets/functions.php:174
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/widgets/functions.php:181
+msgid "No Comments"
+msgstr ""
+
+#: inc/widgets/functions.php:183
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: inc/widgets/functions.php:185
+msgid "1 Comment"
+msgstr ""
+
+#: inc/widgets/functions.php:207
+msgid "No posts found!"
+msgstr ""
+
+#: inc/widgets/form.php:21
+msgid "CSS ID"
+msgstr ""
+
+#: inc/widgets/form.php:28
+msgid "CSS Class"
+msgstr ""
+
+#: inc/widgets/form.php:35
+msgid "HTML or text before the recent posts"
+msgstr ""
+
+#: inc/widgets/form.php:42
+msgid "HTML or text after the recent posts"
+msgstr ""
+
+#: inc/widgets/form.php:54
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: inc/widgets/form.php:61
+msgid "Exclude current post"
+msgstr ""
+
+#: inc/widgets/form.php:67
+msgid "Post Types"
+msgstr ""
+
+#: inc/widgets/form.php:83
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/form.php:93
+msgid "Orderby"
+msgstr ""
+
+#: inc/widgets/form.php:109
+msgid "Limit to Category"
+msgstr ""
+
+#: inc/widgets/form.php:125
+msgid "Limit to Tag"
+msgstr ""
+
+#: inc/widgets/form.php:145
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/form.php:155
+msgid "The number of posts to skip"
+msgstr ""
+
+#: inc/widgets/form.php:163
+msgid "Display Thumbnail"
+msgstr ""
+
+#: inc/widgets/form.php:169
+msgid "Thumbnail (height,width,align)"
+msgstr ""
+
+#: inc/widgets/form.php:174
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/form.php:175
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/form.php:176
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/form.php:182
+msgid "Default Thumbnail"
+msgstr ""
+
+#: inc/widgets/form.php:185
+msgid "Leave it blank to disable."
+msgstr ""
+
+#: inc/widgets/form.php:193
+msgid "Display Excerpt"
+msgstr ""
+
+#: inc/widgets/form.php:199
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/widgets/form.php:213
+msgid "Readmore Text"
+msgstr ""
+
+#: inc/widgets/form.php:228
+msgid "Display Date"
+msgstr ""
+
+#: inc/widgets/form.php:235
+msgid "Display Modification Date"
+msgstr ""
+
+#: inc/widgets/form.php:242
+msgid "Use Relative Date. eg: 5 days ago"
+msgstr ""
+
+#: inc/widgets/form.php:254
+msgid "Use Default Styles"
+msgstr ""
+
+#: inc/widgets/form.php:263
+msgid ""
+"If you turn off the default styles, you can use these css code to customize "
+"the recent posts style."
+msgstr ""
+
+#: classes/realtime/realtime.php:59
+msgid "Realtime offer"
+msgstr ""
+
+#: classes/realtime/realtime.php:90
+msgid "Nothing found!"
+msgstr ""
+
+#: classes/wounder/wounder.php:326
+msgid "special offers"
+msgstr ""
+
+#: classes/wounder/wounder.php:434 classes/wounder/inc/adaptive-slider.php:124
+msgid "No wonderful products found."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29 woocommerce/checkout/review-order.php:24
+msgid "Your Order Total Price"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29 woocommerce/checkout/review-order.php:24
+msgid " Item"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35 woocommerce/checkout/review-order.php:30
+msgid "Your profit"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:36 woocommerce/checkout/review-order.php:31
+msgid "profit"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:104
+msgid "Total cost"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:117
+msgid ""
+"The goods in your cart are not registered and booked, complete the next "
+"steps to place an order."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:28
+msgid " Items"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:31
+msgid "Shipping Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:34
+msgid "Show cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72
+msgid " qty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "Chechout"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:41
+msgid "You can go to the following pages to see more products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sortby: "
+msgstr ""
+
+#: woocommerce/order/tracking.php:49 woocommerce/myaccount/view-order.php:43
+msgid "#Num"
+msgstr ""
+
+#: woocommerce/order/order-details.php:40
+msgid "Your order detailes"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:26
+msgid "Your Downloads"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:107
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register On Site"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:146
+msgid "Enter your username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Enter your email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "Terms & Conditions "
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "I have read and accept."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:121
+msgid "I Am Registered Before?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:135
+msgid "Login to Site"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:185
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:78
+msgid "Thanks to help us for better services by set your location on map"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:80
+msgid "For better services, set your location on map"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:89
+#: woocommerce/myaccount/my-address.php:138
+#: woocommerce/myaccount/dashboard.php:135
+msgid "Edit Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:98
+#: woocommerce/myaccount/dashboard.php:80
+msgid "State: "
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:105
+#: woocommerce/myaccount/dashboard.php:114
+msgid "Postal Code: "
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:110
+#: woocommerce/myaccount/dashboard.php:66
+msgid "Mobile: "
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:116
+#: woocommerce/myaccount/dashboard.php:97
+msgid "City: "
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:29
+msgid "Your Orders"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:47
+msgid "User Information"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:54
+msgid "Full Name: "
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:72
+msgid "Register Time: "
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:120
+msgid "Address: "
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:132
+msgid "Edit Account"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:165
+msgid "View and edit your wishlist"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:179
+msgid "Latest orders"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:237
+msgid "View orders list"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:41
+msgid "Change Password"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:42
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:46
+msgid "Your Profile Acount"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:61
+msgid "Change profile picture"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Add to wishlist"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:66
+#: woocommerce/single-product/product-image.php:191
+msgid "Share"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:83
+msgid "Notify me"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:121
+msgid "Price change"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:188
+msgid "Sharing"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:194
+msgid "Share On Facebook"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:197
+msgid "Share On Twitter"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:200
+msgid "Share On Linkedin"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:200
+msgid "Linkedin"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:203
+msgid "Share On Telegram"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:206
+msgid "Share On Whatsapp"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:212
+msgid "Page Address"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:218
+msgid "Send To A Friend"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:219
+msgid "Your Friend Email"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:229
+msgid "Send"
+msgstr ""
+
+#: woocommerce/single-product/stock.php:24
+#: woocommerce/single-product/add-to-cart/simple.php:86
+msgid "Sorry, This product is out of stock now."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like this products"
+msgstr ""
+
+#: woocommerce/checkout/ordered-products.php:12
+msgid ""
+"<i class=\"icon icon-caret-left-blue\" style=\"margin-left: 10px\"></i> "
+"would you like to take invoice with this order?"
+msgstr ""
+
+#: woocommerce/checkout/ordered-products.php:18
+#: woocommerce/checkout/thankyou.php:87
+msgid "Shipping List"
+msgstr ""
+
+#: woocommerce/checkout/ordered-products.php:19
+#: woocommerce/checkout/thankyou.php:89
+msgid "Products shipped in this procurement :"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:77
+msgid "You saved"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:119
+msgid "Return to home"
+msgstr ""
+
+#: woocommerce/checkout/login-required.php:4
+msgid "Do you member of this site?"
+msgstr ""
+
+#: woocommerce/checkout/login-required.php:18
+msgid "Dont Have any Account?"
+msgstr ""
+
+#: woocommerce/checkout/login-required.php:19
+msgid "Regester"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:53
+msgid "Sipping cost"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:54
+msgid "Shipping cost"
+msgstr ""
+
+#: inc/str/templates/multicat_product_slider.php:45
+#: inc/str/templates/ajax_vc_products.php:29
+#: inc/str/templates/product_slider.php:47
+msgid "Out of stock"
+msgstr ""
+
+#: inc/str/templates/news.php:7
+msgid "Show More News"
+msgstr ""
+
+#: inc/str/templates/brand_slider.php:19
+msgid "There Is No Brands To Show."
+msgstr ""
+
+#: classes/menu/views/bkm-menu.php:140
+msgid "All categories of "
+msgstr ""
+
+#: classes/wounder/inc/special-offers-items.php:35
+msgid "view and buy the product"
+msgstr ""
+
+#: classes/wounder/inc/adaptive-slider.php:28
+msgid "Hour"
+msgstr ""
+
+#: classes/wounder/inc/adaptive-slider.php:30
+msgid "Min"
+msgstr ""
+
+#: classes/wounder/inc/adaptive-slider.php:100
+#: classes/wounder/inc/adaptive-slider.php:102
+msgid "view all the special offers"
+msgstr ""
+
+#: woocommerce/single-product/templates/bigi.php:150
+msgid "Other vendor"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:29
+msgid "Product Short Description"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:26
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#. Name of the theme
+msgid "Bigikala Theme"
+msgstr ""
+
+#. Description of the theme
+msgid "فروشگاهی فوق پیشرفته جهت تجارت الکترونیک به صورت حرفه ای"
+msgstr ""
+
+#. URI of the theme
+msgid "https://buy.iprocode.com/product/bigikala-woocommerce-wordpress-theme"
+msgstr ""
+
+#. Author of the theme
+msgid "Design Core™ / YouOne"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://iprocode.com/"
+msgstr ""

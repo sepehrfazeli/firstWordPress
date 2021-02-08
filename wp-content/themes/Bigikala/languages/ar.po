@@ -1,0 +1,4657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bigikala\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-09 18:16+0000\n"
+"PO-Revision-Date: 2020-08-09 18:16+0000\n"
+"Last-Translator: بیگی کالا\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.1; wp-5.4.2"
+
+#: index.php:35 archive.php:54 inc/str/shortcodes.php:100
+#: inc/str/shortcodes.php:216
+msgid " Past"
+msgstr "سابق"
+
+#: index.php:45 archive.php:65 search.php:45
+msgid "Perv Page"
+msgstr "صفحة Perv"
+
+#: index.php:45 archive.php:66 search.php:46
+msgid "Next Page"
+msgstr "الصفحة التالية"
+
+#: index.php:53 archive.php:76
+msgid "There is no posts."
+msgstr "معذرة. صاحب البلاغ لم لا توجد مشاركات"
+
+#: footer.php:15
+msgid "Back to Top"
+msgstr "الذهاب للاعلي"
+
+#: footer.php:135 footer-checkout.php:16
+#: inc/woocommerce/single-functions.php:1562
+#: woocommerce/myaccount/my-address.php:120
+#: woocommerce/myaccount/dashboard.php:60
+msgid "Email: "
+msgstr "البريد الإلكتروني:"
+
+#: footer.php:141 footer-checkout.php:22
+msgid "Phone: "
+msgstr ""
+
+#: footer.php:223
+msgid "Less"
+msgstr ""
+
+#: footer.php:223
+msgid "More"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search &hellip;"
+msgstr "البحث &hellip;"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "لا يمكن العثور على هذه الصفحة !"
+
+#: 404.php:12
+msgid "You can choose your category from top menu or"
+msgstr "يمكنك اختيار فئتك من القائمة العلوية أو"
+
+#: 404.php:13
+msgid " Home Page "
+msgstr "الصفحة الرئيسية"
+
+#: 404.php:14
+msgid "go to"
+msgstr "قصد, توجه"
+
+#: header-checkout.php:74 header-checkout.php:116 header.php:239 header.php:281
+msgid "Login To Site"
+msgstr "دخول إلى الموقع"
+
+#: header-checkout.php:85 header.php:250
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: header-checkout.php:87 header.php:252
+msgid "Enter your email or mobile number"
+msgstr "ادخل بريدك الإلكتروني أو رقم الهاتف النقال"
+
+#: header-checkout.php:93 header.php:258
+msgid "Password"
+msgstr "الرقم السرى"
+
+#: header-checkout.php:94 header.php:259
+msgid "Lost your password?"
+msgstr "لا اتذكر كلمة السر ؟"
+
+#: header-checkout.php:96 header.php:261
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:155
+msgid "Enter your password"
+msgstr "أدخل كلمة السر"
+
+#: header-checkout.php:104 header.php:269
+msgid "Remember me"
+msgstr "تذكرنى"
+
+#: header-checkout.php:127 header.php:292
+msgid "You Are Not Register Before?"
+msgstr "أنت غير مسجل قبل؟"
+
+#: header-checkout.php:128 header.php:293
+msgid "Register To Site"
+msgstr "سجل في الموقع"
+
+#: single.php:49
+msgid "Tags: "
+msgstr "وسوم :"
+
+#: comments.php:14
+msgid "Comment"
+msgstr "تعليق"
+
+#: comments.php:26
+msgid "Reply"
+msgstr "رد"
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr "تم اغلاق التعليقات."
+
+#: header.php:77
+msgid "Cart"
+msgstr "سلة الشراء"
+
+#: header.php:100
+msgid "Login/Sign up"
+msgstr "دخول / تسجيل حساب"
+
+#: header.php:118 header.php:122 woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:126
+#: woocommerce/checkout/login-required.php:10
+#: woocommerce/checkout/login-required.php:13
+msgid "Login"
+msgstr "دخول"
+
+#: header.php:125
+msgid "New user?"
+msgstr "مستخدم جديد ؟"
+
+#: header.php:126 woocommerce/myaccount/form-login.php:27
+msgid "Register"
+msgstr "تسجيل"
+
+#: header.php:129
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: header.php:132
+msgid "Track Order"
+msgstr "تتبع الطلب"
+
+#: header.php:136 woocommerce/cart/cart-empty.php:44
+msgid "My Wishlist"
+msgstr "قائمة المفضلة"
+
+#: header.php:141
+msgid "Exit"
+msgstr "مخرج"
+
+#: header.php:198 header.php:205 woocommerce/archive-product.php:28
+#: woocommerce/cart/cart-empty.php:43
+msgid "Special Offers"
+msgstr "عروض خاصة"
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: functions.php:31
+msgid "Mobile Menu"
+msgstr "قائمة الموبايل"
+
+#: functions.php:32
+msgid "Footer Menu"
+msgstr "قائمة الفوتر"
+
+#: functions.php:34
+msgid "Uber Menu"
+msgstr "قائمة اوبر"
+
+#: functions.php:41
+msgid "Blog Sidebar"
+msgstr "المدونة الشريط الجانبي"
+
+#: functions.php:43
+msgid "Add widgets here to appear in blog pages sidebar."
+msgstr "إضافة الحاجيات هنا لتظهر في الشريط الجانبي الخاص بك."
+
+#: functions.php:50
+msgid "Shop Sidebar"
+msgstr "الشريط الجانبي"
+
+#: functions.php:52
+msgid "Add widgets here to appear in shop sidebar."
+msgstr "إضافة ودجت هنا لتظهر داخل الشريط الجانبي في صفحة المتجر."
+
+#: functions.php:58
+msgid "Subscribe Column One"
+msgstr "اشترك العمود الأول"
+
+#: functions.php:60
+msgid "Add widgets here to appear in subscribe section one."
+msgstr "أضف الأدوات هنا للظهور في قسم الاشتراك الأول."
+
+#: functions.php:67
+msgid "Subscribe Column Two"
+msgstr "اشتراك العمود الثاني"
+
+#: functions.php:69 functions.php:77
+msgid "Add widgets here to appear in subscribe section two."
+msgstr "أضف الأدوات هنا للظهور في قسم الاشتراك الثاني."
+
+#: functions.php:75
+msgid "Subscribe Column Three"
+msgstr ""
+
+#: functions.php:141 functions.php:162
+msgid "Compare more than 4 products not allowed."
+msgstr "قارن بين أكثر من 4 منتجات غير مسموح بها."
+
+#: functions.php:142 functions.php:163
+msgid "This product exist in list."
+msgstr "هذا المنتج موجود في القائمة."
+
+#: functions.php:143
+msgid "Close"
+msgstr " اغلاق"
+
+#: functions.php:144
+msgid "Close -"
+msgstr "- اغلاق"
+
+#: functions.php:145
+msgid "Read more"
+msgstr ""
+
+#: functions.php:146 woocommerce/single-product/templates/boxed.php:51
+#: woocommerce/single-product/templates/bigi.php:163
+#: woocommerce/single-product/add-to-cart/variable.php:89
+msgid "More items +"
+msgstr "المزيد من العناصر +"
+
+#: functions.php:147
+msgid "Product Added to cart!"
+msgstr ""
+
+#: functions.php:148
+msgid "View less"
+msgstr ""
+
+#: functions.php:220
+msgid "Register version"
+msgstr "النسخة المسجلة"
+
+#: functions.php:234
+msgid "License Management"
+msgstr "إدارة التراخيص"
+
+#: functions.php:255 functions.php:300
+msgid "Unexpected Error! The query returned with an error."
+msgstr "خطأ غير متوقع! تم إرجاع الاستعلام مع وجود خطأ."
+
+#: functions.php:269
+msgid "Your license successfully actived. have fun..."
+msgstr ""
+
+#: functions.php:276 functions.php:321
+msgid "Sorry! An error happened: "
+msgstr "عُذرًا، حدث خطأ داخلي."
+
+#: functions.php:314
+msgid "Your license successfully deactived."
+msgstr ""
+
+#: functions.php:329
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+"يرجى إدخال مفتاح الترخيص لهذا المنتج لتنشيطه. لقد تم منحك مفتاح ترخيص عندما "
+"قمت بشراء هذا العنصر."
+
+#: functions.php:331
+msgid ""
+"Your license activated. For release license click on \"Remove license\" "
+"button."
+msgstr ""
+
+#: functions.php:336
+msgid "License Key"
+msgstr "كود الترخيص"
+
+#: functions.php:341
+msgid "Activate license"
+msgstr ""
+
+#: functions.php:342
+msgid "Remove license"
+msgstr "إزالة الترخيص"
+
+#: functions.php:352
+msgid "Please activate Bigikala with your license key to all features work."
+msgstr "يرجى تفعيل Bigikala مع مفتاح الترخيص الخاص بك لجميع الميزات تعمل."
+
+#: functions.php:353
+msgid "Go to license page"
+msgstr ""
+
+#: functions.php:414
+msgid ""
+"جهت فعالسازی کامل قالب بیگی کالا، وارد پیشخوان وردپرس خود شده و قالب را به "
+"توسط لاینسس دریافتی خود  در قسمت سفارش ها فعال نمایید. این پیام فقط به "
+"مدیریت سایت و نویسندگان آن نمایش داده می شود. کاربران می توانند سایت را به "
+"درستی مشاهده و سفارشات خود را ثبت کنند.\n"
+"        محل دریافت لاینسس : https://buy.iprocode.com/my-account/orders"
+msgstr ""
+
+#: archive.php:67 search.php:47
+msgid "Page"
+msgstr "صفحة"
+
+#. Name of the template
+#: template-homepage-v3.php:5
+msgid "Home page template"
+msgstr "قالب الصفحة الرئيسية"
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: search.php:20 inc/str/breadcrumbs.php:179
+msgid "Author: "
+msgstr "الكاتب:"
+
+#: search.php:33
+msgid "Read More "
+msgstr "مزيد من العنوان"
+
+#: search.php:56
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"للأسف لا يوجد نتائج بحثية مطابقة لاختياراتك. من فضلك حاول استخدام كلمات "
+"مفتاحية أخرى."
+
+#. Name of the template
+msgid "Products list"
+msgstr ""
+
+#: products-list.php:82
+#, php-format
+msgid "%s products list"
+msgstr ""
+
+#: products-list.php:87 inc/init.php:2031 inc/woocommerce/product-meta.php:236
+#: inc/woocommerce/product-meta.php:246 inc/woocommerce/comments.php:52
+#: inc/woocommerce/comments.php:61 inc/woocommerce/comments.php:559
+#: inc/woocommerce/comments.php:569 inc/woocommerce/comments.php:576
+#: inc/woocommerce/comments.php:586 inc/woocommerce/comments.php:598
+#: inc/woocommerce/comments.php:608 inc/woocommerce/dokan.php:37
+#: inc/woocommerce/dokan.php:52 inc/str/vc_map.php:16 inc/str/vc_map.php:63
+#: inc/str/vc_map.php:173 inc/str/vc_map.php:243 inc/str/vc_map.php:764
+#: inc/widgets/form.php:7
+msgid "Title"
+msgstr "العنوان"
+
+#: products-list.php:90 inc/init.php:2037
+msgid "Image"
+msgstr ""
+
+#: products-list.php:93
+msgid "Price "
+msgstr ""
+
+#: products-list.php:96
+msgid "Sale price "
+msgstr ""
+
+#: products-list.php:141 inc/str/shortcodes.php:233
+#: classes/wounder/wounder.php:658
+msgid "« prev"
+msgstr "« السابق"
+
+#: products-list.php:142 inc/str/shortcodes.php:234
+#: classes/wounder/wounder.php:659
+msgid "next »"
+msgstr "التالي »"
+
+#: footer-checkout.php:26
+msgid ""
+"It is possible to use the gift card or discount code on the payment page."
+msgstr ""
+
+#: inc/init.php:50 inc/init.php:51
+msgid "Theme Options"
+msgstr "اعدادات القالب"
+
+#: inc/init.php:170 inc/init.php:188 inc/init.php:945 inc/init.php:2125
+msgid "General"
+msgstr "عام"
+
+#: inc/init.php:179
+msgid "Attention"
+msgstr ""
+
+#: inc/init.php:180
+msgid ""
+"To access all features of <b>Bigikala theme</b>, please enable your license."
+msgstr ""
+
+#: inc/init.php:193
+msgid "Global settings"
+msgstr ""
+
+#: inc/init.php:201
+msgid "Your Logo"
+msgstr "اختر شعارك لعرضه في منطقة القائمة المتنقلة."
+
+#: inc/init.php:203
+msgid "Choose your logo to show on header"
+msgstr "اختر شعارك ليظهر في رأس الصفحة"
+
+#: inc/init.php:208
+msgid "Your Logo For Mobile Menu"
+msgstr "شعارك للهاتف المحمول القائمة"
+
+#: inc/init.php:210
+msgid "Choose your logo to show on mobile menu area."
+msgstr "اختر شعارك لعرضه في منطقة القائمة المتنقلة."
+
+#: inc/init.php:215
+msgid "Your Favicon"
+msgstr "Your Favicon"
+
+#: inc/init.php:217
+msgid "Choose your favicon to show on browser."
+msgstr "اختر favicon لعرضه في المتصفح."
+
+#: inc/init.php:220
+msgid "Performance"
+msgstr ""
+
+#: inc/init.php:223 inc/init.php:232 inc/init.php:240 inc/init.php:248
+#: inc/init.php:257 inc/init.php:267 inc/init.php:423 inc/init.php:452
+#: inc/init.php:481 inc/init.php:510 inc/init.php:539 inc/init.php:673
+#: inc/init.php:827 inc/init.php:955 inc/init.php:964 inc/init.php:973
+#: inc/init.php:982 inc/init.php:991 inc/init.php:1000 inc/init.php:1020
+#: inc/init.php:1118
+msgid "Enabled"
+msgstr "مفعل"
+
+#: inc/init.php:224 inc/init.php:233 inc/init.php:241 inc/init.php:249
+#: inc/init.php:258 inc/init.php:268 inc/init.php:424 inc/init.php:453
+#: inc/init.php:482 inc/init.php:511 inc/init.php:540 inc/init.php:674
+#: inc/init.php:828 inc/init.php:956 inc/init.php:965 inc/init.php:974
+#: inc/init.php:983 inc/init.php:992 inc/init.php:1001 inc/init.php:1021
+#: inc/init.php:1119
+msgid "Disabled"
+msgstr "معطل"
+
+#: inc/init.php:225
+msgid "Incrase site performance."
+msgstr ""
+
+#: inc/init.php:229
+msgid "Scroll To Top"
+msgstr "انتقل إلى أعلى"
+
+#: inc/init.php:237
+msgid "LTR style"
+msgstr ""
+
+#: inc/init.php:245
+msgid "Pop-up login"
+msgstr "المنبثقة تسجيل الدخول"
+
+#: inc/init.php:251
+msgid "Show login form in pop-up instead of woocommerce login page."
+msgstr ""
+"عرض نموذج تسجيل الدخول في نافذة منبثقة بدلاً من صفحة تسجيل الدخول إلى "
+"woocommerce."
+
+#: inc/init.php:254
+msgid "Digits Pop-up"
+msgstr ""
+
+#: inc/init.php:260
+msgid "Use digits popup for login."
+msgstr ""
+
+#: inc/init.php:264
+msgid "Night mode"
+msgstr ""
+
+#: inc/init.php:270
+msgid "Show night mode button in header."
+msgstr ""
+
+#: inc/init.php:275
+msgid "Default night mode"
+msgstr ""
+
+#: inc/init.php:277
+msgid "Night"
+msgstr ""
+
+#: inc/init.php:278
+msgid "Day"
+msgstr ""
+
+#: inc/init.php:285
+msgid "Your night mode Logo"
+msgstr ""
+
+#: inc/init.php:287
+msgid "Choose your logo to show on header in night mode"
+msgstr ""
+
+#: inc/init.php:293
+msgid "Your Logo For Mobile Menu in night mode"
+msgstr ""
+
+#: inc/init.php:295
+msgid "Choose your logo to show on mobile menu area in night mode."
+msgstr ""
+
+#: inc/init.php:301
+#, php-format
+msgid ""
+"For use swatch for all products click below button.<br><b>Important:</b> "
+"This option clear all other swatch settings for all products<br><a "
+"class=\"btn btn-torob btn-update-products\" href=\"%1s\">Update all "
+"products<a>"
+msgstr ""
+
+#: inc/init.php:307
+msgid "General Colors"
+msgstr "الالوان العامة"
+
+#: inc/init.php:315
+msgid "Body Background Color"
+msgstr "لون خلفية Body"
+
+#: inc/init.php:316
+msgid "Pick a background color for the body (default: #f5f5f5)."
+msgstr ""
+
+#: inc/init.php:323
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: inc/init.php:325
+msgid "Choose your image to show on body background"
+msgstr "اختر صورتك لتظهر على خلفية الجسم"
+
+#: inc/init.php:330
+msgid "Accent color #1"
+msgstr ""
+
+#: inc/init.php:335
+msgid "Accent color #2"
+msgstr ""
+
+#: inc/init.php:340
+msgid "Mobile Colors"
+msgstr "ألوان الجوال"
+
+#: inc/init.php:348
+msgid "Mobile Address Bar Color"
+msgstr "لون شريط العناوين المحمول"
+
+#: inc/init.php:349
+msgid "Pick a background color for the body (default: #ef3743)."
+msgstr "اختر لون خلفية للجسم (افتراضي: # ef3743)."
+
+#: inc/init.php:356
+msgid "Mobile Accent color #1"
+msgstr ""
+
+#: inc/init.php:361
+msgid "Mobile Accent color #2"
+msgstr ""
+
+#: inc/init.php:366
+msgid "Mobile Right Panel Color"
+msgstr "لون اللوحة اليمنى للجوّال"
+
+#: inc/init.php:367
+msgid "Pick a background color (default: #ef3743)."
+msgstr "اختيار لون الخلفية (الافتراضي: # ef3743)."
+
+#: inc/init.php:374
+msgid "Mobile Menu Color"
+msgstr "لون الخط في قائمة الموبايل"
+
+#: inc/init.php:375
+msgid "Pick a background color (default: #fff)."
+msgstr "اختر لون خلفية (افتراضي: #fff)."
+
+#: inc/init.php:382
+msgid "Mobile Submenu Color"
+msgstr "لون القائمة الفرعية"
+
+#: inc/init.php:383
+msgid "Pick a background color (default: #ededed)."
+msgstr "اختر لون خلفية (افتراضي: #ededed)."
+
+#: inc/init.php:390
+msgid "Mobile Icon Color"
+msgstr "لون رمز الجوال"
+
+#: inc/init.php:391
+msgid "Pick a background color (default: #8b8c8f)."
+msgstr "اختر لون الخلفية (افتراضي: # 8b8c8f)."
+
+#: inc/init.php:398
+msgid "Mobile Count Background"
+msgstr "خلفية المحمول العد"
+
+#: inc/init.php:399
+msgid "Pick a background color (default: ef394e)."
+msgstr ""
+
+#: inc/init.php:406
+msgid "Mobile account Background"
+msgstr ""
+
+#: inc/init.php:407
+msgid "Pick a background color (default: #64d979)."
+msgstr ""
+
+#: inc/init.php:415
+msgid "SVG Icons"
+msgstr "أيقونات SVG"
+
+#: inc/init.php:420
+msgid "Enabale express shipping icon"
+msgstr "Enabale صريحة رمز الشحن"
+
+#: inc/init.php:430
+msgid "Express Shipping Title"
+msgstr "عنوان الشحن السريع"
+
+#: inc/init.php:431
+msgid "Express Shipping"
+msgstr "الشحن السريع"
+
+#: inc/init.php:437
+msgid "Express icon image"
+msgstr ""
+
+#: inc/init.php:444
+msgid "Select Express Shipping Page"
+msgstr "اختر صفحة الشحن السريع"
+
+#: inc/init.php:445
+msgid "Select page that has Express Shipping template."
+msgstr "حدد الصفحة التي تحتوي على قالب Express Express."
+
+#: inc/init.php:449
+msgid "Enabale 24Hours Support icon"
+msgstr "Enabale 24 ساعة دعم أيقونة"
+
+#: inc/init.php:459
+msgid "24Hours Suppor Title"
+msgstr "عنوان 24Hours Suppor"
+
+#: inc/init.php:460
+msgid "24Hours Suppor"
+msgstr "24 ساعة suppor"
+
+#: inc/init.php:466
+msgid "24Hours Suppor icon image"
+msgstr ""
+
+#: inc/init.php:473
+msgid "Select Support Page"
+msgstr "اختر صفحة الدعم"
+
+#: inc/init.php:474
+msgid "Select page that has Support template."
+msgstr "حدد الصفحة التي تحتوي على قالب الدعم."
+
+#: inc/init.php:478
+msgid "Enabale Payment at the place icon"
+msgstr "Enabale الدفع في أيقونة المكان"
+
+#: inc/init.php:488
+msgid "Payment at the place Title"
+msgstr "الدفع في عنوان المكان"
+
+#: inc/init.php:489
+msgid "Payment at the place"
+msgstr "الدفع في المكان"
+
+#: inc/init.php:495
+msgid "Payment at the place icon image"
+msgstr ""
+
+#: inc/init.php:502
+msgid "Select Payment at the place Page"
+msgstr "اختر الدفع في صفحة المكان"
+
+#: inc/init.php:503
+msgid "Select page that has Payment at the place template."
+msgstr "حدد الصفحة التي تحتوي على الدفع في قالب المكان."
+
+#: inc/init.php:507
+msgid "Enabale money Back guarantee icon"
+msgstr "Enabale money Back رمز الضمان"
+
+#: inc/init.php:517
+msgid "Money back guarantee Title"
+msgstr "ضمان استعادة الاموال"
+
+#: inc/init.php:518
+msgid "7 dayes money back guarantee"
+msgstr "7 أيام ضمان استعادة الاموال"
+
+#: inc/init.php:524
+msgid "Money back guarantee icon image"
+msgstr ""
+
+#: inc/init.php:531
+msgid "Select 7 days money back guarantee Page"
+msgstr "حدد 7 أيام ضمان استعادة الاموال الصفحة"
+
+#: inc/init.php:532
+msgid "Select page that has 7 days money back guarantee template."
+msgstr "حدد صفحة تحتوي على قالب ضمان استرداد الأموال لمدة 7 أيام."
+
+#: inc/init.php:536
+msgid "Enabale Guarantee of Origin icon"
+msgstr "Enabale Guarantee of Origin icon"
+
+#: inc/init.php:546
+msgid "Guarantee of Origin Title"
+msgstr "ضمان عنوان المنشأ"
+
+#: inc/init.php:547
+msgid "Guarantee of Origin products"
+msgstr "7 أيام ضمان استعادة الاموال"
+
+#: inc/init.php:553
+msgid "Guarantee of Origin icon image"
+msgstr ""
+
+#: inc/init.php:560
+msgid "Select Guarantee of Origin Page"
+msgstr "اختر ضمان صفحة المنشأ"
+
+#: inc/init.php:561
+msgid "Select page that has Guarantee of Origin template."
+msgstr "حدد الصفحة التي تحتوي على قالب ضمان المنشأ."
+
+#: inc/init.php:568
+msgid "Offer Slider"
+msgstr "العرض في سلايدر"
+
+#: inc/init.php:578
+msgid "Wonder category"
+msgstr "فئة عجب"
+
+#: inc/init.php:579
+msgid "Select wonder peoducts category."
+msgstr "حدد عجب peoducts الفئة."
+
+#: inc/init.php:584
+msgid "Show wounder offer on product page"
+msgstr "عرض عرض المستودع على صفحة المنتج"
+
+#: inc/init.php:591
+msgid "Show product after sold out"
+msgstr "عرض المنتج بعد بيعه"
+
+#: inc/init.php:597
+msgid "Countdown Title"
+msgstr "عنوان العد التنازلي"
+
+#: inc/init.php:598
+msgid "Opportunity left to this offer"
+msgstr "فرصة تركت لهذا العرض"
+
+#: inc/init.php:603
+msgid "Outofstock Image"
+msgstr "صورة خرج من المخزن"
+
+#: inc/init.php:609
+msgid "Amazing icon image"
+msgstr "صورة أيقونة مذهلة"
+
+#: inc/init.php:615
+msgid "sliders"
+msgstr "السلايدرات"
+
+#: inc/init.php:622
+msgid "Homepage Slides"
+msgstr "سلايدر الصفحة الرئيسية"
+
+#: inc/init.php:623 inc/init.php:648
+msgid "Add your desired images to show on homepage slider."
+msgstr "أضف الصور التي تريد إظهارها على شريط تمرير الصفحة الرئيسية."
+
+#: inc/init.php:625 inc/init.php:650
+msgid "Slide Title"
+msgstr "عنوان السلايد"
+
+#: inc/init.php:626 inc/init.php:651
+msgid "This Field Does not work"
+msgstr "هذا الحقل لا يعمل"
+
+#: inc/init.php:627 inc/init.php:652
+msgid "Slide Link"
+msgstr "رابط السلايد"
+
+#: inc/init.php:633
+msgid "Slider height"
+msgstr "ارتفاع السلايدر"
+
+#: inc/init.php:635
+msgid "Your image height for slider in desktop"
+msgstr "ارتفاع الصورة الخاص بك لشريط التمرير في سطح المكتب"
+
+#: inc/init.php:640
+msgid "Slider width"
+msgstr "عرض السلايدر"
+
+#: inc/init.php:642
+msgid "Your image width for slider in desktop"
+msgstr "عرض صورتك للشريط التمرير في سطح المكتب"
+
+#: inc/init.php:647
+msgid "Homepage Mobile Slides"
+msgstr "شرائح المحمول الصفحة الرئيسية"
+
+#: inc/init.php:658
+msgid "Mobile Slider height"
+msgstr "ارتفاع السليدر موبایل"
+
+#: inc/init.php:660
+msgid "Your image height for slider in mobile"
+msgstr "ارتفاع الصورة الخاص بك لمزلق في الجوال"
+
+#: inc/init.php:665
+msgid "Mobile Slider width"
+msgstr "عرض السليدر موبایل"
+
+#: inc/init.php:667
+msgid "Your image width for slider in mobile"
+msgstr "عرض صورتك في المنزلق في الجوال"
+
+#: inc/init.php:670
+msgid "Modern Slider"
+msgstr ""
+
+#: inc/init.php:682
+msgid "adsense"
+msgstr "ادسنس"
+
+#: inc/init.php:690
+msgid "Enable top bar"
+msgstr "تمكين الشريط العلوي"
+
+#: inc/init.php:691
+msgid "Enable top bar for display custom offers"
+msgstr "تمكين الشريط العلوي لعرض العروض المخصصة"
+
+#: inc/init.php:693 inc/init.php:758 inc/init.php:860 inc/init.php:869
+#: inc/init.php:893 inc/init.php:902 inc/init.php:910 inc/init.php:1068
+#: inc/init.php:1091 inc/init.php:1100 inc/init.php:1150 inc/init.php:1159
+#: inc/init.php:1168 inc/init.php:1178 inc/init.php:1187 inc/init.php:1197
+#: inc/init.php:1206 inc/init.php:1216 inc/init.php:1225 inc/init.php:1235
+#: inc/init.php:1244 inc/init.php:1253 inc/init.php:1263 inc/init.php:1272
+#: inc/init.php:1282 inc/init.php:1291 inc/init.php:1301 inc/init.php:1310
+#: inc/init.php:1320 inc/init.php:1329 inc/init.php:1339 inc/init.php:1348
+#: inc/init.php:1358 inc/init.php:1367 inc/init.php:1377 inc/init.php:1412
+#: inc/init.php:1421 inc/init.php:1430 inc/init.php:1438 inc/init.php:1446
+#: inc/init.php:1454 inc/init.php:1473 inc/init.php:1482 inc/init.php:1491
+#: inc/init.php:1500 inc/init.php:1509 inc/init.php:1518 inc/init.php:1527
+#: inc/init.php:1550 inc/init.php:1559 inc/init.php:1568 inc/init.php:1598
+#: inc/init.php:1654 inc/init.php:1672 inc/init.php:1681 inc/init.php:1691
+#: inc/init.php:1701 inc/init.php:1754 inc/init.php:1793 inc/init.php:1824
+#: inc/init.php:1833 inc/init.php:1903 inc/init.php:1925 inc/init.php:1993
+#: inc/init.php:2025 inc/init.php:2160 inc/init.php:2169 inc/init.php:2178
+#: inc/init.php:2187 inc/init.php:2196 inc/str/vc_map.php:439
+#: inc/str/vc_map.php:567
+msgid "Enable"
+msgstr "تفعيل"
+
+#: inc/init.php:694 inc/init.php:759 inc/init.php:861 inc/init.php:870
+#: inc/init.php:894 inc/init.php:903 inc/init.php:911 inc/init.php:1069
+#: inc/init.php:1092 inc/init.php:1101 inc/init.php:1151 inc/init.php:1160
+#: inc/init.php:1169 inc/init.php:1179 inc/init.php:1188 inc/init.php:1198
+#: inc/init.php:1207 inc/init.php:1217 inc/init.php:1226 inc/init.php:1236
+#: inc/init.php:1245 inc/init.php:1254 inc/init.php:1264 inc/init.php:1273
+#: inc/init.php:1283 inc/init.php:1292 inc/init.php:1302 inc/init.php:1311
+#: inc/init.php:1321 inc/init.php:1330 inc/init.php:1340 inc/init.php:1349
+#: inc/init.php:1359 inc/init.php:1368 inc/init.php:1378 inc/init.php:1413
+#: inc/init.php:1422 inc/init.php:1431 inc/init.php:1439 inc/init.php:1447
+#: inc/init.php:1455 inc/init.php:1474 inc/init.php:1483 inc/init.php:1492
+#: inc/init.php:1501 inc/init.php:1510 inc/init.php:1519 inc/init.php:1528
+#: inc/init.php:1551 inc/init.php:1560 inc/init.php:1569 inc/init.php:1599
+#: inc/init.php:1655 inc/init.php:1673 inc/init.php:1682 inc/init.php:1692
+#: inc/init.php:1702 inc/init.php:1755 inc/init.php:1794 inc/init.php:1825
+#: inc/init.php:1834 inc/init.php:1904 inc/init.php:1926 inc/init.php:1994
+#: inc/init.php:2026 inc/init.php:2161 inc/init.php:2170 inc/init.php:2179
+#: inc/init.php:2188 inc/init.php:2197
+msgid "Disable"
+msgstr "تعطيل"
+
+#: inc/init.php:699 inc/init.php:764
+msgid "Top Bar Type"
+msgstr "اظهار الشريط العلوي"
+
+#: inc/init.php:700 inc/init.php:765
+msgid "Select type of top bar."
+msgstr "تمكين الشريط العلوي للجوال"
+
+#: inc/init.php:702 inc/init.php:767
+msgid "Background and text"
+msgstr "الخلفية والنص"
+
+#: inc/init.php:703 inc/init.php:768
+msgid "Use Image"
+msgstr "استخدم صورة"
+
+#: inc/init.php:711 inc/init.php:776
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/init.php:712 inc/init.php:777
+msgid "Pick a background color for the top bar (default: #000)."
+msgstr "اختر لون خلفية للشريط العلوي (افتراضي: # 000)."
+
+#: inc/init.php:720 inc/init.php:785
+msgid "Text Color"
+msgstr "لون النص"
+
+#: inc/init.php:721 inc/init.php:786
+msgid "Pick a color for the top bar text (default: #FFF)."
+msgstr "اختر لونًا لنص الشريط العلوي (افتراضي: #FFF)."
+
+#: inc/init.php:729 inc/init.php:794
+msgid "Your Text"
+msgstr "النص الخاص بك"
+
+#: inc/init.php:739 inc/init.php:804
+msgid "Your image"
+msgstr "صورتك"
+
+#: inc/init.php:741 inc/init.php:806
+msgid "Choose your image to show on top bar"
+msgstr "اختر صورتك لتظهر في الشريط العلوي"
+
+#: inc/init.php:747 inc/init.php:812
+msgid "Top Bar Link"
+msgstr "رابط الشريط العلوي"
+
+#: inc/init.php:748 inc/init.php:813
+msgid "Insert your link for top bar"
+msgstr "أدخل رابطك للشريط العلوي"
+
+#: inc/init.php:755
+msgid "Enable mobile top bar"
+msgstr "تمكين الشريط العلوي للجوال"
+
+#: inc/init.php:756
+msgid "Enable mobile top bar for display custom offers"
+msgstr "تمكين الشريط العلوي للجوال لعرض العروض المخصصة"
+
+#: inc/init.php:819
+msgid "Header"
+msgstr "الهايدر"
+
+#: inc/init.php:824
+msgid "Enable Sticky header (Menu Fixed with Page Scroll)"
+msgstr "تمكين رأس مثبت (قائمة تم إصلاحها باستخدام تمرير الصفحة)"
+
+#: inc/init.php:832
+msgid "Menu type"
+msgstr ""
+
+#: inc/init.php:833
+msgid "Choose menu type."
+msgstr ""
+
+#: inc/init.php:837
+msgid "Type 1"
+msgstr ""
+
+#: inc/init.php:838
+msgid "Type 2"
+msgstr ""
+
+#: inc/init.php:839
+msgid "Type 3"
+msgstr ""
+
+#: inc/init.php:846
+msgid "Menu layout"
+msgstr ""
+
+#: inc/init.php:847
+msgid "Select menu layout."
+msgstr ""
+
+#: inc/init.php:849
+msgid "4 Level"
+msgstr ""
+
+#: inc/init.php:850
+msgid "3 Level"
+msgstr ""
+
+#: inc/init.php:857
+msgid "Dispaly cart box"
+msgstr "السلة والشحن"
+
+#: inc/init.php:858
+msgid "Dispaly cart box in header or not"
+msgstr "Dispaly صندوق العربة في الرأس أم لا"
+
+#: inc/init.php:866
+msgid "Dispaly search box"
+msgstr "Dispaly مربع البحث"
+
+#: inc/init.php:867
+msgid "Dispaly search box in header or not"
+msgstr "أزل مربع البحث في الرأس أم لا"
+
+#: inc/init.php:876
+msgid "Select Wishlist Page"
+msgstr "اختر قائمة الامتحانات"
+
+#: inc/init.php:877
+msgid "Select page that includes [yith_wcwl_wishlist] shortcode."
+msgstr "حدد الصفحة التي تتضمن رمزًا قصيرًا لـ [yith_wcwl_wishlist]."
+
+#: inc/init.php:878
+msgid "YITH WooCommerce Wishlist plugin should be active."
+msgstr "يجب أن يكون YITH WooCommerce Wishlist plugin نشطًا."
+
+#: inc/init.php:884
+msgid "Select Order Tracking Page"
+msgstr "اختر صفحة تتبع الطلب"
+
+#: inc/init.php:885
+msgid "Select page that includes [woocommerce_order_tracking] shortcode."
+msgstr "حدد الصفحة التي تتضمن الرمز القصير [woocommerce_order_tracking]."
+
+#: inc/init.php:890
+msgid "Dispaly Offers Menu"
+msgstr "عروض ديسبالي القائمة"
+
+#: inc/init.php:891
+msgid "Dispaly special offers link in main menu."
+msgstr "عروض Dispaly العروض الخاصة في القائمة الرئيسية."
+
+#: inc/init.php:899
+msgid "Using Different Menu On Mobile Theme"
+msgstr "استخدام قائمة مختلفة على موضوع المحمول"
+
+#: inc/init.php:900
+msgid ""
+"If enable this option, menu mobile location add to nav and you can choose "
+"different menu."
+msgstr ""
+"إذا تم تمكين هذا الخيار ، فسيتم إضافة موقع الجوال في القائمة إلى التنقل "
+"ويمكنك اختيار قائمة مختلفة."
+
+#: inc/init.php:908
+msgid "Add a FAQ link in header"
+msgstr ""
+
+#: inc/init.php:916
+msgid "Header Info Bar FAQ Text"
+msgstr ""
+
+#: inc/init.php:917
+msgid "Insert your header info bar faq text"
+msgstr ""
+
+#: inc/init.php:918
+msgid "Have A Question?"
+msgstr ""
+
+#: inc/init.php:925 inc/init.php:1879
+msgid "Select FAQ Page"
+msgstr "اختر صفحة الأسئلة الشائعة"
+
+#: inc/init.php:926 inc/init.php:1880
+msgid "Select page that has FAQs."
+msgstr "حدد الصفحة التي تحتوي على الأسئلة الشائعة."
+
+#: inc/init.php:934
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/init.php:939
+msgid "Shop"
+msgstr "المتجر"
+
+#: inc/init.php:951
+msgid "Referer"
+msgstr ""
+
+#: inc/init.php:952
+msgid "Redirect customerts to referer page after login & register."
+msgstr ""
+
+#: inc/init.php:960
+msgid "Password strength"
+msgstr ""
+
+#: inc/init.php:961
+msgid "Disable password strength is registration form."
+msgstr ""
+
+#: inc/init.php:969
+msgid "Ajax Mode"
+msgstr "Ajax"
+
+#: inc/init.php:970
+msgid "Enable / Disable the Ajax Mode."
+msgstr "تمكين / تعطيل وضع Ajax."
+
+#: inc/init.php:978
+msgid "Dropdown quantity"
+msgstr "كمية منسدلة"
+
+#: inc/init.php:979
+msgid "Enable / Disable dropdown quantity."
+msgstr "تمكين / تعطيل"
+
+#: inc/init.php:987
+msgid "New tab"
+msgstr ""
+
+#: inc/init.php:988 inc/init.php:997
+msgid "Open products in new tab."
+msgstr ""
+
+#: inc/init.php:996
+msgid "New tab in carousels"
+msgstr ""
+
+#: inc/init.php:1007
+msgid "Products layout"
+msgstr "تخطيط المنتجات"
+
+#: inc/init.php:1008
+msgid "Select Products layout in archive page."
+msgstr "حدد تخطيط المنتجات في صفحة الأرشيف."
+
+#: inc/init.php:1010
+msgid "Grid"
+msgstr "شبكة"
+
+#: inc/init.php:1011
+msgid "Listing"
+msgstr "القائمة"
+
+#: inc/init.php:1016
+msgid "Catalog Mode"
+msgstr "كاتالوج"
+
+#: inc/init.php:1017
+msgid "Enable / Disable the Catalog Mode."
+msgstr "تمكين/تعطيل تمكين وضع الكتالوج"
+
+#: inc/init.php:1025
+msgid "Products count"
+msgstr "عدد المنتجات"
+
+#: inc/init.php:1026
+msgid "Number of products that show in shop page"
+msgstr "عدد المنتجات التي تظهر في صفحة المتجر"
+
+#: inc/init.php:1030
+msgid "12 Items"
+msgstr "12 البنود"
+
+#: inc/init.php:1031
+msgid "24 Items"
+msgstr "24 البنود"
+
+#: inc/init.php:1032
+msgid "48 Items"
+msgstr "48 البنود"
+
+#: inc/init.php:1033
+msgid "60 Items"
+msgstr "60 البنود"
+
+#: inc/init.php:1038
+msgid "Brand Attribute"
+msgstr "سمة العلامة التجارية"
+
+#: inc/init.php:1039
+msgid "Choose a product attribute that will be used as brands"
+msgstr "اختر سمة منتج الذي سيتم استخدامه كالعلامات التجارية"
+
+#: inc/init.php:1040
+msgid ""
+"Once you choose a brand attribute, you will be able to add brand images to "
+"the attributes"
+msgstr ""
+"بمجرد اختيار سمة العلامة تجارية، سوف تكون قادراً على إضافة صور العلامة "
+"التجارية للسمات"
+
+#: inc/init.php:1048
+msgid "Brands"
+msgstr "الماركات"
+
+#: inc/init.php:1049
+msgid "Add your desired images to show on brand widget."
+msgstr "أضف الصور التي تريد إظهارها على أداة العلامة التجارية."
+
+#: inc/init.php:1051
+msgid "Brand Title"
+msgstr "عنوان العلامة التجارية"
+
+#: inc/init.php:1052
+msgid "Brand Link"
+msgstr "رابط العلامة التجارية"
+
+#: inc/init.php:1058
+msgid "Product Placeholder"
+msgstr "العنصر النائب المنتج"
+
+#: inc/init.php:1060
+msgid "Choose your images to show for products that has no images."
+msgstr "اختر صورك لعرض المنتجات التي لا تحتوي على صور."
+
+#: inc/init.php:1063
+msgid "Show last price change"
+msgstr "عرض آخر تغيير للسعر"
+
+#: inc/init.php:1064
+msgid "Show last price change and modified date in loop"
+msgstr "إظهار تغيير السعر الأخير وتاريخ التعديل في حلقة"
+
+#: inc/init.php:1075
+msgid "Cart & Shipping"
+msgstr "السلة والشحن"
+
+#: inc/init.php:1083
+msgid "Register page features"
+msgstr "تسجيل ميزات الصفحة"
+
+#: inc/init.php:1088
+msgid "Display Add To Cart Button"
+msgstr "عرض زر إضافة إلى العربة"
+
+#: inc/init.php:1089
+msgid "Display add to cart button on shop loop and category page."
+msgstr "عرض إضافة إلى زر سلة التسوق في حلقة متجر وصفحة الفئة."
+
+#: inc/init.php:1097
+msgid "Enable minimal checkout header"
+msgstr ""
+
+#: inc/init.php:1098
+msgid "Enable or disable minimal checkout header in checkout page."
+msgstr ""
+
+#: inc/init.php:1106
+msgid "Cart count"
+msgstr ""
+
+#: inc/init.php:1107
+msgid "Select cart count method."
+msgstr ""
+
+#: inc/init.php:1109
+msgid "cart rows"
+msgstr ""
+
+#: inc/init.php:1110
+msgid "cart items"
+msgstr ""
+
+#: inc/init.php:1115
+msgid "show Map"
+msgstr ""
+
+#: inc/init.php:1125
+msgid "Choose your map type"
+msgstr ""
+
+#: inc/init.php:1127
+msgid "Google"
+msgstr ""
+
+#: inc/init.php:1128
+msgid "Parsimap"
+msgstr ""
+
+#: inc/init.php:1136
+msgid "Google Map API"
+msgstr "كود API للربط بخرائط قوقل"
+
+#: inc/init.php:1137
+msgid "Insert your google map api"
+msgstr "أدخل خريطة google map"
+
+#: inc/init.php:1143
+msgid "Default shipping time"
+msgstr ""
+
+#: inc/init.php:1148
+msgid "Enable chipping other address"
+msgstr ""
+
+#: inc/init.php:1156
+msgid "Enable name in checkout"
+msgstr "تمكين الاسم في الخروج"
+
+#: inc/init.php:1157
+msgid "Enable or disable name field in checkout page."
+msgstr "تمكين أو تعطيل حقل الاسم في صفحة الخروج."
+
+#: inc/init.php:1165
+msgid "Name required"
+msgstr "الاسم مطلوب"
+
+#: inc/init.php:1166
+msgid "If you want required name in checkout, enable this option."
+msgstr "إذا كنت تريد الاسم المطلوب في الخروج ، فقم بتمكين هذا الخيار."
+
+#: inc/init.php:1175
+msgid "Enable last name in checkout"
+msgstr "تمكين الاسم الأخير في الخروج"
+
+#: inc/init.php:1176
+msgid "Enable or disable last name field in checkout page."
+msgstr "تمكين أو تعطيل حقل الاسم الأخير في صفحة الخروج."
+
+#: inc/init.php:1184
+msgid "Last Name required"
+msgstr "لا حاجة للاسم الاخير"
+
+#: inc/init.php:1185
+msgid "If you want required last name in checkout, enable this option."
+msgstr "إذا كنت تريد اسم العائلة المطلوب في الخروج ، فقم بتمكين هذا الخيار."
+
+#: inc/init.php:1194
+msgid "Enable email in checkout"
+msgstr "تمكين البريد الإلكتروني في الخروج"
+
+#: inc/init.php:1195
+msgid "Enable or disable email field in checkout page."
+msgstr "تمكين أو تعطيل حقل البريد الإلكتروني في صفحة الخروج."
+
+#: inc/init.php:1203
+msgid "Email required"
+msgstr "البريد الإلكتروني مطلوب"
+
+#: inc/init.php:1204
+msgid "If you want required email in checkout, enable this option."
+msgstr ""
+"إذا كنت تريد البريد الإلكتروني المطلوب في الخروج ، قم بتمكين هذا الخيار."
+
+#: inc/init.php:1213
+msgid "Enable phone in checkout"
+msgstr "تمكين الهاتف في الخروج"
+
+#: inc/init.php:1214
+msgid "Enable or disable phone field in checkout page."
+msgstr "تمكين أو تعطيل حقل الهاتف في صفحة الخروج."
+
+#: inc/init.php:1222
+msgid "Phone required"
+msgstr "رقم الهاتف مطلوب"
+
+#: inc/init.php:1223
+msgid "If you want required phone in checkout, enable this option."
+msgstr "إذا كنت تريد الهاتف المطلوب في الخروج ، قم بتمكين هذا الخيار."
+
+#: inc/init.php:1232
+msgid "Enable phone validate in checkout"
+msgstr ""
+
+#: inc/init.php:1233
+msgid ""
+"Enable or disable phone validate in checkout page. if you use digits in "
+"checkout page, disable this option"
+msgstr ""
+
+#: inc/init.php:1241
+msgid "Enable country in checkout"
+msgstr ""
+
+#: inc/init.php:1242
+msgid "Enable or disable country field in checkout page."
+msgstr ""
+
+#: inc/init.php:1250
+msgid "Country required"
+msgstr ""
+
+#: inc/init.php:1251
+msgid "If you want required country in checkout, enable this option."
+msgstr ""
+
+#: inc/init.php:1260
+msgid "Enable state in checkout"
+msgstr "تمكين الدولة في الخروج"
+
+#: inc/init.php:1261
+msgid "Enable or disable state field in checkout page."
+msgstr "تمكين أو تعطيل حقل الحالة في صفحة الخروج."
+
+#: inc/init.php:1269
+msgid "State required"
+msgstr "حقل الدولة مطلوب"
+
+#: inc/init.php:1270
+msgid "If you want required state in checkout, enable this option."
+msgstr "إذا كنت تريد حالة مطلوب في الخروج ، قم بتمكين هذا الخيار."
+
+#: inc/init.php:1279
+msgid "Enable city in checkout"
+msgstr "تمكين المدينة في الخروج"
+
+#: inc/init.php:1280
+msgid "Enable or disable city field in checkout page."
+msgstr "تمكين أو تعطيل حقل المدينة في صفحة الخروج."
+
+#: inc/init.php:1288
+msgid "City required"
+msgstr "المدينة مطلوبة"
+
+#: inc/init.php:1289
+msgid "If you want required city in checkout, enable this option."
+msgstr "إذا كنت تريد المدينة المطلوبة في الخروج ، قم بتمكين هذا الخيار."
+
+#: inc/init.php:1298
+msgid "Enable address in checkout"
+msgstr "تمكين العنوان في الخروج"
+
+#: inc/init.php:1299
+msgid "Enable or disable address field in checkout page."
+msgstr "تمكين أو تعطيل حقل العنوان في صفحة الخروج."
+
+#: inc/init.php:1307
+msgid "Address required"
+msgstr "العنوان (مطلوب)"
+
+#: inc/init.php:1308
+msgid "If you want required address in checkout, enable this option."
+msgstr "إذا كنت تريد العنوان المطلوب في الخروج ، قم بتمكين هذا الخيار."
+
+#: inc/init.php:1317
+msgid "Enable post-code in checkout"
+msgstr "تمكين الرمز البريدي في الخروج"
+
+#: inc/init.php:1318
+msgid "Enable or disable post-code field in checkout page."
+msgstr "تمكين أو تعطيل حقل الرمز البريدي في صفحة الخروج."
+
+#: inc/init.php:1326
+msgid "Post-code required"
+msgstr "الرمز البريدي المطلوب"
+
+#: inc/init.php:1327
+msgid "If you want required post-code in checkout, enable this option."
+msgstr "إذا كنت تريد الرمز البريدي المطلوب في الخروج ، فقم بتمكين هذا الخيار."
+
+#: inc/init.php:1336
+msgid "Enable national code in checkout"
+msgstr "تمكين رمز وطني في الخروج"
+
+#: inc/init.php:1337
+msgid "Enable or disable national code field in checkout page."
+msgstr "تمكين أو تعطيل حقل الرمز الوطني في صفحة الخروج."
+
+#: inc/init.php:1345
+msgid "National code required"
+msgstr "رمز وطني مطلوب"
+
+#: inc/init.php:1346
+msgid "If you want required national code in checkout, enable this option."
+msgstr "إذا كنت تريد رمزًا وطنيًا مطلوبًا في الخروج ، فقم بتمكين هذا الخيار."
+
+#: inc/init.php:1355
+msgid "Enable bank card in checkout"
+msgstr "تمكين بطاقة البنك في الخروج"
+
+#: inc/init.php:1356
+msgid "Enable or disable bank card field in checkout page."
+msgstr "تمكين أو تعطيل حقل البطاقة المصرفية في صفحة الدفع."
+
+#: inc/init.php:1364
+msgid "Bank card required"
+msgstr "بطاقة البنك المطلوبة"
+
+#: inc/init.php:1365
+msgid "If you want required bank card in checkout, enable this option."
+msgstr ""
+"إذا كنت ترغب في الحصول على بطاقة مصرفية مطلوبة في عملية الدفع ، فقم بتمكين "
+"هذا الخيار."
+
+#: inc/init.php:1374
+msgid "Enable customer notes in checkout"
+msgstr ""
+
+#: inc/init.php:1375
+msgid "Enable or disable customer notes section in checkout page."
+msgstr ""
+
+#: inc/init.php:1387
+msgid "Product Page"
+msgstr "صفحة المنتج"
+
+#: inc/init.php:1393
+msgid "Color Attribute"
+msgstr "سمة اللون"
+
+#: inc/init.php:1394
+msgid "Choose a product attribute that will be used as color"
+msgstr "اختر سمة المنتج التي سيتم استخدامها كألوان"
+
+#: inc/init.php:1400
+msgid "Warranty Attribute"
+msgstr ""
+
+#: inc/init.php:1401
+msgid "Choose a product attribute that will be used as warranty"
+msgstr ""
+
+#: inc/init.php:1409
+msgid "Out of stock price"
+msgstr ""
+
+#: inc/init.php:1410
+msgid "Dont show product price if its out of stock"
+msgstr ""
+
+#: inc/init.php:1418
+msgid "low stock notice"
+msgstr ""
+
+#: inc/init.php:1419
+msgid "Show notice if stock quantity is low"
+msgstr ""
+
+#: inc/init.php:1427
+msgid "Pop-up description"
+msgstr ""
+
+#: inc/init.php:1428
+msgid "Show product description as a pop-up in mobile theme"
+msgstr ""
+
+#: inc/init.php:1436
+msgid "Enable zoom for thumbnails"
+msgstr "تمكين التكبير للصور المصغرة"
+
+#: inc/init.php:1444
+msgid "Enable response for products"
+msgstr ""
+
+#: inc/init.php:1452
+msgid "Enable price vote for products"
+msgstr ""
+
+#: inc/init.php:1460
+msgid "Choose single product style"
+msgstr ""
+
+#: inc/init.php:1462 inc/init.php:1711 inc/init.php:2138
+msgid "Bigikala"
+msgstr "Bigikala"
+
+#: inc/init.php:1463
+msgid "Boxed"
+msgstr ""
+
+#: inc/init.php:1470
+msgid "Dispaly Product Price Changes"
+msgstr "التغييرات سعر المنتج ديسبالي"
+
+#: inc/init.php:1471
+msgid "Dispaly product price changes on product page"
+msgstr "تجاهل تغيرات أسعار المنتجات في صفحة المنتج"
+
+#: inc/init.php:1477
+msgid "Show price changes tab"
+msgstr "عرض علامة تبويب تغييرات الأسعار"
+
+#: inc/init.php:1478
+msgid "Show price changes in tab"
+msgstr "عرض تغييرات السعر في علامة التبويب"
+
+#: inc/init.php:1488
+msgid "Enable Auto Product Price Changes"
+msgstr "تمكين تغييرات أسعار منتجات السيارات"
+
+#: inc/init.php:1489
+msgid ""
+"Enable this option to record product price changes automatically. Disable if "
+"you want add price on product page."
+msgstr ""
+"تمكين هذا الخيار لتسجيل تغييرات أسعار المنتج تلقائيًا. تعطيل إذا كنت تريد "
+"إضافة سعر على صفحة المنتج."
+
+#: inc/init.php:1497
+msgid "Dispaly Product SKU"
+msgstr "Dispaly المنتج SKU"
+
+#: inc/init.php:1498
+msgid "Dispaly product SKU in product page"
+msgstr "Dispaly المنتج SKU في صفحة المنتج"
+
+#: inc/init.php:1506
+msgid "Dispaly Product Category"
+msgstr "تصنيف المنتجات"
+
+#: inc/init.php:1507
+msgid "Dispaly product category in product page"
+msgstr "أضف فئات منتجات لصفحتك."
+
+#: inc/init.php:1515
+msgid "Dispaly Product Tag"
+msgstr "ديسبالي المنتج الوسم"
+
+#: inc/init.php:1516
+msgid "Dispaly product tag in product page"
+msgstr "علامة المنتج Dispaly في صفحة المنتج"
+
+#: inc/init.php:1524
+msgid "Dispaly Product Share Section"
+msgstr "قسم مشاركة المنتج Dispaly"
+
+#: inc/init.php:1525
+msgid "Dispaly product share section in product page"
+msgstr "قسم مشاركة المنتج Dispaly في صفحة المنتج"
+
+#: inc/init.php:1533
+msgid "Send To Friend Email Subject"
+msgstr "أرسل لصديق صديق الموضوع"
+
+#: inc/init.php:1534
+msgid "Insert your email subject sending on send to friend section."
+msgstr "أدخل موضوع البريد الإلكتروني الخاص بك في إرسال إلى قسم إرسال لصديق."
+
+#: inc/init.php:1540
+msgid "Send To Friend Email Body"
+msgstr "أرسل إلى صديق Email Body"
+
+#: inc/init.php:1541
+msgid ""
+"Insert your message text for sending on send to friend section. Product link "
+"placed at the end of email."
+msgstr ""
+"أدرج نص رسالتك لإرسالها في قسم إرسال إلى صديق. رابط المنتج في نهاية البريد "
+"الإلكتروني."
+
+#: inc/init.php:1547
+msgid "Dispaly Related Products"
+msgstr "ديسبالي المنتجات ذات الصلة"
+
+#: inc/init.php:1548
+msgid "Dispaly related products on product page"
+msgstr "ديسبالي المنتجات ذات الصلة على صفحة المنتج"
+
+#: inc/init.php:1556
+msgid "Related products type"
+msgstr ""
+
+#: inc/init.php:1557
+msgid "Show related product just from latest category"
+msgstr ""
+
+#: inc/init.php:1565
+msgid "Dispaly Product Short Description"
+msgstr "وصف قصير للمنتج"
+
+#: inc/init.php:1566
+msgid "Dispaly product short description on product page"
+msgstr "ديسبالي وصف المنتج قصيرة على صفحة المنتج"
+
+#: inc/init.php:1574
+msgid "Call"
+msgstr ""
+
+#: inc/init.php:1575
+msgid "Empty price label"
+msgstr ""
+
+#: inc/init.php:1580
+msgid "Free"
+msgstr "مجاناً"
+
+#: inc/init.php:1581
+msgid "Free products label"
+msgstr ""
+
+#: inc/init.php:1588
+msgid "Comment template"
+msgstr ""
+
+#: inc/init.php:1596
+msgid "Enable new comment template"
+msgstr ""
+
+#: inc/init.php:1605
+msgid "Select comment Page"
+msgstr ""
+
+#: inc/init.php:1606
+msgid "Select page that has [bigi-comments] shortcode."
+msgstr ""
+
+#: inc/init.php:1612
+msgid "Comment note"
+msgstr ""
+
+#: inc/init.php:1613
+msgid "This text will show in comment tab content."
+msgstr ""
+
+#: inc/init.php:1619
+msgid "Comment page title "
+msgstr ""
+
+#: inc/init.php:1620
+msgid "This text will show in add new comment page as title."
+msgstr ""
+
+#: inc/init.php:1626
+msgid "Comment description"
+msgstr ""
+
+#: inc/init.php:1627
+msgid "This text will show in add new comment page."
+msgstr ""
+
+#: inc/init.php:1638
+msgid "Select comment rules Page"
+msgstr ""
+
+#: inc/init.php:1639
+msgid "Select page that has comment rules."
+msgstr ""
+
+#: inc/init.php:1645
+msgid "Default Comment rate titles"
+msgstr ""
+
+#: inc/init.php:1652
+msgid "Enable advantages & disadvantages for admin"
+msgstr ""
+
+#: inc/init.php:1661
+msgid "Notify"
+msgstr "اعلام"
+
+#: inc/init.php:1669
+msgid "Enable Notify Function"
+msgstr "تفعيل وظيفة الإخطار"
+
+#: inc/init.php:1670
+msgid "Enable notify function on product page."
+msgstr "تمكين إعلام الوظيفة على صفحة المنتج."
+
+#: inc/init.php:1678
+msgid "Enable Notify For Special Offer"
+msgstr "تمكين التبليغ عن عرض خاص"
+
+#: inc/init.php:1679
+msgid "Enable notify for offers on product page."
+msgstr "تمكين الإخطار بالعروض على صفحة المنتج."
+
+#: inc/init.php:1688
+msgid "Enable Notify For Stock"
+msgstr "تمكين إعلام للسهم"
+
+#: inc/init.php:1689
+msgid "Enable notify for stock on product page."
+msgstr "تمكين الإخطار عن الأسهم في صفحة المنتج."
+
+#: inc/init.php:1698
+msgid "Enable Notify With Email"
+msgstr "تمكين الإعلام بالبريد الإلكتروني"
+
+#: inc/init.php:1699
+msgid "Enable notify with email on product page."
+msgstr "تمكين الإعلام عبر البريد الإلكتروني في صفحة المنتج."
+
+#: inc/init.php:1708
+msgid "Choose how will sms send"
+msgstr "اختيار كيفية إرسال الرسائل القصيرة"
+
+#: inc/init.php:1709
+msgid "You should set plugin settings (Products Newsletter)."
+msgstr "يجب عليك تعيين إعدادات المكون الإضافي (المنتجات الإخبارية)."
+
+#: inc/init.php:1712
+msgid "Woo sms plugin"
+msgstr "Woo sms plugin"
+
+#: inc/init.php:1719
+msgid "Notify Email Subject For Stock"
+msgstr "إخطار موضوع البريد الإلكتروني للسهم"
+
+#: inc/init.php:1720
+msgid "Insert subject of notify email for stock."
+msgstr "إدراج موضوع إشعار البريد الإلكتروني للمخزون."
+
+#: inc/init.php:1725
+msgid "Notify Email Text For Stock"
+msgstr "أخطر نص البريد الإلكتروني للسهم"
+
+#: inc/init.php:1726
+msgid ""
+"Insert text of notify email for stock. You can use #product# for render "
+"product link in text."
+msgstr ""
+"أدخل نص إشعار البريد الإلكتروني للمخزون. يمكنك استخدام # product # لتقديم "
+"رابط المنتج في النص."
+
+#: inc/init.php:1735
+msgid "Notify Email Subject For Special Offer"
+msgstr "إخطار موضوع البريد الإلكتروني للحصول على عرض خاص"
+
+#: inc/init.php:1736
+msgid "Insert subject of notify email for special offer."
+msgstr "إدراج موضوع لإشعار البريد الإلكتروني للعرض الخاص."
+
+#: inc/init.php:1741
+msgid "Notify Email Text For Special Offer"
+msgstr "أخطر نص البريد الإلكتروني للحصول على عرض خاص"
+
+#: inc/init.php:1742
+msgid ""
+"Insert text of notify email for special offer. You can use #product# for "
+"render product link in text."
+msgstr ""
+"أدخل نص إشعار البريد الإلكتروني للعرض الخاص. يمكنك استخدام # product # "
+"لتقديم رابط المنتج في النص."
+
+#: inc/init.php:1751
+msgid "Enable Notify With SMS"
+msgstr "تمكين الإخطار مع الرسائل القصيرة"
+
+#: inc/init.php:1752
+msgid ""
+"Enable notify with SMS on product page. Woocommerce SMS plugin should be "
+"activate."
+msgstr ""
+"تمكين الإخطار مع الرسائل القصيرة على صفحة المنتج. يجب تفعيل Woocommerce SMS "
+"plugin."
+
+#: inc/init.php:1761
+msgid "Notify SMS Text For Stock"
+msgstr "يخطر نص SMS للمخزون"
+
+#: inc/init.php:1762
+msgid ""
+"Insert text of notify sms for stock. You can use #product# for render "
+"product link in text."
+msgstr ""
+"إدراج نص بإخطار الرسائل القصيرة عن الأوراق المالية. يمكنك استخدام # product "
+"# لتقديم رابط المنتج في النص."
+
+#: inc/init.php:1767
+msgid "Notify SMS Text For Special Offer"
+msgstr "إخطار نص SMS للحصول على عرض خاص"
+
+#: inc/init.php:1768
+msgid ""
+"Insert text of notify sms for special offer. You can use #product# for "
+"render product link in text."
+msgstr ""
+"إدراج نص بإخطار الرسائل القصيرة للحصول على عرض خاص. يمكنك استخدام # product "
+"# لتقديم رابط المنتج في النص."
+
+#: inc/init.php:1774 woocommerce/content-product.php:58
+#: inc/woocommerce/compare.php:444 inc/woocommerce/compare.php:456
+#: woocommerce/single-product/product-image.php:104
+#: woocommerce/single-product/product-image.php:112
+msgid "Compare"
+msgstr "قارن"
+
+#: inc/init.php:1783
+msgid "Select Compare Page"
+msgstr "تحديد صفحة المقارنة"
+
+#: inc/init.php:1784
+msgid "Select page that has [popup-compare] shortcode."
+msgstr "حدد الصفحة التي تحتوي على رمز قصير[popup-compare]."
+
+#: inc/init.php:1790
+msgid "Enable Bigikala Compare System"
+msgstr "تمكين Bigikala قارن النظام"
+
+#: inc/init.php:1791
+msgid "Enable to use special compare system on bigikala theme."
+msgstr "تمكين استخدام نظام مقارنة خاص على موضوع bigikala."
+
+#: inc/init.php:1800
+msgid "Torob search engine"
+msgstr ""
+
+#: inc/init.php:1807
+msgid ""
+"Torob is a search engine shopping service with more than 5 million unique "
+"daily subscribers. Torob has an app with over 500,000 installations. Using "
+"torob, you can display your products to more customers. Torob is the best "
+"way to advertise and introduce your products to customers. The connection to "
+"the horn requires no technical skill from your side. Just click the button "
+"below and fill out the registration form on the Torob site. After that, the "
+"terms of cooperation will be emailed to you. If you agree to the terms of "
+"cooperation, access to the Torob panel will be sent to you. And after "
+"charging the Torob in 2 weeks, without the need to do anything from your "
+"side, your products will be added to Torob. Use the button below to link "
+"your site to the harvester<br><a class=\"btn btn-torob\" target=\"_blank\" "
+"href=\"http://torob.com/shop-register?"
+"utm_source=BigiKalacon&utm_medium=site&utm_campaign=Demo\">Start</a>"
+msgstr ""
+
+#: inc/init.php:1814
+msgid "Footer"
+msgstr "الفوتر"
+
+#: inc/init.php:1821
+msgid "Enable Recently Viewed Products"
+msgstr "المنتجات التي شوهدت مؤخرا"
+
+#: inc/init.php:1822
+msgid "Enable Recently Viewed Products In Footer Area"
+msgstr "تمكين المنتجات التي تم عرضها مؤخرًا في منطقة التذييل"
+
+#: inc/init.php:1830
+msgid "Enable footer info bar"
+msgstr "تمكين شريط معلومات التذييل"
+
+#: inc/init.php:1831
+msgid "Enable footer info bar for display support info"
+msgstr "تمكين شريط معلومات التذييل للحصول على معلومات دعم العرض"
+
+#: inc/init.php:1839
+msgid "Footer Info Bar Background Color"
+msgstr "معلومات تذييل شريط لون الخلفية"
+
+#: inc/init.php:1840
+msgid "Pick a background color for the footer info bar (default: #d7dee0)."
+msgstr "اختر لون خلفية لشريط معلومات التذييل (افتراضي: # d7dee0)."
+
+#: inc/init.php:1848
+msgid "Footer Info Bar Text Color"
+msgstr "تذييل معلومات شريط لون النص"
+
+#: inc/init.php:1849
+msgid "Pick a color for the footer info bar text (default: #4a4a4a)."
+msgstr "اختر لونًا لنص شريط معلومات التذييل (افتراضي: # 4a4a4a)."
+
+#: inc/init.php:1857
+msgid "Footer Info Bar Slogan"
+msgstr "معلومات تذييل شريط الشعار"
+
+#: inc/init.php:1858
+msgid "Insert your footer info bar slogan"
+msgstr "إدراج شعار شريط المعلومات تذييل الخاص بك"
+
+#: inc/init.php:1864
+msgid "Footer Info Bar Email Address"
+msgstr "تذييل معلومات شريط عنوان البريد الإلكتروني"
+
+#: inc/init.php:1865
+msgid "Insert your footer info bar email address"
+msgstr "أدخل عنوان البريد الإلكتروني لشريط معلومات تذييل الصفحة"
+
+#: inc/init.php:1871
+msgid "Footer Info Bar FAQ Text"
+msgstr "تذييل معلومات شريط الأسئلة المتداولة النص"
+
+#: inc/init.php:1872
+msgid "Insert your footer info bar faq text"
+msgstr "تذييل معلومات شريط الأسئلة المتداولة النص"
+
+#: inc/init.php:1885
+msgid "Footer Info Bar Phone Number"
+msgstr "تذييل معلومات شريط رقم الهاتف"
+
+#: inc/init.php:1886
+msgid "Insert your footer info bar phone number"
+msgstr "أدخل رقم هاتف شريط معلومات التذييل الخاص بك"
+
+#: inc/init.php:1893
+msgid "Select Contact Page"
+msgstr "اختر صفحة الاتصال"
+
+#: inc/init.php:1894
+msgid "Select page that has contact information."
+msgstr "حدد الصفحة التي تحتوي على معلومات الاتصال."
+
+#: inc/init.php:1900
+msgid "Enable footer Subscribe Bar"
+msgstr "تمكين تذييل شريط الاشتراك"
+
+#: inc/init.php:1901
+msgid "Enable footer subscribe bar."
+msgstr "تمكين شريط الاشتراك في التذييل."
+
+#: inc/init.php:1909
+msgid "Footer Subscribe Form Title"
+msgstr "الفوتر عنوان شريط الاشتراك"
+
+#: inc/init.php:1910
+msgid "Insert your footer subscribe form title"
+msgstr "أدخل عنوان النموذج الخاص بك للاشتراك في التذييل"
+
+#: inc/init.php:1915
+msgid "Footer Subscribe Form Shortcode"
+msgstr "تذييل نموذج الاشتراك رمز قصير"
+
+#: inc/init.php:1916
+msgid "Insert your footer subscribe form shortcode (use contact form 7 plugin)"
+msgstr ""
+"أدخل رمزًا قصيرًا لنموذج الاشتراك في تذييل الصفحة (استخدم نموذج الاتصال 7 "
+"المكون الإضافي)"
+
+#: inc/init.php:1922
+msgid "Enable footer Menu Bar"
+msgstr "تفعيل القائمة بالفوتر"
+
+#: inc/init.php:1923
+msgid "Enable footer menu bar."
+msgstr "تفعيل القائمة بالفوتر"
+
+#: inc/init.php:1933
+msgid "Select Column 1 Category"
+msgstr "حدد العمود 1 الفئة"
+
+#: inc/init.php:1934 inc/init.php:1942 inc/init.php:1950 inc/init.php:1958
+#: inc/init.php:1966 inc/init.php:1974
+msgid "Select category to show childrens categories."
+msgstr "اختر الفئة لإظهار فئات الأطفال."
+
+#: inc/init.php:1941
+msgid "Select Column 2 Category"
+msgstr "حدد العمود 2 الفئة"
+
+#: inc/init.php:1949
+msgid "Select Column 3 Category"
+msgstr "حدد العمود 3 الفئة"
+
+#: inc/init.php:1957
+msgid "Select Column 4 Category"
+msgstr "حدد العمود 4 الفئة"
+
+#: inc/init.php:1965
+msgid "Select Column 5 Category"
+msgstr "حدد العمود 5 الفئة"
+
+#: inc/init.php:1973
+msgid "Select Column 6 Category"
+msgstr "حدد العمود 6 الفئة"
+
+#: inc/init.php:1979
+msgid "CopyRight Text"
+msgstr "نص حقوق الطبع والنشر"
+
+#: inc/init.php:1980 inc/init.php:1986
+msgid "Insert your copyright text"
+msgstr "أدخل نص حقوق الطبع والنشر الخاص بك"
+
+#: inc/init.php:1985
+msgid "CopyRight Text Two"
+msgstr "نص حقوق الطبع والنشر الثانی"
+
+#: inc/init.php:1991
+msgid "Hide footer about section except homepage"
+msgstr "إخفاء التذييل حول القسم باستثناء الصفحة الرئيسية"
+
+#: inc/init.php:1999
+msgid "Enamad And Other Scripts"
+msgstr "Enamad والنصوص الأخرى"
+
+#: inc/init.php:2000
+msgid "Insert your Enamad or other scripts code"
+msgstr "قم بإدخال رمز Enamad أو أي نصوص برمجية أخرى"
+
+#: inc/init.php:2005
+msgid "Your Text About Website"
+msgstr "أدخل نص حقوق الطبع والنشر الخاص بك"
+
+#: inc/init.php:2014
+msgid "Your Text Or Enamad Code To Show On Mobile Footer"
+msgstr "النص الخاص بك أو رمز إيناماد لتظهر على تذييل المحمول"
+
+#: inc/init.php:2023
+msgid "Show fixed box in adoptive"
+msgstr ""
+
+#: inc/init.php:2043
+msgid "link"
+msgstr ""
+
+#: inc/init.php:2049
+msgid "Button text "
+msgstr ""
+
+#: inc/init.php:2056
+msgid "Social"
+msgstr "اجتماعي"
+
+#: inc/init.php:2063 woocommerce/single-product/product-image.php:194
+msgid "Facebook"
+msgstr "الفيس بوك"
+
+#: inc/init.php:2064
+msgid "Insert your facebook link"
+msgstr "أدخل رابط الفايسبوك الخاص بك"
+
+#: inc/init.php:2069 woocommerce/single-product/product-image.php:197
+msgid "Twitter"
+msgstr "تويتر"
+
+#: inc/init.php:2070
+msgid "Insert your twitter link"
+msgstr "أدخل رابط twitter الخاص بك"
+
+#: inc/init.php:2075
+msgid "Google Plus"
+msgstr "Google-Plus"
+
+#: inc/init.php:2076
+msgid "Insert your googleplus link"
+msgstr "أدخل رابط googleplus الخاص بك"
+
+#: inc/init.php:2081
+msgid "Instagram"
+msgstr "انستغرام"
+
+#: inc/init.php:2082
+msgid "Insert your instagram link"
+msgstr "أدرج الرابط المخصص ل Instagram"
+
+#: inc/init.php:2087
+msgid "Aparat"
+msgstr "Aparat"
+
+#: inc/init.php:2088
+msgid "Insert your aparat link"
+msgstr "أدخل رابط aparat الخاص بك"
+
+#: inc/init.php:2093 woocommerce/single-product/product-image.php:203
+msgid "Telegram"
+msgstr "تيلغرام"
+
+#: inc/init.php:2094
+msgid "Insert your telegram link"
+msgstr "أدخل رابط برقية الخاص بك"
+
+#: inc/init.php:2100
+msgid "Ios App link"
+msgstr "خاصية تطبيق الأيفون"
+
+#: inc/init.php:2101
+msgid "Insert your appstore app link"
+msgstr "قم بإدراج رابط تطبيق appstore الخاص بك"
+
+#: inc/init.php:2106
+msgid "Android App"
+msgstr "تطبيق Android"
+
+#: inc/init.php:2107
+msgid "Insert your cafebazar link"
+msgstr ""
+
+#: inc/init.php:2112
+msgid "Google play App"
+msgstr ""
+
+#: inc/init.php:2113
+msgid "Insert your googleplay link"
+msgstr ""
+
+#: inc/init.php:2119
+msgid "Bigikala miracle"
+msgstr "معجزة Bigikala"
+
+#: inc/init.php:2126
+msgid "General Theme Style Settings"
+msgstr "إعدادات نمط التخصص العام"
+
+#: inc/init.php:2131
+msgid "Digikala, Amazon, Bamilo, Bigikala"
+msgstr "Digikala, Amazon, Bigimode, Bigikala"
+
+#: inc/init.php:2132
+msgid "Chose your template"
+msgstr "اختار القالب الخاص بك"
+
+#: inc/init.php:2136
+msgid "Amazon"
+msgstr ""
+
+#: inc/init.php:2137
+msgid "Digikala"
+msgstr "Digikala"
+
+#: inc/init.php:2139
+msgid "Bigimod"
+msgstr ""
+
+#: inc/init.php:2140
+msgid "Newbigi"
+msgstr ""
+
+#: inc/init.php:2150
+msgid "Dokan"
+msgstr "دكان"
+
+#: inc/init.php:2157
+msgid "Display Vendor Information"
+msgstr "عرض معلومات البائع"
+
+#: inc/init.php:2158
+msgid "Enable to show vendor information on single product page."
+msgstr "تمكين لعرض معلومات البائع على صفحة منتج واحدة."
+
+#: inc/init.php:2166
+msgid "External products"
+msgstr "المنتجات الخارجية"
+
+#: inc/init.php:2167
+msgid "Allow vendors to create external products."
+msgstr "تسمح الباعة لخلق منتجات؟"
+
+#: inc/init.php:2175
+msgid "Display Vendor Name In Cart"
+msgstr "عرض اسم البائع في سلة التسوق"
+
+#: inc/init.php:2176
+msgid "Enable to show vendor name on cart page for each product."
+msgstr "تمكين لعرض اسم البائع في صفحة سلة التسوق لكل منتج."
+
+#: inc/init.php:2184
+msgid "Display Product Features Section For Vendors"
+msgstr "قسم ميزات منتجات العرض للموردين"
+
+#: inc/init.php:2185
+msgid ""
+"Enable to show product main features section for vendors on submit products."
+msgstr "تمكين لعرض قسم ميزات المنتج الرئيسي للموردين عند إرسال المنتجات."
+
+#: inc/init.php:2193
+msgid "Display Customer Location On Map For Vendor"
+msgstr "عرض موقع العميل على خريطة للبائع"
+
+#: inc/init.php:2194
+msgid ""
+"Enable to show customer location on map for vendors on order details page."
+msgstr "تمكين عرض موقع العميل على الخريطة للبائعين في صفحة تفاصيل الطلب."
+
+#: inc/init.php:2203
+msgid "Custom JS/CSS"
+msgstr "كود CSS & JS مخصص"
+
+#: inc/init.php:2210
+msgid "Custom JS"
+msgstr "تخصيص JS"
+
+#: inc/init.php:2212
+msgid "Add some custom JavaScript to your theme by adding it to this textarea."
+msgstr "أضف بعض جافا سكريبت المخصصة إلى مظهرك عن طريق إضافته إلى هذا النص."
+
+#: inc/init.php:2218 inc/widgets/form.php:260
+msgid "Custom CSS"
+msgstr "مخصص CSS"
+
+#: inc/init.php:2219
+msgid "Add some custom CSS to your theme by adding it to this textarea."
+msgstr "أضف بعض CSS المخصص إلى مظهرك عن طريق إضافته إلى هذا النص."
+
+#: inc/init.php:2222
+msgid "Custom CSS for mobile"
+msgstr "CSS مخصص للجوال"
+
+#: inc/init.php:2223
+msgid "Paste your custom CSS code for mobile here."
+msgstr "الصق شفرة CSS المخصصة للجوّال هنا."
+
+#: inc/init.php:2232
+msgid "Tracking Code"
+msgstr "شيفرة التعقب"
+
+#: inc/init.php:2233
+msgid "Paste Google Analytics (or other) tracking code here with script tag."
+msgstr "لصق تحليلات Google (او غيرها) رمز التتبع هنا."
+
+#: inc/init.php:2238
+msgid "Google tags"
+msgstr ""
+
+#: inc/init.php:2239
+msgid "Put your codes here"
+msgstr ""
+
+#: woocommerce/archive-product.php:72 inc/woocommerce/archive-functions.php:87
+msgid "Display "
+msgstr "عرض"
+
+#: woocommerce/archive-product.php:76 inc/woocommerce/archive-functions.php:91
+msgid " Product Of "
+msgstr "منتج من"
+
+#: woocommerce/content-product.php:85 woocommerce/content-product.php:145
+#: inc/woocommerce/compare.php:91
+msgid "From "
+msgstr "از"
+
+#: woocommerce/content-product.php:85 woocommerce/content-single-product.php:89
+#: inc/woocommerce/compare.php:95
+msgid " Rate"
+msgstr "النسبة"
+
+#: woocommerce/content-product.php:95 woocommerce/single-product/related.php:95
+#: woocommerce/single-product/related.php:157
+#: woocommerce/single-product/price.php:33
+#: inc/str/templates/multicat_product_slider.php:42
+#: inc/str/templates/ajax_vc_products.php:26
+#: inc/str/templates/product_slider.php:44
+msgid "Coming soon"
+msgstr "سيأتي قريبًا!"
+
+#: woocommerce/content-product.php:118 woocommerce/content-product.php:120
+#: inc/woocommerce/single-functions.php:828
+#: inc/woocommerce/single-functions.php:830
+msgid "Update: "
+msgstr "تحديث :"
+
+#: woocommerce/content-product.php:130
+msgid "Out Of Stock "
+msgstr "خرج من المخزن"
+
+#: woocommerce/content-product.php:145
+msgid " Vote"
+msgstr "التصويت الآن!"
+
+#: woocommerce/content-product.php:152
+#: inc/woocommerce/single-functions.php:1003
+#: inc/woocommerce/single-functions.php:1188 woocommerce/cart/cart.php:86
+#: woocommerce/single-product/templates/boxed.php:112
+#: woocommerce/single-product/templates/bigi.php:77
+msgid "Sell By"
+msgstr "يباع"
+
+#: woocommerce/content-product.php:161
+#: woocommerce/single-product/templates/boxed.php:43
+#: woocommerce/single-product/templates/bigi.php:155
+#: woocommerce/single-product/add-to-cart/variable.php:81
+msgid "Product Features"
+msgstr "ميزات المُنتج"
+
+#: woocommerce/content-single-product.php:80
+#, php-format
+msgid "More than %s buyes recommend this product"
+msgstr ""
+
+#: woocommerce/content-single-product.php:89
+msgid "Out Of "
+msgstr "أكثر من"
+
+#: woocommerce/content-single-product.php:111
+#: woocommerce/content-single-product.php:118
+#: woocommerce/content-single-product.php:124
+#: woocommerce/content-single-product.php:131
+#: woocommerce/content-single-product.php:138
+msgid "facility"
+msgstr "تَسْهيل"
+
+#: inc/woocommerce/compare.php:101
+msgid "View and buy product"
+msgstr "عرض وشراء المنتج"
+
+#: inc/woocommerce/compare.php:156
+msgid "Click here for adding product to compare list"
+msgstr "انقر هنا لإضافة المنتج لقائمة المقارنة"
+
+#: inc/woocommerce/compare.php:161
+msgid "Add product to Comapre"
+msgstr "أضف منتج إلى Comapre"
+
+#: inc/woocommerce/compare.php:172 inc/woocommerce/single-functions.php:404
+msgid "Search"
+msgstr "بحث"
+
+#: inc/woocommerce/compare.php:176
+msgid "All brands"
+msgstr "جميع العلامات التجارية"
+
+#: inc/woocommerce/compare.php:275
+#: woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr "الوزن"
+
+#: inc/woocommerce/compare.php:293
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Dimensions"
+msgstr "الأبعاد"
+
+#: inc/woocommerce/compare.php:432
+msgid "There is no product to compare!"
+msgstr "لا يوجد منتج للمقارنة!"
+
+#: inc/woocommerce/compare.php:446
+msgid "Item"
+msgstr "العنصر"
+
+#: inc/woocommerce/compare.php:458
+msgid "Item )"
+msgstr "العنصر )"
+
+#: inc/woocommerce/compare.php:460
+msgid "Remove All"
+msgstr "إزالة الكل"
+
+#: inc/woocommerce/compare.php:523
+msgid "No product found!"
+msgstr "ليس هناك أي منتجات !"
+
+#: inc/woocommerce/woocommerce.php:28 inc/woocommerce/woocommerce.php:30
+#: inc/woocommerce/woocommerce.php:202 classes/wounder/wounder.php:256
+#: classes/wounder/wounder.php:277 classes/wounder/wounder.php:301
+#: classes/wounder/wounder.php:520 classes/wounder/wounder.php:560
+#: classes/wounder/inc/special-offers-items.php:16
+msgid "Discount"
+msgstr "الخصم"
+
+#: inc/woocommerce/woocommerce.php:240
+msgid "Up tp"
+msgstr " "
+
+#: inc/woocommerce/woocommerce.php:363
+msgid "Quantity: "
+msgstr "الكمية:"
+
+#: inc/woocommerce/woocommerce.php:437 inc/woocommerce/woocommerce.php:461
+msgid "Special sale"
+msgstr "بيع خاص"
+
+#: inc/woocommerce/woocommerce.php:454 inc/woocommerce/woocommerce.php:478
+msgid "Discount finished"
+msgstr "انتهى الخصم"
+
+#: inc/woocommerce/woocommerce.php:673
+msgid " items remain in stock"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:700
+msgid "Order points"
+msgstr ""
+
+#: inc/woocommerce/woocommerce.php:701
+msgid "Point"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77 inc/woocommerce/comments.php:318
+#: woocommerce/single-product/tabs/description.php:50
+msgid "Very bad"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77 inc/woocommerce/comments.php:321
+#: woocommerce/single-product/tabs/description.php:53
+msgid "Bad"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:67
+#: inc/woocommerce/comment_template.php:77
+#: inc/woocommerce/comment_template.php:83 inc/woocommerce/comments.php:324
+#: inc/woocommerce/comments.php:335 inc/woocommerce/comments.php:366
+#: woocommerce/single-product/tabs/description.php:56
+msgid "Mediocre"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77 inc/woocommerce/comments.php:327
+#: woocommerce/single-product/tabs/description.php:59
+msgid "Good"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:61
+#: inc/woocommerce/comment_template.php:77
+msgid "Very Good"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:94
+msgid "Submit comment"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:106
+#, php-format
+msgid ""
+"By choosing the \"Submit comment\" button, I agree to the <a href=\"%s\">"
+"content publishing rules</a> on the %s."
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:113
+msgid "Cancel and return"
+msgstr ""
+
+#: inc/woocommerce/comment_template.php:125
+msgid "You dont allow to access this page"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:34
+msgid "Do you have a better price? "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:39
+#: inc/woocommerce/single-functions.php:43
+#: inc/woocommerce/single-functions.php:48
+#: inc/woocommerce/single-functions.php:53
+#: inc/woocommerce/single-functions.php:252
+#: inc/woocommerce/single-functions.php:258
+#: inc/woocommerce/single-functions.php:1507
+#: inc/woocommerce/single-functions.php:1533
+#: inc/woocommerce/checkout-functions.php:634
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/woocommerce/single-functions.php:41
+#: inc/woocommerce/single-functions.php:45
+#: inc/woocommerce/single-functions.php:50
+#: inc/woocommerce/single-functions.php:55
+#: inc/woocommerce/single-functions.php:252
+#: inc/woocommerce/single-functions.php:258
+#: inc/woocommerce/single-functions.php:1509
+#: inc/woocommerce/single-functions.php:1535
+#: inc/woocommerce/checkout-functions.php:634
+msgid "No"
+msgstr "لا"
+
+#: inc/woocommerce/single-functions.php:69
+msgid "Report better price of this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:78
+msgid "At what price have you seen this product? "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:79
+msgid "like 35000"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:82
+msgid "I have seen it online"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:87
+#: inc/woocommerce/single-functions.php:219
+msgid "Shop url"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:92
+#: inc/woocommerce/single-functions.php:222
+msgid "Shop name"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:96
+msgid "Shop location"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:98
+msgid "Select state"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:104
+#: inc/woocommerce/single-functions.php:342
+msgid "Submit feedback"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:139
+msgid "Please Enter a valid price!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:153
+#: inc/woocommerce/single-functions.php:168
+#: inc/woocommerce/single-functions.php:183
+msgid "Thanks, Your feedback submited"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:155
+msgid "Please provide a valid shop url!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:170
+msgid "Please fill all fields!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:190
+msgid "Price feedback"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:203
+msgid "Variable id"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:207
+msgid "Intial price"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:210
+msgid "Appropriate?"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:213
+msgid "Better price"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:216
+msgid "Online shop?"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:225
+msgid "Shop state"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:274
+msgid "There is no price feedback for this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:283
+#: inc/woocommerce/single-functions.php:285
+#: inc/woocommerce/single-functions.php:288
+#: inc/woocommerce/single-functions.php:291
+#: inc/woocommerce/single-functions.php:304
+msgid "Response about this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:313
+msgid "Product title is wrong"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:317
+msgid "Product images are not appropriate"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:321
+msgid "Technical specifications are wrong"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:325
+msgid "Product description is wrong"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:329
+msgid "The product is a duplicate"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:334
+msgid "duplicated product url in "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:338
+#: inc/woocommerce/single-functions.php:339 woocommerce/order/tracking.php:50
+#: woocommerce/myaccount/view-order.php:44
+msgid "Description"
+msgstr "توصيف الضرر الانشائي"
+
+#: inc/woocommerce/single-functions.php:368
+msgid "Please check at laste on of items. click here and try again!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:384
+msgid "Your feedback submited!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:386
+msgid "Please click here and try again!"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:396
+msgid "responses"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:397
+msgid "response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:398
+#: inc/woocommerce/single-functions.php:400
+msgid "Add response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:399
+msgid "All responses"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:401
+msgid "Edit response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:402
+msgid "New response"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:405
+msgid "No response found"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:406
+msgid "No response found in trash"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:407
+msgid "Parent"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:443
+msgctxt "post status label"
+msgid "Resolved"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:445
+#, php-format
+msgid "Resolved <span class=\"count\">(%s)</span>"
+msgid_plural "Resolved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/woocommerce/single-functions.php:457
+msgid "Feedbacks"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:469
+#: inc/woocommerce/single-functions.php:524
+msgid "Product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:474
+msgid "Edit product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:480
+#: inc/woocommerce/single-functions.php:525
+msgid "Mistakes"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:487
+#: inc/woocommerce/single-functions.php:549
+msgid "Title, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:490
+#: inc/woocommerce/single-functions.php:552
+msgid "Images, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:493
+#: inc/woocommerce/single-functions.php:555
+msgid "Technical specifications, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:496
+#: inc/woocommerce/single-functions.php:558
+msgid "Description, "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:499
+#: inc/woocommerce/single-functions.php:561
+msgid "Duplicated"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:509
+msgid "Duplicated product url"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:592
+msgid "Brand:"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:599
+msgid "Alborz"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:600
+msgid "Ardebil"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:601
+msgid "Azarbijan sharghi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:602
+msgid "Azarbijan gharbi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:603
+msgid "Boshehr"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:604
+msgid "Charmahal bakhtiary"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:605
+msgid "Fars"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:606
+msgid "Gilan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:607
+msgid "Golestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:608
+msgid "Hamedan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:609
+msgid "Hormozgan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:610
+msgid "Ilam"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:611
+msgid "Esfehan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:612
+msgid "Kerman"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:613
+msgid "Kermanshah"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:614
+msgid "Khorasan shomali"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:615
+msgid "Khorasan razavi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:616
+msgid "Khorasan jonobi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:617
+msgid "Khozestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:618
+msgid "Kohkiloye boyerahmad"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:619
+msgid "Kordestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:620
+msgid "Lorestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:621
+msgid "Markazi"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:622
+msgid "Mazandaran"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:623
+msgid "Ghazvin"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:624
+msgid "Qom"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:625
+msgid "Semnan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:626
+msgid "Sistan balochestan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:627
+msgid "Tehran"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:628
+msgid "Yazd"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:629
+msgid "Zanjan"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:643
+#: inc/woocommerce/single-functions.php:2038
+msgid "Overall Review"
+msgstr "الاستعراض العام"
+
+#: inc/woocommerce/single-functions.php:647
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Specification"
+msgstr "مواصفات"
+
+#: inc/woocommerce/single-functions.php:651
+msgid "Users Reviews"
+msgstr "مراجعات المستخدمين"
+
+#: inc/woocommerce/single-functions.php:670
+msgid "Recently Viewed Products"
+msgstr "المنتجات التي شوهدت مؤخرا"
+
+#: inc/woocommerce/single-functions.php:734
+msgid "Price changes"
+msgstr "تغييرات أسعار"
+
+#: inc/woocommerce/single-functions.php:767
+#: inc/woocommerce/single-functions.php:1378
+#: inc/woocommerce/product-meta.php:313
+msgid " - Regular Price"
+msgstr "سعر عادي"
+
+#: inc/woocommerce/single-functions.php:774
+#: inc/woocommerce/single-functions.php:1399
+#: inc/woocommerce/product-meta.php:333
+msgid " - Sale Price"
+msgstr "سعر البيع"
+
+#: inc/woocommerce/single-functions.php:784
+#: inc/woocommerce/product-meta.php:293 inc/woocommerce/product-meta.php:306
+#: inc/woocommerce/product-meta.php:321 inc/woocommerce/product-meta.php:331
+#: inc/woocommerce/product-meta.php:341 inc/woocommerce/product-meta.php:351
+#: inc/str/vc_map.php:64 woocommerce/order/tracking.php:51
+#: woocommerce/myaccount/view-order.php:45
+msgid "Date"
+msgstr "التاريخ"
+
+#: inc/woocommerce/single-functions.php:785
+msgid "Price in end of day"
+msgstr "السعر في نهاية اليوم"
+
+#: inc/woocommerce/single-functions.php:968
+#: woocommerce/single-product/templates/boxed.php:78
+#: woocommerce/single-product/templates/bigi.php:44
+msgid "1 work day"
+msgstr "يوم عمل واحد"
+
+#: inc/woocommerce/single-functions.php:971
+#: woocommerce/single-product/templates/boxed.php:81
+#: woocommerce/single-product/templates/bigi.php:47
+msgid "1 to 2 work day"
+msgstr "1 إلى 2 يوم عمل"
+
+#: inc/woocommerce/single-functions.php:974
+#: woocommerce/single-product/templates/boxed.php:84
+#: woocommerce/single-product/templates/bigi.php:50
+msgid "1 to 3 work day"
+msgstr "1 إلى 3 يوم عمل"
+
+#: inc/woocommerce/single-functions.php:977
+#: woocommerce/single-product/templates/boxed.php:87
+#: woocommerce/single-product/templates/bigi.php:53
+msgid "3 to 5 work day"
+msgstr "3 إلى 5 يوم عمل"
+
+#: inc/woocommerce/single-functions.php:980
+#: woocommerce/single-product/templates/boxed.php:90
+#: woocommerce/single-product/templates/bigi.php:56
+msgid "1 to 2 work week"
+msgstr "1 إلى 2 أسبوع عمل"
+
+#: inc/woocommerce/single-functions.php:983
+#: woocommerce/single-product/templates/boxed.php:93
+#: woocommerce/single-product/templates/bigi.php:59
+msgid "2 to 3 work week"
+msgstr "2 إلى 3 أسبوع عمل"
+
+#: inc/woocommerce/single-functions.php:986
+#: woocommerce/single-product/templates/boxed.php:96
+#: woocommerce/single-product/templates/bigi.php:62
+msgid "3 to 4 work week"
+msgstr "3 إلى 4 أسبوع عمل"
+
+#: inc/woocommerce/single-functions.php:989
+#: woocommerce/single-product/templates/boxed.php:99
+#: woocommerce/single-product/templates/bigi.php:65
+msgid "4 to 6 work week"
+msgstr "من 4 إلى 6 أسابيع عمل"
+
+#: inc/woocommerce/single-functions.php:992
+#: woocommerce/single-product/templates/boxed.php:102
+#: woocommerce/single-product/templates/bigi.php:68
+msgid "6 to 8 work week"
+msgstr "من 6 إلى 8 أسابيع عمل"
+
+#: inc/woocommerce/single-functions.php:1007
+#: inc/woocommerce/single-functions.php:1022
+#: woocommerce/single-product/templates/boxed.php:116
+#: woocommerce/single-product/templates/boxed.php:131
+msgid "Performance: "
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1007
+#: inc/woocommerce/single-functions.php:1022
+#: woocommerce/single-product/templates/boxed.php:116
+#: woocommerce/single-product/templates/boxed.php:131
+msgid " from 5"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1010
+#: inc/woocommerce/single-functions.php:1059
+#: woocommerce/single-product/templates/boxed.php:119
+#: woocommerce/single-product/templates/boxed.php:168
+msgid " Product satisfaction"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1016
+#: inc/woocommerce/single-functions.php:1142
+#: inc/woocommerce/single-functions.php:1154
+#: woocommerce/single-product/templates/boxed.php:125
+#: woocommerce/single-product/templates/boxed.php:249
+#: woocommerce/single-product/templates/boxed.php:261
+msgid "Return"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1027
+#: woocommerce/single-product/templates/boxed.php:136
+msgid "Timely supply"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1033
+#: woocommerce/single-product/templates/boxed.php:142
+msgid "Posting commitment"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1039
+#: woocommerce/single-product/templates/boxed.php:148
+msgid "No return"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1063
+#: woocommerce/single-product/templates/boxed.php:172
+msgid "Full Satisfy"
+msgstr "إرضاء كامل"
+
+#: inc/woocommerce/single-functions.php:1075
+#: woocommerce/single-product/templates/boxed.php:184
+msgid "Satisfy"
+msgstr "تلبية"
+
+#: inc/woocommerce/single-functions.php:1085
+#: woocommerce/single-product/templates/boxed.php:194
+msgid "No Idea"
+msgstr "لا فكرة"
+
+#: inc/woocommerce/single-functions.php:1095
+#: woocommerce/single-product/templates/boxed.php:204
+msgid "Not Satisfy"
+msgstr "إرضاء كامل"
+
+#: inc/woocommerce/single-functions.php:1105
+#: woocommerce/single-product/templates/boxed.php:214
+msgid "Full Not Satisfy"
+msgstr "كامل غير راض"
+
+#: inc/woocommerce/single-functions.php:1137
+#: inc/woocommerce/single-functions.php:1143
+#: inc/woocommerce/single-functions.php:1207
+#: woocommerce/single-product/templates/boxed.php:244
+#: woocommerce/single-product/templates/boxed.php:250
+#: woocommerce/single-product/templates/bigi.php:96
+msgid "Ready to send"
+msgstr "جاهزة للإرسال ؟"
+
+#: inc/woocommerce/single-functions.php:1144
+#: inc/woocommerce/single-functions.php:1213
+#: woocommerce/single-product/templates/boxed.php:251
+#: woocommerce/single-product/templates/bigi.php:102
+msgid "This Product is in Stock & Ready to Deliver"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1149
+#: inc/woocommerce/single-functions.php:1218
+#: woocommerce/single-product/templates/boxed.php:256
+#: woocommerce/single-product/templates/bigi.php:107
+msgid "Ready to send from stock"
+msgstr "جاهز للإرسال من المخزون"
+
+#: inc/woocommerce/single-functions.php:1155
+#: inc/woocommerce/single-functions.php:1224
+#: woocommerce/single-product/templates/boxed.php:262
+#: woocommerce/single-product/templates/bigi.php:113
+msgid "This Product is in Stock. You Must Wait for Deliver"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1174
+#: woocommerce/single-product/templates/boxed.php:299
+#, php-format
+msgid "From %s by other sellers"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1174
+#: inc/woocommerce/single-functions.php:1176 classes/realtime/realtime.php:82
+#: woocommerce/single-product/templates/boxed.php:299
+#: woocommerce/single-product/templates/boxed.php:301
+msgid "View"
+msgstr "شاهد"
+
+#: inc/woocommerce/single-functions.php:1176
+#: woocommerce/single-product/templates/boxed.php:301
+msgid "Seller of this product"
+msgstr ""
+
+#: inc/woocommerce/single-functions.php:1193
+#: woocommerce/single-product/templates/bigi.php:82
+msgid "Purchase Satisfaction :"
+msgstr "رضاء الشراء:"
+
+#: inc/woocommerce/single-functions.php:1200
+#: woocommerce/single-product/templates/bigi.php:89
+msgid "Packing and shipping by"
+msgstr "التعبئة والشحن من قبل"
+
+#: inc/woocommerce/single-functions.php:1243
+msgid "<span>Please Enter Friend Email!</span>"
+msgstr "<span>من فضلك أدخل البريد الإلكتروني!</span>"
+
+#: inc/woocommerce/single-functions.php:1246
+msgid "<span>Please Enter Valid Email!</span>"
+msgstr "<span>الرجاء إدخال بريد إلكتروني صحيح!</span>"
+
+#: inc/woocommerce/single-functions.php:1249
+msgid "<span>Product is undefined!</span>"
+msgstr "<span>المنتج غير معروف!</span>"
+
+#: inc/woocommerce/single-functions.php:1261
+msgid ""
+"<span style=\"color:#328f36 !important;\">Email Send Successfully To Your "
+"Friend.</span>"
+msgstr ""
+"<span style=\"color:#328f36 !important;\">البريد الإلكتروني إرسال بنجاح "
+"لصديقك.</span>"
+
+#: inc/woocommerce/single-functions.php:1264
+msgid ""
+"<span>There is problem on sending email. Please contact administrator.</span>"
+msgstr ""
+"<span>هناك مشكلة في إرسال البريد الإلكتروني. يرجى الاتصال المسؤول.</span>"
+
+#: inc/woocommerce/single-functions.php:1329
+#: inc/woocommerce/product-meta.php:20
+msgid "Product Price Chart"
+msgstr "المنتج و مخطط السعر"
+
+#: inc/woocommerce/single-functions.php:1331
+msgid "For filter charts, click on each title."
+msgstr "لمخططات الترشيح ، انقر على كل عنوان."
+
+#: inc/woocommerce/single-functions.php:1409
+msgid "The range of price changes"
+msgstr "نطاق تغيرات السعر"
+
+#: inc/woocommerce/single-functions.php:1491
+msgid "Notify Me"
+msgstr "قم بإشعاري"
+
+#: inc/woocommerce/single-functions.php:1493
+msgid "Notify Me For:"
+msgstr "إبلاغي عن:"
+
+#: inc/woocommerce/single-functions.php:1497
+msgid "Special Offer"
+msgstr "عرض خاص"
+
+#: inc/woocommerce/single-functions.php:1523
+msgid "Increase Stock"
+msgstr "تمكين إعلام للسهم"
+
+#: inc/woocommerce/single-functions.php:1548
+msgid "By the:"
+msgstr " بفضل"
+
+#: inc/woocommerce/single-functions.php:1579
+msgid "SMS: "
+msgstr "رسالة قصيرة"
+
+#: inc/woocommerce/single-functions.php:1586
+msgid "Submit"
+msgstr "إرسال"
+
+#: inc/woocommerce/single-functions.php:1609
+#: inc/woocommerce/single-functions.php:1615
+#: inc/woocommerce/single-functions.php:1622
+#: inc/woocommerce/single-functions.php:1629
+msgid "Notify Me When In Stock"
+msgstr "يخطر لي عندما تكون في الأسهم"
+
+#: inc/woocommerce/single-functions.php:1682
+#: inc/woocommerce/single-functions.php:1735
+msgid "Product link: "
+msgstr "رابط الملف:"
+
+#: inc/woocommerce/single-functions.php:1768
+msgid "<span>Access Denied!</span>"
+msgstr "<span>تم الرفض!</span>"
+
+#: inc/woocommerce/single-functions.php:1771
+msgid "<span>Please Select An Event!</span>"
+msgstr "<span>يرجى اختيار حدث!</span>"
+
+#: inc/woocommerce/single-functions.php:1774
+msgid "<span>Please Select An Option!</span>"
+msgstr "<span>يرجى اختيار خيار!</span>"
+
+#: inc/woocommerce/single-functions.php:1782
+#: inc/woocommerce/single-functions.php:1790
+#: inc/woocommerce/single-functions.php:1798
+#: inc/woocommerce/single-functions.php:1807
+msgid "<span style=\"color:#328f36 !important;\">Notify Settings Saved.</span>"
+msgstr ""
+"<span style=\"color:#328f36 !important;\">أبلغ الإعدادات المحفوظة.</span>"
+
+#: inc/woocommerce/product-meta.php:17
+msgid "Other Titles"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:18
+msgid "Main Features"
+msgstr "الخصائص الرئيسية"
+
+#: inc/woocommerce/product-meta.php:22
+msgid "Coming soon product ?"
+msgstr "يطرح قريبا المنتج؟"
+
+#: inc/woocommerce/product-meta.php:23
+#: woocommerce/single-product/product-image.php:132
+msgid "Product video"
+msgstr "فيديو المنتج"
+
+#: inc/woocommerce/product-meta.php:55
+msgid "Without video"
+msgstr "بدون فيديو"
+
+#: inc/woocommerce/product-meta.php:56
+msgid "With direct link"
+msgstr "مع رابط مباشر"
+
+#: inc/woocommerce/product-meta.php:57
+msgid "With embedded code"
+msgstr "التعليمات البرمجية المضمنة"
+
+#: inc/woocommerce/product-meta.php:62
+msgid "Upload your Video here"
+msgstr "قم بتحميل الفيديو الخاص بك هنا"
+
+#: inc/woocommerce/product-meta.php:70
+msgid "Put your embedded code from other site, like aparat here"
+msgstr "ضع الشفرة المضمنة من موقع آخر ، مثل aparat هنا"
+
+#: inc/woocommerce/product-meta.php:105
+msgid "is coming soon product ?"
+msgstr "يطرح قريبا المنتج؟"
+
+#: inc/woocommerce/product-meta.php:129
+msgid "English title"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:134
+msgid "short title"
+msgstr ""
+
+#: inc/woocommerce/product-meta.php:236 inc/woocommerce/product-meta.php:246
+#: inc/woocommerce/comments.php:598 inc/woocommerce/comments.php:608
+#: inc/woocommerce/dokan.php:37 inc/woocommerce/dokan.php:52
+msgid "Value"
+msgstr "بائع"
+
+#: inc/woocommerce/product-meta.php:236 inc/woocommerce/product-meta.php:246
+#: inc/woocommerce/dokan.php:37
+msgid "Remove Feature"
+msgstr "إزالة ميزة"
+
+#: inc/woocommerce/product-meta.php:243 inc/woocommerce/dokan.php:44
+msgid "Add New Feature"
+msgstr "إضافة خاصية جديدة"
+
+#: inc/woocommerce/product-meta.php:293 inc/woocommerce/product-meta.php:321
+#: inc/woocommerce/product-meta.php:341
+msgid "Remove Price"
+msgstr "حذف السعر"
+
+#: inc/woocommerce/product-meta.php:293 inc/woocommerce/product-meta.php:306
+#: inc/woocommerce/product-meta.php:321 inc/woocommerce/product-meta.php:331
+#: inc/woocommerce/product-meta.php:341 inc/woocommerce/product-meta.php:351
+msgid "Price (En numbers)"
+msgstr "السعر (أرقام En)"
+
+#: inc/woocommerce/product-meta.php:301 inc/woocommerce/product-meta.php:328
+#: inc/woocommerce/product-meta.php:348
+msgid "Add New Price"
+msgstr "إضافة خطة سعر جديدة"
+
+#: inc/woocommerce/product-meta.php:306 inc/woocommerce/product-meta.php:331
+#: inc/woocommerce/product-meta.php:351
+msgid "Remove price"
+msgstr "حذف السعر"
+
+#: inc/woocommerce/comments.php:37
+msgid "Rating titles"
+msgstr ""
+
+#: inc/woocommerce/comments.php:52 inc/woocommerce/comments.php:61
+msgid "Remove comment"
+msgstr ""
+
+#: inc/woocommerce/comments.php:59 inc/woocommerce/comments.php:566
+#: inc/woocommerce/comments.php:583
+msgid "Add New item"
+msgstr ""
+
+#: inc/woocommerce/comments.php:91
+msgid "Comment title (required)"
+msgstr ""
+
+#: inc/woocommerce/comments.php:95 inc/woocommerce/comments.php:507
+#: inc/woocommerce/comments.php:555
+#: woocommerce/single-product/tabs/description.php:88
+msgid "Advantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:101 inc/woocommerce/comments.php:572
+msgid "Disadvantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:131
+msgid "Do you offer this product to your friends?"
+msgstr ""
+
+#: inc/woocommerce/comments.php:132
+msgid "I recommend this"
+msgstr ""
+
+#: inc/woocommerce/comments.php:133
+msgid "no ,I dont recommend this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:134
+msgid "I dont have no any idea"
+msgstr ""
+
+#: inc/woocommerce/comments.php:138
+msgid "Comment text"
+msgstr ""
+
+#: inc/woocommerce/comments.php:178
+msgid ""
+"Error: You did not add a comment_title. Hit the Back button on your Web "
+"browser and resubmit your comment with a comment_title."
+msgstr ""
+
+#: inc/woocommerce/comments.php:184
+msgid "Comment Metadata"
+msgstr ""
+
+#: inc/woocommerce/comments.php:190
+msgid "Comment Title"
+msgstr ""
+
+#: inc/woocommerce/comments.php:276
+msgid "User rates to:"
+msgstr ""
+
+#: inc/woocommerce/comments.php:277
+msgid " peopels"
+msgstr ""
+
+#: inc/woocommerce/comments.php:330
+#: woocommerce/single-product/tabs/description.php:62
+msgid "Very good"
+msgstr ""
+
+#: inc/woocommerce/comments.php:377
+msgid "You can add new comment, too"
+msgstr ""
+
+#: inc/woocommerce/comments.php:383 inc/woocommerce/comments.php:385
+#: inc/woocommerce/comments.php:388 inc/woocommerce/comments.php:390
+msgid "Add new comment"
+msgstr ""
+
+#: inc/woocommerce/comments.php:398
+msgid "User comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:400 inc/str/vc_map.php:48
+#: inc/str/vc_map.php:206 inc/str/vc_map.php:276 inc/str/vc_map.php:411
+#: inc/str/vc_map.php:601
+msgid "Sort by"
+msgstr "الترتيب بحسب"
+
+#: inc/woocommerce/comments.php:402
+msgid "Customer comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:403
+msgid "Useful comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:404
+msgid "Newer comments"
+msgstr ""
+
+#: inc/woocommerce/comments.php:441
+msgid "Buyer of this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:448
+msgid "Purchased colors:"
+msgstr ""
+
+#: inc/woocommerce/comments.php:467
+msgid "Bought from:"
+msgstr ""
+
+#: inc/woocommerce/comments.php:475
+msgid "I dont recommend this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:479 inc/woocommerce/comments.php:487
+msgid "I recommend this product"
+msgstr ""
+
+#: inc/woocommerce/comments.php:483
+msgid "I dont have any idea"
+msgstr ""
+
+#: inc/woocommerce/comments.php:500
+msgid "by "
+msgstr ""
+
+#: inc/woocommerce/comments.php:500
+msgid " in "
+msgstr ""
+
+#: inc/woocommerce/comments.php:517
+#: woocommerce/single-product/tabs/description.php:98
+msgid "Disdvantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:540
+msgid "Advantages & Disadvantages"
+msgstr ""
+
+#: inc/woocommerce/comments.php:559 inc/woocommerce/comments.php:569
+msgid "Remove advantage"
+msgstr ""
+
+#: inc/woocommerce/comments.php:576 inc/woocommerce/comments.php:586
+msgid "Remove disadvantage"
+msgstr ""
+
+#: inc/woocommerce/comments.php:593
+msgid "Admin rates"
+msgstr ""
+
+#: inc/woocommerce/comments.php:598 inc/woocommerce/comments.php:608
+msgid "Remove admin rate"
+msgstr ""
+
+#: inc/woocommerce/comments.php:605
+msgid "Add new admin rate"
+msgstr ""
+
+#: inc/woocommerce/comments.php:609
+msgid "The admin rate value should be between 1 and 5. 5 meaning very good"
+msgstr ""
+
+#: inc/woocommerce/dokan.php:22
+msgid "Main Feauters"
+msgstr "الخصائص الرئيسية"
+
+#: inc/woocommerce/dokan.php:23
+msgid "Manage main feauters for this product."
+msgstr "إدارة المخزون لهذا المنتج"
+
+#: inc/woocommerce/dokan.php:52
+msgid "Remove feature"
+msgstr "إزالة الميزة"
+
+#: inc/woocommerce/dokan.php:101 inc/woocommerce/checkout-functions.php:322
+#: inc/woocommerce/checkout-functions.php:340
+msgid "Customer location"
+msgstr "موقع العميل"
+
+#: inc/woocommerce/checkout-functions.php:26
+msgid "Please read terms & conditions and approve it."
+msgstr "يرجى قراءة الشروط والأحكام والموافقة عليها."
+
+#: inc/woocommerce/checkout-functions.php:124
+msgid "First name"
+msgstr "الاسم الأول"
+
+#: inc/woocommerce/checkout-functions.php:131
+msgid "Last name"
+msgstr "إسم العائلة"
+
+#: inc/woocommerce/checkout-functions.php:138
+msgid "Billing Email"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:146 inc/woocommerce/account.php:41
+msgid "Phone number"
+msgstr "رقم الهاتف"
+
+#: inc/woocommerce/checkout-functions.php:176
+msgid "Address"
+msgstr "العنوان"
+
+#: inc/woocommerce/checkout-functions.php:177
+msgid "Enter your address ..."
+msgstr "فضلاً قم بإدخال عنوانك الوطني كاملاً"
+
+#: inc/woocommerce/checkout-functions.php:193
+#: inc/woocommerce/checkout-functions.php:274 inc/woocommerce/account.php:47
+msgid "National code"
+msgstr "رمز وطني"
+
+#: inc/woocommerce/checkout-functions.php:200
+#: inc/woocommerce/checkout-functions.php:280 inc/woocommerce/account.php:53
+msgid "Bank card number"
+msgstr "رقم البطاقة"
+
+#: inc/woocommerce/checkout-functions.php:287
+msgid "Your Location"
+msgstr "موقعك"
+
+#: inc/woocommerce/checkout-functions.php:540
+msgid "Please enter a validate phone"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:557
+msgid "Wonder Discount:"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:634
+msgid "Invoicing"
+msgstr ""
+
+#: inc/woocommerce/checkout-functions.php:656
+msgid "Return to cart"
+msgstr ""
+
+#: inc/woocommerce/account.php:38
+msgid "Other informations"
+msgstr ""
+
+#: inc/woocommerce/account.php:168 inc/woocommerce/account.php:184
+msgid "Your comments"
+msgstr ""
+
+#: inc/woocommerce/account.php:169
+msgid "Your wishlist"
+msgstr ""
+
+#: inc/woocommerce/account.php:210 inc/woocommerce/account.php:328
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/woocommerce/account.php:211 inc/woocommerce/account.php:329
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/woocommerce/account.php:219
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/woocommerce/account.php:242
+msgid "My rate to product"
+msgstr ""
+
+#: inc/woocommerce/account.php:260
+msgid "Approved"
+msgstr ""
+
+#: inc/woocommerce/account.php:262
+msgid "Not approved"
+msgstr ""
+
+#: inc/woocommerce/account.php:264
+msgid "Spam"
+msgstr ""
+
+#: inc/woocommerce/account.php:266
+msgid "Pending approval"
+msgstr ""
+
+#: inc/woocommerce/account.php:280 woocommerce/myaccount/dashboard.php:142
+msgid "Your latest wishlist"
+msgstr ""
+
+#: inc/woocommerce/account.php:309
+msgid "View product"
+msgstr ""
+
+#: inc/woocommerce/account.php:337
+msgid "You dont have any product in your wishlist"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:227
+msgid "Cheapest"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:228
+msgid "The most expensive"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:229
+msgid "Newest"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:230
+msgid "Most promising"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:231
+msgid "Most Popular"
+msgstr ""
+
+#: inc/woocommerce/archive-functions.php:232
+msgid "Default"
+msgstr ""
+
+#: inc/str/breadcrumbs.php:183
+msgid "Blog"
+msgstr "مدونة"
+
+#: inc/str/breadcrumbs.php:188
+msgid "Page: "
+msgstr "الصفحة:"
+
+#: inc/str/breadcrumbs.php:193
+msgid "Search Result For: "
+msgstr "نتائج البحث عن:"
+
+#: inc/str/breadcrumbs.php:198
+msgid "Error 404"
+msgstr "خطأ 404"
+
+#: inc/str/functions.php:28
+msgid "Menu image"
+msgstr ""
+
+#: inc/str/functions.php:29
+msgid "Upload image"
+msgstr ""
+
+#: inc/str/functions.php:140
+msgid "<span>Please Enter Username!</span>"
+msgstr "<span>الرجاء إدخال اسم المستخدم!</span>"
+
+#: inc/str/functions.php:143
+msgid "<span>Please Enter Password!</span>"
+msgstr "<span>من فضلك أدخل كلمة المرور!</span>"
+
+#: inc/str/functions.php:152
+msgid "<span><strong>ERROR</strong>: Wrong username or password.</span>"
+msgstr "<span><strong>خطأ</strong> : اسم مستخدم أو كلمة مرور خاطئة.</span>"
+
+#: inc/str/functions.php:156
+msgid ""
+"<span style=\"color:#777 !important;\">Login successful, redirecting..."
+"</span>"
+msgstr ""
+"<span style=\"color:#777 !important;\">نجح تسجيل الدخول ، وإعادة التوجيه ..."
+"</span>"
+
+#: inc/str/vc_map.php:7
+msgid "Posts List widget"
+msgstr "قائمة الوظائف قائمة"
+
+#: inc/str/vc_map.php:9
+msgid "Show blog posts in list."
+msgstr "إظهار مشاركات المدونة في القائمة."
+
+#: inc/str/vc_map.php:11 inc/str/vc_map.php:168 inc/str/vc_map.php:238
+#: inc/str/vc_map.php:316 inc/str/vc_map.php:332 inc/str/vc_map.php:349
+#: inc/str/vc_map.php:368 inc/str/vc_map.php:454 inc/str/vc_map.php:487
+#: inc/str/vc_map.php:518 inc/str/vc_map.php:583 inc/str/vc_map.php:656
+#: inc/str/vc_map.php:693 inc/str/vc_map.php:718 inc/str/vc_map.php:741
+#: inc/str/vc_map.php:758
+msgid "bigikala Elements"
+msgstr "عناصر bigikala"
+
+#: inc/str/vc_map.php:24 inc/widgets/form.php:14
+msgid "Title URL"
+msgstr "عنوان الرابط"
+
+#: inc/str/vc_map.php:32 inc/str/vc_map.php:189 inc/str/vc_map.php:259
+msgid "Post numbers"
+msgstr "أرقام النشر"
+
+#: inc/str/vc_map.php:40 inc/widgets/form.php:152
+msgid "Offset"
+msgstr "الأوفست"
+
+#: inc/str/vc_map.php:51 inc/str/vc_map.php:209 inc/str/vc_map.php:279
+#: inc/str/vc_map.php:414 inc/str/vc_map.php:604
+msgid "DESC"
+msgstr "‏(تنازلي)"
+
+#: inc/str/vc_map.php:52 inc/str/vc_map.php:210 inc/str/vc_map.php:280
+#: inc/str/vc_map.php:415 inc/str/vc_map.php:605
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/str/vc_map.php:58 inc/str/vc_map.php:216 inc/str/vc_map.php:286
+#: inc/str/vc_map.php:399 inc/str/vc_map.php:589
+msgid "Order by"
+msgstr "الترتيب حسب"
+
+#: inc/str/vc_map.php:61
+msgid "ID"
+msgstr "ID"
+
+#: inc/str/vc_map.php:62
+msgid "Author"
+msgstr "واضع الوثيقة"
+
+#: inc/str/vc_map.php:65
+msgid "Modified"
+msgstr "أدرج"
+
+#: inc/str/vc_map.php:66 inc/str/vc_map.php:220 inc/str/vc_map.php:290
+#: inc/str/vc_map.php:405 inc/str/vc_map.php:595
+msgid "Random"
+msgstr "عشوائى"
+
+#: inc/str/vc_map.php:67
+msgid "Comment Count"
+msgstr "تعليق العد"
+
+#: inc/str/vc_map.php:68
+msgid "Menu Order"
+msgstr "ترتيب القائمة"
+
+#: inc/str/vc_map.php:74 inc/str/vc_map.php:197 inc/str/vc_map.php:267
+#: inc/str/vc_map.php:375 inc/str/vc_map.php:459 inc/str/vc_map.php:525
+#: inc/str/vc_map.php:611 inc/str/vc_map.php:672
+msgid "Category"
+msgstr "قسم"
+
+#: inc/str/vc_map.php:83
+msgid "Show excerpt"
+msgstr "عرض مقتطف"
+
+#: inc/str/vc_map.php:91
+msgid "Excerpt length"
+msgstr "طول مقتطف"
+
+#: inc/str/vc_map.php:99
+msgid "Show date"
+msgstr "إظهار التاريخ"
+
+#: inc/str/vc_map.php:107
+msgid "Use Relative Date"
+msgstr "التاريخ النسبي"
+
+#: inc/str/vc_map.php:115 inc/widgets/form.php:221
+msgid "Display Comment Count"
+msgstr "عرض تعليق العد"
+
+#: inc/str/vc_map.php:123 inc/widgets/form.php:207
+msgid "Display Readmore"
+msgstr "عرض Readmore"
+
+#: inc/str/vc_map.php:131
+msgid "Readmore text"
+msgstr "اقرأ النص"
+
+#: inc/str/vc_map.php:139
+msgid "More title"
+msgstr "مزيد من العنوان"
+
+#: inc/str/vc_map.php:147
+msgid "More URL"
+msgstr "أكثر URL"
+
+#: inc/str/vc_map.php:164
+msgid "Posts carousel"
+msgstr "مقالات كاروسيل"
+
+#: inc/str/vc_map.php:166
+msgid "Show blog posts in carousel."
+msgstr "مدونة المشاركات كاروسل"
+
+#: inc/str/vc_map.php:181 inc/str/vc_map.php:251
+msgid "Archive link"
+msgstr "رابط أرشيف الإستطلاع"
+
+#: inc/str/vc_map.php:219 inc/str/vc_map.php:289 inc/str/vc_map.php:402
+#: inc/str/vc_map.php:592
+msgid "Most recent"
+msgstr "الأحدث"
+
+#: inc/str/vc_map.php:234
+msgid "Posts"
+msgstr "مقالات"
+
+#: inc/str/vc_map.php:236
+msgid "Show blog posts."
+msgstr "وتظهر في بلوق وظيفة"
+
+#: inc/str/vc_map.php:296
+msgid "Show pagination"
+msgstr "عرض ترقيم الصفحات"
+
+#: inc/str/vc_map.php:310
+msgid "bigikala slider"
+msgstr "منزلق bigikala"
+
+#: inc/str/vc_map.php:312
+msgid "Add products slider to your page."
+msgstr "إضافة شريط التمرير المنتجات إلى صفحتك."
+
+#: inc/str/vc_map.php:318 inc/str/vc_map.php:351 inc/str/vc_map.php:370
+#: inc/str/vc_map.php:456 inc/str/vc_map.php:489 inc/str/vc_map.php:520
+#: inc/str/vc_map.php:585 inc/str/vc_map.php:660 inc/str/vc_map.php:695
+#: inc/str/vc_map.php:720
+msgid "Section title"
+msgstr "عنوان القسم"
+
+#: inc/str/vc_map.php:326
+msgid "bigikala SVG Icons Products"
+msgstr "bigikala SVG Icons المنتجات"
+
+#: inc/str/vc_map.php:328
+msgid "Add SVG Icons products to your page."
+msgstr "أضف منتجات SVG Icons إلى صفحتك."
+
+#: inc/str/vc_map.php:334
+msgid "Section title, Other Options Setting in Themes Setting"
+msgstr "عنوان القسم ، خيارات أخرى الإعداد في إعداد السمات"
+
+#: inc/str/vc_map.php:343
+msgid "bigikala Brand Carousel"
+msgstr "bigikala العلامة التجارية كاروسيل"
+
+#: inc/str/vc_map.php:345
+msgid "Add brand carousel to your page"
+msgstr "أضف علامة تجارية للعلامة إلى صفحتك"
+
+#: inc/str/vc_map.php:351
+#, php-format
+msgid "Add brands from <a href=\"%s\" target=\"_blank\">theme settings</a>"
+msgstr ""
+"أضف علامات تجارية من <a href=\"%s\" target=\"_blank\">إعدادات السمة</a>"
+
+#: inc/str/vc_map.php:362
+msgid "bigikala Products Carousel"
+msgstr "bigikala العلامة التجارية كاروسيل"
+
+#: inc/str/vc_map.php:364
+msgid "Add products carousel to your page."
+msgstr "أضف منتجات دائري إلى صفحتك."
+
+#: inc/str/vc_map.php:371 inc/str/vc_map.php:521 inc/str/vc_map.php:586
+msgid "Number of products to display"
+msgstr "عدد  المنتجات للعرض"
+
+#: inc/str/vc_map.php:372 inc/str/vc_map.php:522
+msgid "Enter Category Slug"
+msgstr "ادخل اسم التصنيف"
+
+#: inc/str/vc_map.php:372 inc/str/vc_map.php:522
+msgid ""
+"Just desplay products from one category (For display products from all "
+"categories left empty)"
+msgstr ""
+
+#: inc/str/vc_map.php:384 inc/str/vc_map.php:534
+msgid "Background image:"
+msgstr ""
+
+#: inc/str/vc_map.php:387 inc/str/vc_map.php:495 inc/str/vc_map.php:537
+msgid "Upload the custom image for background."
+msgstr ""
+
+#: inc/str/vc_map.php:392 inc/str/vc_map.php:542
+msgid "Background color"
+msgstr ""
+
+#: inc/str/vc_map.php:395 inc/str/vc_map.php:503 inc/str/vc_map.php:545
+msgid "Choose your background color."
+msgstr ""
+
+#: inc/str/vc_map.php:403 inc/str/vc_map.php:593
+msgid "Best seller"
+msgstr "الأكثر مبيعًا"
+
+#: inc/str/vc_map.php:404 inc/str/vc_map.php:594
+msgid "Most rated"
+msgstr "الاكثر تقييماً"
+
+#: inc/str/vc_map.php:421 inc/str/vc_map.php:549 inc/str/vc_map.php:628
+msgid "Just Show instock products"
+msgstr ""
+
+#: inc/str/vc_map.php:429 inc/str/vc_map.php:468 inc/str/vc_map.php:557
+#: inc/str/vc_map.php:636
+msgid "Dont show coming soon products"
+msgstr ""
+
+#: inc/str/vc_map.php:438 inc/str/vc_map.php:566
+msgid "Show Category Link (Only When Use Category Slug)"
+msgstr "إظهار ارتباط الفئة (فقط عند استخدام تصنيف الفئة)"
+
+#: inc/str/vc_map.php:448
+msgid "bigikala Real Time Offers"
+msgstr "عروض bigikala في الوقت الحقيقي"
+
+#: inc/str/vc_map.php:450
+msgid "Add products realtime to your page."
+msgstr "أضف منتجات في الوقت الفعلي إلى صفحتك."
+
+#: inc/str/vc_map.php:461
+msgid "For get all products leave empty"
+msgstr ""
+
+#: inc/str/vc_map.php:481
+msgid "bigikala WonderSlider Offers"
+msgstr "bigikala أفضل بيع المنتجات"
+
+#: inc/str/vc_map.php:483
+msgid "Add products wonderslider to your page."
+msgstr "إضافة أفضل المنتجات مبيعا لصفحتك."
+
+#: inc/str/vc_map.php:492
+msgid "Adoptive Background image:"
+msgstr ""
+
+#: inc/str/vc_map.php:500
+msgid "Adoptive Background color"
+msgstr ""
+
+#: inc/str/vc_map.php:512
+msgid "bigikala Best Selling Products"
+msgstr "bigikala أفضل بيع المنتجات"
+
+#: inc/str/vc_map.php:514
+msgid "Add best selling products to your page."
+msgstr "إضافة أفضل المنتجات مبيعا لصفحتك."
+
+#: inc/str/vc_map.php:577
+msgid "bigikala Multi category Products"
+msgstr "bigikala متعدد الفئات المنتجات"
+
+#: inc/str/vc_map.php:579
+msgid "Add Ajax multi category products to your page."
+msgstr "أضف منتجات Ajax متعددة الفئات إلى صفحتك."
+
+#: inc/str/vc_map.php:620
+msgid "Just show discounted products"
+msgstr "مجرد عرض منتجات مخفضة"
+
+#: inc/str/vc_map.php:650
+msgid "bigikala category list widget"
+msgstr ""
+
+#: inc/str/vc_map.php:652
+msgid "Add a list of categories to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:665
+msgid "Upload Image Category:"
+msgstr ""
+
+#: inc/str/vc_map.php:668
+msgid "Upload the custom image category."
+msgstr ""
+
+#: inc/str/vc_map.php:674
+msgid "Select main category"
+msgstr ""
+
+#: inc/str/vc_map.php:687
+msgid "bigikala Product categories"
+msgstr "bigikala فئات المنتجات"
+
+#: inc/str/vc_map.php:689
+msgid "Add product categories to your page."
+msgstr "أضف فئات منتجات لصفحتك."
+
+#: inc/str/vc_map.php:698
+msgid "Categories"
+msgstr "الاقسام"
+
+#: inc/str/vc_map.php:712
+msgid "Wonder slider button"
+msgstr ""
+
+#: inc/str/vc_map.php:714
+msgid "Add Wonder slider button to your page."
+msgstr ""
+
+#: inc/str/vc_map.php:734
+msgid "icons"
+msgstr ""
+
+#: inc/str/vc_map.php:737
+msgid "Show group of icons."
+msgstr ""
+
+#: inc/str/vc_map.php:753
+msgid "icons item"
+msgstr ""
+
+#: inc/str/vc_map.php:755
+msgid "create icon item."
+msgstr ""
+
+#: inc/str/vc_map.php:772
+msgid "Subtitle"
+msgstr ""
+
+#: inc/str/vc_map.php:780
+msgid "Link"
+msgstr ""
+
+#: inc/str/vc_map.php:788
+msgid "Upload icon image:"
+msgstr ""
+
+#: inc/str/vc_map.php:791
+msgid "Upload the custom image for icon."
+msgstr ""
+
+#: inc/str/shortcodes.php:74 inc/str/shortcodes.php:190
+#: inc/str/templates/product_slider.php:19
+msgid "Show More"
+msgstr "عرض المزيد"
+
+#: inc/str/shortcodes.php:111 inc/str/shortcodes.php:240
+msgid "Sorry! No posts found."
+msgstr "اسف، لا توجد مقالات."
+
+#: inc/str/shortcodes.php:373 inc/str/shortcodes.php:455
+#: inc/str/templates/multicat_product_slider.php:66
+#: inc/str/templates/ajax_vc_products.php:50
+msgid "There Is No Product To Show."
+msgstr "لا يوجد منتج للعرض."
+
+#: inc/str/shortcodes.php:671
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/str/shortcodes.php:707 inc/str/shortcodes.php:709
+#: classes/wounder/wounder.php:420 classes/wounder/wounder.php:422
+msgid "veiw all Special Offers"
+msgstr "جميع العروض الخاصة"
+
+#: inc/widgets/attr-filter.php:28
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: inc/widgets/attr-filter.php:30
+msgid "Filter Products by Attribute"
+msgstr ""
+
+#: inc/widgets/attr-filter.php:111
+msgid "Open?"
+msgstr ""
+
+#: inc/widgets/blog-posts.php:22
+msgid ""
+"An advanced widget that gives you total control over the output of your "
+"site’s most recent Posts."
+msgstr "أداة متقدمة تمنحك تحكمًا كاملاً في مخرجات آخر مشاركات موقعك."
+
+#. $this->id_base
+#: inc/widgets/blog-posts.php:34
+msgid "Recent Posts Extended"
+msgstr "المشاركات الأخيرة الموسعة"
+
+#. Widget name will appear in UI
+#: inc/widgets/instock-widget.php:27
+msgid "Instock Product"
+msgstr "Instock المنتج"
+
+#: inc/widgets/instock-widget.php:32
+msgid "Checkbox for instock product filter"
+msgstr "خانة اختيار لفلتر المنتج instock"
+
+#: inc/widgets/instock-widget.php:52
+msgid "Only instock products"
+msgstr "المنتجات الموجودة في المخزن"
+
+#: inc/widgets/functions.php:44
+msgid "Read More &raquo;"
+msgstr "إقرأ المزيد »"
+
+#: inc/widgets/functions.php:163
+#, php-format
+msgid "Permalink to %s"
+msgstr "تثبيت الرابط إلى %s"
+
+#: inc/widgets/functions.php:168 inc/widgets/functions.php:174
+#, php-format
+msgid "%s ago"
+msgstr "%s مضت"
+
+#: inc/widgets/functions.php:181
+msgid "No Comments"
+msgstr "لا يوجد تعليقات"
+
+#: inc/widgets/functions.php:183
+#, php-format
+msgid "%s Comments"
+msgstr "تعليقات %s"
+
+#: inc/widgets/functions.php:185
+msgid "1 Comment"
+msgstr "1 تعليقات"
+
+#: inc/widgets/functions.php:207
+msgid "No posts found!"
+msgstr ""
+
+#: inc/widgets/form.php:21
+msgid "CSS ID"
+msgstr "CSS Id"
+
+#: inc/widgets/form.php:28
+msgid "CSS Class"
+msgstr "صنف CSS"
+
+#: inc/widgets/form.php:35
+msgid "HTML or text before the recent posts"
+msgstr "HTML أو النص قبل المشاركات الأخيرة"
+
+#: inc/widgets/form.php:42
+msgid "HTML or text after the recent posts"
+msgstr "HTML أو النص بعد المشاركات الأخيرة"
+
+#: inc/widgets/form.php:54
+msgid "Ignore sticky posts"
+msgstr "HTML أو النص بعد المشاركات الأخيرة"
+
+#: inc/widgets/form.php:61
+msgid "Exclude current post"
+msgstr "استبعاد المشاركة الحالية"
+
+#: inc/widgets/form.php:67
+msgid "Post Types"
+msgstr "أنواع المواضيع"
+
+#: inc/widgets/form.php:83
+msgid "Order"
+msgstr "ترتيب القائمة"
+
+#: inc/widgets/form.php:93
+msgid "Orderby"
+msgstr "ترتيب حسب"
+
+#: inc/widgets/form.php:109
+msgid "Limit to Category"
+msgstr "حَدّ للفئة"
+
+#: inc/widgets/form.php:125
+msgid "Limit to Tag"
+msgstr "حد لعلامة"
+
+#: inc/widgets/form.php:145
+msgid "Number of posts to show"
+msgstr "عدد المشاركات"
+
+#: inc/widgets/form.php:155
+msgid "The number of posts to skip"
+msgstr "عدد المشاركات لتخطي"
+
+#: inc/widgets/form.php:163
+msgid "Display Thumbnail"
+msgstr "عرض صورة مصغرة"
+
+#: inc/widgets/form.php:169
+msgid "Thumbnail (height,width,align)"
+msgstr "صورة مصغرة (الارتفاع والعرض والمحاذاة)"
+
+#: inc/widgets/form.php:174
+msgid "Left"
+msgstr "يسار"
+
+#: inc/widgets/form.php:175
+msgid "Right"
+msgstr "يسار"
+
+#: inc/widgets/form.php:176
+msgid "Center"
+msgstr "وسط"
+
+#: inc/widgets/form.php:182
+msgid "Default Thumbnail"
+msgstr "الصورة المصغرة الافتراضية"
+
+#: inc/widgets/form.php:185
+msgid "Leave it blank to disable."
+msgstr "اتركه فارغًا لتعطيله."
+
+#: inc/widgets/form.php:193
+msgid "Display Excerpt"
+msgstr "عرض مقتطف"
+
+#: inc/widgets/form.php:199
+msgid "Excerpt Length"
+msgstr "الطول المقتبس"
+
+#: inc/widgets/form.php:213
+msgid "Readmore Text"
+msgstr "اقرأ النص"
+
+#: inc/widgets/form.php:228
+msgid "Display Date"
+msgstr "عرض التاريخ"
+
+#: inc/widgets/form.php:235
+msgid "Display Modification Date"
+msgstr "عرض تاريخ التعديل"
+
+#: inc/widgets/form.php:242
+msgid "Use Relative Date. eg: 5 days ago"
+msgstr "استخدم التاريخ النسبي. على سبيل المثال: قبل 5 أيام"
+
+#: inc/widgets/form.php:254
+msgid "Use Default Styles"
+msgstr "استخدم الأنماط الافتراضية"
+
+#: inc/widgets/form.php:263
+msgid ""
+"If you turn off the default styles, you can use these css code to customize "
+"the recent posts style."
+msgstr ""
+"إذا قمت بإيقاف الأنماط الافتراضية ، يمكنك استخدام هذه التعليمات البرمجية css "
+"لتخصيص نمط المشاركات الأخيرة."
+
+#: classes/realtime/realtime.php:59
+msgid "Realtime offer"
+msgstr "عرض الوقت الفعلي"
+
+#: classes/realtime/realtime.php:90
+msgid "Nothing found!"
+msgstr ""
+
+#: classes/wounder/wounder.php:326
+msgid "special offers"
+msgstr "عروض خاصة"
+
+#: classes/wounder/wounder.php:434 classes/wounder/inc/adaptive-slider.php:124
+msgid "No wonderful products found."
+msgstr "لم يتم العثور على منتجات رائعة."
+
+#: woocommerce/cart/cart-totals.php:29 woocommerce/checkout/review-order.php:24
+msgid "Your Order Total Price"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29 woocommerce/checkout/review-order.php:24
+msgid " Item"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35 woocommerce/checkout/review-order.php:30
+msgid "Your profit"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:36 woocommerce/checkout/review-order.php:31
+msgid "profit"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:104
+msgid "Total cost"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:117
+msgid ""
+"The goods in your cart are not registered and booked, complete the next "
+"steps to place an order."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:28
+msgid " Items"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:31
+msgid "Shipping Subtotal"
+msgstr "الشحن المجموع الفرعي"
+
+#: woocommerce/cart/mini-cart.php:34
+msgid "Show cart"
+msgstr "اعرض سلة المشتريات"
+
+#: woocommerce/cart/mini-cart.php:72
+msgid " qty"
+msgstr "الكمية"
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "Chechout"
+msgstr "Chechout"
+
+#: woocommerce/cart/cart-empty.php:41
+msgid "You can go to the following pages to see more products"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sortby: "
+msgstr "ترتيب حسب:"
+
+#: woocommerce/order/tracking.php:49 woocommerce/myaccount/view-order.php:43
+msgid "#Num"
+msgstr "#الرقم"
+
+#: woocommerce/order/order-details.php:40
+msgid "Your order detailes"
+msgstr "طلبك بالتفصيل"
+
+#: woocommerce/order/order-downloads.php:26
+msgid "Your Downloads"
+msgstr "التنزيلات الخاصة بك"
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:107
+#: woocommerce/myaccount/form-login.php:107
+msgid "Register On Site"
+msgstr "تسجيل على الموقع"
+
+#: woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:146
+msgid "Enter your username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Enter your email"
+msgstr "أدخل بريدك الإلكتروني"
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "Terms & Conditions "
+msgstr "الشروط والأحكام"
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "I have read and accept."
+msgstr "قرأت وأوافق"
+
+#: woocommerce/myaccount/form-login.php:121
+msgid "I Am Registered Before?"
+msgstr "أنا مسجل قبل؟"
+
+#: woocommerce/myaccount/form-login.php:135
+msgid "Login to Site"
+msgstr "دخول إلى الموقع"
+
+#: woocommerce/myaccount/form-login.php:185
+msgid "Reset password"
+msgstr "تجديد كلمة السر"
+
+#: woocommerce/myaccount/my-address.php:78
+msgid "Thanks to help us for better services by set your location on map"
+msgstr ""
+"شكرًا لمساعدتنا في الحصول على خدمات أفضل من خلال تعيين موقعك على الخريطة"
+
+#: woocommerce/myaccount/my-address.php:80
+msgid "For better services, set your location on map"
+msgstr " "
+
+#: woocommerce/myaccount/my-address.php:89
+#: woocommerce/myaccount/my-address.php:138
+#: woocommerce/myaccount/dashboard.php:135
+msgid "Edit Address"
+msgstr "تحرير عناوين البريد الإلكتروني"
+
+#: woocommerce/myaccount/my-address.php:98
+#: woocommerce/myaccount/dashboard.php:80
+msgid "State: "
+msgstr "المحافظة :"
+
+#: woocommerce/myaccount/my-address.php:105
+#: woocommerce/myaccount/dashboard.php:114
+msgid "Postal Code: "
+msgstr "الرمز البريدي:"
+
+#: woocommerce/myaccount/my-address.php:110
+#: woocommerce/myaccount/dashboard.php:66
+msgid "Mobile: "
+msgstr "الموبايل :"
+
+#: woocommerce/myaccount/my-address.php:116
+#: woocommerce/myaccount/dashboard.php:97
+msgid "City: "
+msgstr "المدينة:"
+
+#: woocommerce/myaccount/orders.php:29
+msgid "Your Orders"
+msgstr "طلباتك"
+
+#: woocommerce/myaccount/dashboard.php:47
+msgid "User Information"
+msgstr "معلومات المستخدم"
+
+#: woocommerce/myaccount/dashboard.php:54
+msgid "Full Name: "
+msgstr "الاسم:"
+
+#: woocommerce/myaccount/dashboard.php:72
+msgid "Register Time: "
+msgstr "وقت التسجيل:"
+
+#: woocommerce/myaccount/dashboard.php:120
+msgid "Address: "
+msgstr "العنوان"
+
+#: woocommerce/myaccount/dashboard.php:132
+msgid "Edit Account"
+msgstr "تعديل الحساب"
+
+#: woocommerce/myaccount/dashboard.php:165
+msgid "View and edit your wishlist"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:179
+msgid "Latest orders"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:237
+msgid "View orders list"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:41
+msgid "Change Password"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:42
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:46
+msgid "Your Profile Acount"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:61
+msgid "Change profile picture"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Add to wishlist"
+msgstr "أضيف لقائمة إهتماماتى"
+
+#: woocommerce/single-product/product-image.php:66
+#: woocommerce/single-product/product-image.php:191
+msgid "Share"
+msgstr "شارك"
+
+#: woocommerce/single-product/product-image.php:83
+msgid "Notify me"
+msgstr "أبلغني"
+
+#: woocommerce/single-product/product-image.php:121
+msgid "Price change"
+msgstr "تغيير السعر"
+
+#: woocommerce/single-product/product-image.php:188
+msgid "Sharing"
+msgstr "النشر"
+
+#: woocommerce/single-product/product-image.php:194
+msgid "Share On Facebook"
+msgstr "شارك على الفيسبوك"
+
+#: woocommerce/single-product/product-image.php:197
+msgid "Share On Twitter"
+msgstr "شارك على Twitter"
+
+#: woocommerce/single-product/product-image.php:200
+msgid "Share On Linkedin"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:200
+msgid "Linkedin"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:203
+msgid "Share On Telegram"
+msgstr "شارك على Telegram"
+
+#: woocommerce/single-product/product-image.php:206
+msgid "Share On Whatsapp"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:212
+msgid "Page Address"
+msgstr "عنوان الصفحة"
+
+#: woocommerce/single-product/product-image.php:218
+msgid "Send To A Friend"
+msgstr "ارسل الى صديق"
+
+#: woocommerce/single-product/product-image.php:219
+msgid "Your Friend Email"
+msgstr "صديقك البريد الإلكتروني"
+
+#: woocommerce/single-product/product-image.php:229
+msgid "Send"
+msgstr "إرسال"
+
+#: woocommerce/single-product/stock.php:24
+#: woocommerce/single-product/add-to-cart/simple.php:86
+msgid "Sorry, This product is out of stock now."
+msgstr "عذرًا ، هذا المنتج غير متوفر الآن."
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like this products"
+msgstr "قد ترغب أيضا هذه المنتجات"
+
+#: woocommerce/checkout/ordered-products.php:12
+msgid ""
+"<i class=\"icon icon-caret-left-blue\" style=\"margin-left: 10px\"></i> "
+"would you like to take invoice with this order?"
+msgstr ""
+
+#: woocommerce/checkout/ordered-products.php:18
+#: woocommerce/checkout/thankyou.php:87
+msgid "Shipping List"
+msgstr ""
+
+#: woocommerce/checkout/ordered-products.php:19
+#: woocommerce/checkout/thankyou.php:89
+msgid "Products shipped in this procurement :"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:77
+msgid "You saved"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:119
+msgid "Return to home"
+msgstr ""
+
+#: woocommerce/checkout/login-required.php:4
+msgid "Do you member of this site?"
+msgstr ""
+
+#: woocommerce/checkout/login-required.php:18
+msgid "Dont Have any Account?"
+msgstr ""
+
+#: woocommerce/checkout/login-required.php:19
+msgid "Regester"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:53
+msgid "Sipping cost"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:54
+msgid "Shipping cost"
+msgstr ""
+
+#: inc/str/templates/multicat_product_slider.php:45
+#: inc/str/templates/ajax_vc_products.php:29
+#: inc/str/templates/product_slider.php:47
+msgid "Out of stock"
+msgstr "خرج من المخزن"
+
+#: inc/str/templates/news.php:7
+msgid "Show More News"
+msgstr "عرض المزيد من المقالات"
+
+#: inc/str/templates/brand_slider.php:19
+msgid "There Is No Brands To Show."
+msgstr "ليس هناك علامات تجارية للعرض."
+
+#: classes/menu/views/bkm-menu.php:140
+msgid "All categories of "
+msgstr ""
+
+#: classes/wounder/inc/special-offers-items.php:35
+msgid "view and buy the product"
+msgstr "عرض وشراء المنتج"
+
+#: classes/wounder/inc/adaptive-slider.php:28
+msgid "Hour"
+msgstr "ساعة"
+
+#: classes/wounder/inc/adaptive-slider.php:30
+msgid "Min"
+msgstr "الدقيقة"
+
+#: classes/wounder/inc/adaptive-slider.php:100
+#: classes/wounder/inc/adaptive-slider.php:102
+msgid "view all the special offers"
+msgstr "عرض جميع العروض الخاصة"
+
+#: woocommerce/single-product/templates/bigi.php:150
+msgid "Other vendor"
+msgstr "بائع آخر"
+
+#: woocommerce/single-product/tabs/description.php:29
+msgid "Product Short Description"
+msgstr "وصف قصير للمنتج"
+
+#: woocommerce/single-product/add-to-cart/variation.php:26
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "عذرا، هذا المنتج غير متوفر."
+
+#. Name of the theme
+msgid "Bigikala Theme"
+msgstr ""
+
+#. Description of the theme
+msgid "فروشگاهی فوق پیشرفته جهت تجارت الکترونیک به صورت حرفه ای"
+msgstr "فروشگاهی فوق پیشرفته جهت تجارت الکترونیک به صورت حرفه ای"
+
+#. URI of the theme
+msgid "https://buy.iprocode.com/product/bigikala-woocommerce-wordpress-theme"
+msgstr ""
+
+#. Author of the theme
+msgid "Design Core™ / YouOne"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://iprocode.com/"
+msgstr ""

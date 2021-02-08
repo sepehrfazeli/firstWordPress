@@ -1,0 +1,20 @@
+* {
+     direction: ltr !important;
+}
+ #yith-s {
+     direction: ltr !important;
+     padding-left: 15px;
+}
+ .c-header__user-dropdown-action {
+     padding-left: 50px;
+     padding-right: 0;
+     text-align: left;
+}
+ .c-header__user-dropdown-action .user-menu, .c-header__user-dropdown-action .orders-menu {
+     left: 20px;
+     right:auto;
+}
+ .c-header__user-dropdown-action .icon-love {
+     left: 32px;
+     right:auto;
+}
